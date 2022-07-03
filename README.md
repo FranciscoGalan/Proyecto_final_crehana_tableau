@@ -7,7 +7,7 @@ Para generar una base de datos para el proyecto, se utilizaron dos datasets como
 | 1. Base de datos que incluye critic y user scores y rating | [Enlace](https://data.world/sumitrock/videogames)      |
 | 2. Base de datos que incluye puntuación de review          | [Enlace](https://data.world/bramwax/video-games-sales) |
 
-*Como referencia, [este es el dataset original](1. Base de datos original  [Enlace](https://www.kaggle.com/datasets/gregorut/videogamesales)[) en el que se basan los dos anteriores.* 
+*Como referencia, [este es el dataset original](https://www.kaggle.com/datasets/gregorut/videogamesales) en el que se basan los dos anteriores.* 
 
 
 
