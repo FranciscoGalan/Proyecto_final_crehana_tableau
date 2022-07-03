@@ -1,0 +1,2039 @@
+ID,nombre,plataforma,año_de_lanzamiento,género,distribuidora,ventas_na,ventas_eu,ventas_jp,ventas_otros
+1,Adventures of Tron,2600,1981.0,Action,Mattel Interactive,0.63,0.03,0.0,0.01
+2,Air Raid,2600,1981.0,Action,Men-A-Vision,0.72,0.04,0.0,0.01
+3,Airlock,2600,1981.0,Action,Data Age,0.36,0.02,0.0,0.0
+4,Alien,2600,1981.0,Action,20th Century Fox Video Games,0.74,0.04,0.0,0.01
+5,Armor Ambush,2600,1981.0,Action,Mattel Interactive,0.15,0.01,0.0,0.0
+6,Astroblast,2600,1981.0,Action,Mattel Interactive,0.29,0.02,0.0,0.0
+7,Atlantis,2600,1981.0,Shooter,Imagic,1.18,0.08,0.0,0.01
+8,Barnstorming,2600,1981.0,Action,Activision,0.4,0.02,0.0,0.0
+9,Berzerk,2600,1981.0,Shooter,Atari,0.68,0.04,0.0,0.01
+10,BurgerTime,2600,1981.0,Puzzle,Mattel Interactive,0.55,0.03,0.0,0.01
+11,Carnival,2600,1981.0,Shooter,Coleco,0.32,0.02,0.0,0.0
+12,Centipede,2600,1981.0,Shooter,Atari,1.26,0.08,0.0,0.01
+13,Cosmic Ark,2600,1981.0,Shooter,Imagic,0.99,0.05,0.0,0.01
+14,Crazy Climber,2600,1981.0,Action,Atari,0.21,0.01,0.0,0.0
+15,Custer's Revenge,2600,1981.0,Action,Mystique,0.76,0.05,0.0,0.01
+16,Dark Cavern,2600,1981.0,Shooter,Mattel Interactive,0.22,0.01,0.0,0.0
+17,Deadly Duck,2600,1981.0,Shooter,20th Century Fox Video Games,0.21,0.01,0.0,0.0
+18,Demon Attack,2600,1981.0,Shooter,Imagic,1.99,0.12,0.0,0.02
+19,Donkey Kong,2600,1981.0,Platform,Coleco,1.36,0.08,0.0,0.02
+20,Donkey Kong,2600,1981.0,Platform,Coleco,1.36,0.08,0.0,0.02
+21,Donkey Kong Junior,2600,1981.0,Platform,Atari,0.9,0.05,0.0,0.01
+22,Dragonfire,2600,1981.0,Action,Imagic,0.35,0.02,0.0,0.0
+23,E.T.: The Extra Terrestrial,2600,1981.0,Action,Atari,1.84,0.11,0.0,0.02
+24,Fantastic Voyage,2600,1981.0,Action,20th Century Fox Video Games,0.32,0.02,0.0,0.0
+25,Fast Food,2600,1981.0,Action,Unknown,0.27,0.02,0.0,0.0
+26,Fireball,2600,1981.0,Action,Starpath Corp.,0.3,0.02,0.0,0.0
+27,Frogger,2600,1981.0,Action,Parker Bros.,2.06,0.12,0.0,0.02
+28,Frogs And Flies,2600,1981.0,Action,Mattel Interactive,0.33,0.02,0.0,0.0
+29,Front Line,2600,1981.0,Action,Taito,0.22,0.01,0.0,0.0
+30,Grand Prix,2600,1981.0,Racing,Activision,0.45,0.03,0.0,0.0
+31,International Soccer,2600,1981.0,Sports,Mattel Interactive,0.18,0.01,0.0,0.0
+32,Jawbreaker,2600,1981.0,Action,Tigervision,0.42,0.03,0.0,0.0
+33,King Kong,2600,1981.0,Action,Tigervision,0.65,0.04,0.0,0.01
+34,Laser Blast,2600,1981.0,Action,Activision,0.37,0.02,0.0,0.0
+35,Megamania,2600,1981.0,Shooter,Activision,1.03,0.06,0.0,0.01
+36,Mouse Trap,2600,1981.0,Action,Coleco,0.38,0.02,0.0,0.0
+37,Ms. Pac-Man,2600,1981.0,Puzzle,Atari,1.54,0.1,0.0,0.02
+38,Phoenix,2600,1981.0,Simulation,Atari,0.42,0.02,0.0,0.0
+39,Pitfall!,2600,1981.0,Platform,Activision,4.21,0.24,0.0,0.05
+40,Raiders of the Lost Ark,2600,1981.0,Action,Atari,0.46,0.03,0.0,0.01
+41,Reactor,2600,1981.0,Action,Parker Bros.,0.21,0.01,0.0,0.0
+42,RealSports Baseball,2600,1981.0,Sports,Atari,0.2,0.01,0.0,0.0
+43,RealSports Football,2600,1981.0,Sports,Atari,0.24,0.01,0.0,0.0
+44,RealSports Volleyball,2600,1981.0,Sports,Atari,0.12,0.01,0.0,0.0
+45,River Raid,2600,1981.0,Shooter,Activision,1.49,0.09,0.0,0.02
+46,Smurf: Rescue In Gargamel's Castle,2600,1981.0,Action,Coleco,0.55,0.03,0.0,0.01
+47,Spider-Man,2600,1981.0,Action,Parker Bros.,0.87,0.05,0.0,0.01
+48,Action Force,2600,1982.0,Action,CPG Products,0.5,0.03,0.0,0.01
+49,Alien's Return,2600,1982.0,Action,ITT Family Games,0.32,0.02,0.0,0.0
+50,Assault,2600,1982.0,Action,Bomb,0.21,0.01,0.0,0.0
+51,Bank Heist,2600,1982.0,Action,20th Century Fox Video Games,0.32,0.02,0.0,0.0
+52,Battlezone,2600,1982.0,Shooter,Atari,0.58,0.03,0.0,0.01
+53,Bump 'n' Jump,2600,1982.0,Racing,Mattel Interactive,0.37,0.02,0.0,0.0
+54,Chopper Command,2600,1982.0,Shooter,Activision,0.47,0.03,0.0,0.01
+55,Congo Bongo,2600,1982.0,Action,Sega,0.37,0.02,0.0,0.0
+56,Death Trap,2600,1982.0,Action,Avalon Interactive,0.15,0.01,0.0,0.0
+57,Dig Dug,2600,1982.0,Puzzle,Atari,1.52,0.1,0.0,0.02
+58,Enduro,2600,1982.0,Misc,Quelle,0.81,0.05,0.0,0.01
+59,Frankenstein's Monster,2600,1982.0,Action,Data Age,0.3,0.02,0.0,0.0
+60,Galaxian,2600,1982.0,Shooter,Atari,0.72,0.05,0.0,0.01
+61,Gauntlet,2600,1982.0,Action,Answer Software,0.46,0.03,0.0,0.01
+62,Gravitar,2600,1982.0,Action,Atari,0.35,0.02,0.0,0.0
+63,Halloween,2600,1982.0,Action,Wizard Video Games,0.58,0.03,0.0,0.01
+64,Joust,2600,1982.0,Platform,Atari,1.01,0.06,0.0,0.01
+65,Jungle Hunt,2600,1982.0,Platform,Atari,1.03,0.06,0.0,0.01
+66,Kangaroo,2600,1982.0,Platform,Atari,0.67,0.04,0.0,0.01
+67,Keystone Kapers,2600,1982.0,Action,Activision,0.62,0.04,0.0,0.01
+68,Krull,2600,1982.0,Action,Atari,0.13,0.01,0.0,0.0
+69,Mario Bros.,2600,1982.0,Platform,Atari,1.48,0.09,0.0,0.02
+70,Moon Patrol,2600,1982.0,Shooter,Atari,1.05,0.06,0.0,0.01
+71,Mountain King,2600,1982.0,Action,CBS Electronics,0.29,0.02,0.0,0.0
+72,Mr. Do!,2600,1982.0,Action,Coleco,0.26,0.02,0.0,0.0
+73,Pac-Man,2600,1982.0,Puzzle,Atari,7.28,0.45,0.0,0.08
+74,Polaris,2600,1982.0,Action,Tigervision,0.26,0.02,0.0,0.0
+75,Pole Position,2600,1982.0,Racing,Atari,1.1,0.07,0.0,0.01
+76,Popeye,2600,1982.0,Platform,Parker Bros.,0.5,0.03,0.0,0.01
+77,Porky's,2600,1982.0,Action,20th Century Fox Video Games,0.23,0.01,0.0,0.0
+78,Pressure Cooker,2600,1982.0,Action,Activision,0.14,0.01,0.0,0.0
+79,Q*bert,2600,1982.0,Puzzle,Parker Bros.,0.55,0.03,0.0,0.01
+80,RealSports Tennis,2600,1982.0,Sports,Atari,0.46,0.03,0.0,0.01
+81,The Activision Decathlon,2600,1982.0,Sports,Activision,0.52,0.03,0.0,0.01
+82,X-Man,2600,1982.0,Action,Universal Gamex,0.58,0.04,0.0,0.01
+83,Yars' Revenge,2600,1982.0,Shooter,Atari,0.73,0.04,0.0,0.01
+84,Baseball,NES,1983.0,Sports,Nintendo,0.73,0.1,2.35,0.02
+85,Crystal Castles,2600,1983.0,Action,Atari,0.72,0.04,0.0,0.01
+86,Dolphin,2600,1983.0,Action,Activision,0.27,0.02,0.0,0.0
+87,Donkey Kong,NES,1983.0,Platform,Nintendo,0.23,0.05,0.84,0.01
+88,Donkey Kong,NES,1983.0,Platform,Nintendo,0.23,0.05,0.84,0.01
+89,Donkey Kong Jr.,NES,1983.0,Platform,Nintendo,0.33,0.07,0.7,0.01
+90,Frogger II: Threeedeep!,2600,1983.0,Action,Parker Bros.,0.31,0.02,0.0,0.0
+91,Frostbite,2600,1983.0,Action,Activision,0.32,0.02,0.0,0.0
+92,Gremlins,2600,1983.0,Action,Atari,0.43,0.03,0.0,0.0
+93,Jr. Pac-Man,2600,1983.0,Puzzle,Atari,0.72,0.05,0.0,0.01
+94,Mahjong,NES,1983.0,Misc,Nintendo,0.01,0.0,2.13,0.0
+95,Mario Bros.,NES,1983.0,Platform,Nintendo,0.51,0.12,1.63,0.02
+96,Midnight Magic,2600,1983.0,Action,Atari,0.47,0.03,0.0,0.01
+97,Millipede,2600,1983.0,Shooter,Atari,0.45,0.03,0.0,0.01
+98,Mr. Do!'s Castle,2600,1983.0,Action,Parker Bros.,0.15,0.01,0.0,0.0
+99,Pengo,2600,1983.0,Adventure,Atari,0.38,0.02,0.0,0.0
+100,Pitfall II: Lost Caverns,2600,1983.0,Platform,Activision,1.22,0.07,0.0,0.02
+101,Popeye,NES,1983.0,Platform,Nintendo,0.51,0.12,0.45,0.02
+102,4 Nin uchi Mahjong,NES,1984.0,Misc,Nintendo,0.0,0.0,1.45,0.0
+103,Beamrider,2600,1984.0,Racing,Activision,0.26,0.01,0.0,0.0
+104,Clu Clu Land,NES,1984.0,Puzzle,Nintendo,0.42,0.1,0.28,0.02
+105,Duck Hunt,NES,1984.0,Shooter,Nintendo,26.93,0.63,0.28,0.47
+106,Excitebike,NES,1984.0,Racing,Nintendo,2.04,0.48,1.57,0.07
+107,F1 Race,NES,1984.0,Racing,Nintendo,0.0,0.0,1.52,0.0
+108,Golf,NES,1984.0,Sports,Nintendo,1.22,0.28,2.46,0.04
+109,Golf,NES,1984.0,Sports,Nintendo,1.22,0.28,2.46,0.04
+110,Hogan's Alley,NES,1984.0,Shooter,Nintendo,0.68,0.16,0.41,0.02
+111,Lode Runner,NES,1984.0,Puzzle,Hudson Soft,0.0,0.0,1.1,0.0
+112,Mappy,NES,1984.0,Platform,Namco Bandai Games,0.0,0.0,0.69,0.0
+113,Pac-Man,NES,1984.0,Puzzle,Namco Bandai Games,0.27,0.08,0.85,0.02
+114,Pinball,NES,1984.0,Action,Nintendo,0.8,0.19,0.83,0.03
+115,Tennis,NES,1984.0,Sports,Nintendo,0.48,0.11,1.56,0.02
+116,Xevious,NES,1984.0,Shooter,Namco Bandai Games,0.18,0.06,1.27,0.01
+117,1942,NES,1985.0,Shooter,Capcom,0.65,0.14,0.21,0.0
+118,Alter Ego,PC,1985.0,Simulation,Activision,0.0,0.03,0.0,0.01
+119,Balloon Fight,NES,1985.0,Platform,Nintendo,0.39,0.09,0.43,0.01
+120,Bomberman,NES,1985.0,Puzzle,Hudson Soft,0.18,0.0,0.85,0.0
+121,Dig Dug,NES,1985.0,Puzzle,Namco Bandai Games,0.0,0.0,0.41,0.0
+122,Ghostbusters,2600,1985.0,Puzzle,Activision,0.42,0.03,0.0,0.0
+123,Gyromite,NES,1985.0,Puzzle,Nintendo,0.73,0.16,0.4,0.03
+124,Ice Climber,NES,1985.0,Platform,Nintendo,0.46,0.1,0.92,0.02
+125,Kung Fu,NES,1985.0,Action,Nintendo,1.64,0.38,1.42,0.06
+126,Soccer,NES,1985.0,Sports,Nintendo,0.18,0.23,1.53,0.02
+127,Strongest Tokyo University Shogi DS,DS,1985.0,Action,Mycom,0.0,0.0,0.02,0.0
+128,Super Mario Bros.,NES,1985.0,Platform,Nintendo,29.08,3.58,6.81,0.77
+129,Tag Team Match M.U.S.C.L.E.,NES,1985.0,Fighting,Namco Bandai Games,0.0,0.0,1.05,0.0
+130,Wrecking Crew,NES,1985.0,Platform,Nintendo,0.0,0.0,0.51,0.0
+131,Adventure Island,NES,1986.0,Platform,Hudson Soft,0.0,0.0,1.05,0.0
+132,Castlevania,NES,1986.0,Platform,Konami Digital Entertainment,0.54,0.06,0.62,0.01
+133,Commando,NES,1986.0,Action,Capcom,0.71,0.16,0.25,0.03
+134,Doraemon,NES,1986.0,Action,Hudson Soft,0.0,0.0,1.15,0.0
+135,Dragon Warrior,NES,1986.0,Role-Playing,Capcom,0.49,0.0,0.52,1.51
+136,Ganbare Goemon! Karakuri Douchuu,NES,1986.0,Platform,Konami Digital Entertainment,0.0,0.0,1.2,0.0
+137,Ghosts 'n Goblins,NES,1986.0,Action,Capcom,0.74,0.26,0.61,0.03
+138,Gradius,NES,1986.0,Shooter,Konami Digital Entertainment,0.27,0.08,1.0,0.01
+139,Kid Icarus,NES,1986.0,Platform,Nintendo,0.53,0.12,1.09,0.02
+140,Metroid,NES,1986.0,Action,Nintendo,1.33,0.31,1.04,0.05
+141,Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki,NES,1986.0,Platform,Hudson Soft,0.0,0.0,1.5,0.0
+142,Pro Yakyuu Family Stadium,NES,1986.0,Sports,Namco Bandai Games,0.15,0.0,2.05,0.0
+143,Rad Racer,NES,1986.0,Racing,Nintendo,1.13,0.37,0.41,0.05
+144,RealSports Boxing,2600,1986.0,Sports,Atari,0.28,0.02,0.0,0.0
+145,Solaris,2600,1986.0,Shooter,Atari,0.35,0.02,0.0,0.0
+146,Star Soldier,NES,1986.0,Shooter,Hudson Soft,0.32,0.06,0.57,0.01
+147,Super Mario Bros.: The Lost Levels,NES,1986.0,Platform,Nintendo,0.0,0.0,2.65,0.0
+148,The Legend of Zelda,NES,1986.0,Action,Nintendo,3.74,0.93,1.69,0.14
+149,The Mysterious Murasame Castle,NES,1986.0,Action,Nintendo,0.0,0.0,0.57,0.0
+150,TwinBee,NES,1986.0,Shooter,Konami Digital Entertainment,0.0,0.0,1.2,0.0
+151,World Class Track Meet,NES,1986.0,Sports,Namco Bandai Games,1.92,0.45,0.64,0.07
+152,Castlevania II: Simon's Quest,NES,1987.0,Platform,Konami Digital Entertainment,0.45,0.06,0.42,0.0
+153,Commando,2600,1987.0,Action,Activision,0.44,0.02,0.0,0.0
+154,Defender II,2600,1987.0,Shooter,Atari,0.42,0.02,0.0,0.0
+155,Desert Falcon,2600,1987.0,Shooter,Atari,0.24,0.01,0.0,0.0
+156,Dragon Warrior II,NES,1987.0,Role-Playing,Enix Corporation,0.15,0.0,2.41,0.0
+157,Final Fantasy,NES,1987.0,Role-Playing,SquareSoft,0.32,0.0,0.52,0.0
+158,Gegege no Kitarou 2: Youkai Gundan no Chousen,NES,1987.0,Role-Playing,Namco Bandai Games,0.0,0.0,1.25,0.0
+159,Kung-Fu Master,2600,1987.0,Action,Activision,0.6,0.04,0.0,0.01
+160,Mega Man,NES,1987.0,Platform,Capcom,0.45,0.08,0.27,0.01
+161,Mike Tyson's Punch-Out!!,NES,1987.0,Fighting,Nintendo,2.03,0.47,0.45,0.07
+162,Pro Wrestling,NES,1987.0,Fighting,Nintendo,0.77,0.18,1.42,0.03
+163,Pro Yakyuu Family Stadium '87,NES,1987.0,Sports,Namco Bandai Games,0.12,0.0,1.3,0.0
+164,Super Baseball,2600,1987.0,Sports,Atari,0.07,0.0,0.0,0.0
+165,Super Football,2600,1987.0,Sports,Atari,0.07,0.0,0.0,0.0
+166,Volleyball,NES,1987.0,Sports,Nintendo,0.14,0.03,1.98,0.0
+167,Zelda II: The Adventure of Link,NES,1987.0,Adventure,Nintendo,2.19,0.5,1.61,0.08
+168,Disney's DuckTales,GB,1988.0,Platform,Capcom,0.82,0.23,0.35,0.03
+169,Disney's DuckTales,GB,1988.0,Platform,Capcom,0.82,0.23,0.35,0.03
+170,Donkey Kong Classics,NES,1988.0,Platform,Nintendo,0.59,0.14,0.81,0.02
+171,Dragon Ball: Daimaou Fukkatsu,NES,1988.0,Role-Playing,Namco Bandai Games,0.0,0.0,1.25,0.0
+172,Dragon Warrior III,NES,1988.0,Role-Playing,Enix Corporation,0.1,0.0,3.77,0.0
+173,Final Fantasy II,NES,1988.0,Role-Playing,SquareSoft,0.0,0.0,0.76,0.0
+174,Ice Hockey,NES,1988.0,Sports,Nintendo,1.27,0.32,0.78,0.05
+175,Mega Man 2,NES,1988.0,Action,Capcom,0.93,0.15,0.42,0.01
+176,Pro Yakyuu Family Stadium '88,NES,1988.0,Sports,Namco Bandai Games,0.1,0.0,1.08,0.0
+177,R.C. Pro-Am,NES,1988.0,Racing,Nintendo,1.47,0.38,0.19,0.1
+178,Rampage,2600,1988.0,Action,Activision,0.22,0.01,0.0,0.0
+179,River Raid II,2600,1988.0,Shooter,Activision,0.47,0.03,0.0,0.01
+180,SimCity,PC,1988.0,Simulation,Maxis,0.0,0.02,0.0,0.01
+181,Super Mario Bros. 2,NES,1988.0,Platform,Nintendo,5.39,1.18,0.7,0.19
+182,Super Mario Bros. 3,NES,1988.0,Platform,Nintendo,9.54,3.44,3.84,0.46
+183,Tetris,NES,1988.0,Puzzle,Nintendo,2.97,0.69,1.81,0.11
+184,Tetris,NES,1988.0,Puzzle,Nintendo,2.97,0.69,1.81,0.11
+185,Adventures of Lolo,NES,1989.0,Puzzle,HAL Laboratory,0.06,0.0,0.0,0.0
+186,Alleyway,GB,1989.0,Puzzle,Nintendo,0.96,0.38,0.55,0.05
+187,Baseball,GB,1989.0,Sports,Nintendo,0.66,0.27,0.65,0.03
+188,Castlevania III: Dracula's Curse,NES,1989.0,Platform,Konami Digital Entertainment,0.4,0.07,0.37,0.01
+189,Disney's DuckTales,NES,1989.0,Platform,Capcom,0.91,0.3,0.42,0.04
+190,Disney's DuckTales,NES,1989.0,Platform,Capcom,0.91,0.3,0.42,0.04
+191,Double Dragon,2600,1989.0,Action,Activision,0.45,0.02,0.0,0.01
+192,Dr. Mario,GB,1989.0,Puzzle,Nintendo,2.18,0.96,2.0,0.2
+193,Dr. Mario,GB,1989.0,Puzzle,Nintendo,2.18,0.96,2.0,0.2
+194,Famicom Jump: Eiyuu Retsuden,NES,1989.0,Role-Playing,Namco Bandai Games,0.0,0.0,1.1,0.0
+195,Golf,GB,1989.0,Sports,Nintendo,0.83,0.33,0.92,0.04
+196,Golf,GB,1989.0,Sports,Nintendo,0.83,0.33,0.92,0.04
+197,Klax,2600,1989.0,Puzzle,Atari,0.14,0.01,0.0,0.0
+198,SolarStriker,GB,1989.0,Shooter,Nintendo,0.4,0.39,0.36,0.04
+199,Super Mario Land,GB,1989.0,Platform,Nintendo,10.83,2.71,4.18,0.42
+200,Teenage Mutant Ninja Turtles,NES,1989.0,Action,Palcom,3.38,0.44,0.31,0.04
+201,Teenage Mutant Ninja Turtles,NES,1989.0,Action,Palcom,3.38,0.44,0.31,0.04
+202,Tennis,GB,1989.0,Sports,Nintendo,0.75,0.3,0.9,0.04
+203,Tetris,GB,1989.0,Puzzle,Nintendo,23.2,2.26,4.22,0.58
+204,Tetris,GB,1989.0,Puzzle,Nintendo,23.2,2.26,4.22,0.58
+205,The Final Fantasy Legend,GB,1989.0,Role-Playing,SquareSoft,0.0,0.0,1.1,0.0
+206,Yakuman,GB,1989.0,Misc,Nintendo,0.0,0.0,1.28,0.0
+207,Disney's Chip 'n Dale: Rescue Rangers,NES,1990.0,Platform,Capcom,0.68,0.14,0.35,0.02
+208,Dr. Mario,NES,1990.0,Puzzle,Nintendo,2.62,0.6,1.52,0.1
+209,Dr. Mario,NES,1990.0,Puzzle,Nintendo,2.62,0.6,1.52,0.1
+210,Dragon Warrior IV,NES,1990.0,Role-Playing,Enix Corporation,0.08,0.0,3.03,0.01
+211,Extra Bases,GB,1990.0,Sports,Namco Bandai Games,0.0,0.0,0.33,0.0
+212,F-1 Race,GB,1990.0,Racing,Nintendo,1.73,0.69,0.59,0.4
+213,F-Zero,SNES,1990.0,Racing,Nintendo,1.37,0.51,0.89,0.07
+214,Famista '91,NES,1990.0,Sports,Namco Bandai Games,0.0,0.0,0.3,0.0
+215,Final Fantasy III,NES,1990.0,Role-Playing,SquareSoft,0.0,0.0,1.39,0.01
+216,Final Fantasy III,NES,1990.0,Role-Playing,SquareSoft,0.0,0.0,1.39,0.01
+217,Final Fantasy III,NES,1990.0,Role-Playing,SquareSoft,0.0,0.0,1.39,0.01
+218,Final Fight,SNES,1990.0,Action,Capcom,0.67,0.17,0.69,0.03
+219,Mega Man 3,NES,1990.0,Platform,Capcom,0.68,0.1,0.39,0.0
+220,Nintendo World Cup,NES,1990.0,Sports,Nintendo,0.28,0.5,0.65,0.05
+221,Pilotwings,SNES,1990.0,Simulation,Nintendo,0.46,0.17,0.48,0.02
+222,Qix,GB,1990.0,Puzzle,Nintendo,0.51,0.2,0.41,0.03
+223,Streets of Rage,GEN,1990.0,Action,Sega,1.86,0.55,0.11,0.08
+224,Super Mario World,SNES,1990.0,Platform,Nintendo,12.78,3.75,3.54,0.55
+225,Teenage Mutant Ninja Turtles II: The Arcade Game,NES,1990.0,Action,Konami Digital Entertainment,1.74,0.25,0.21,0.03
+226,Battle Commander: Hachibushu Shura no Heihou,SNES,1991.0,Strategy,Banpresto,0.0,0.0,0.18,0.0
+227,Battle Dodge Ball,SNES,1991.0,Sports,Banpresto,0.0,0.0,0.33,0.0
+228,Bomberman II,NES,1991.0,Puzzle,Hudson Soft,0.16,0.03,0.15,0.1
+229,Chibi Maruko-Chan: Harikiri 365-Nichi no Maki,SNES,1991.0,Misc,Epoch,0.0,0.0,0.08,0.0
+230,Famista '92,NES,1991.0,Sports,Namco Bandai Games,0.0,0.0,0.28,0.0
+231,Final Fantasy Adventure,GB,1991.0,Role-Playing,SquareSoft,0.0,0.0,0.38,0.0
+232,Final Fantasy II,SNES,1991.0,Role-Playing,Square,0.24,0.09,1.33,0.12
+233,Final Fantasy Legend III,GB,1991.0,Role-Playing,SquareSoft,0.0,0.0,0.76,0.0
+234,GameBoy Wars,GB,1991.0,Strategy,Nintendo,0.0,0.0,0.18,0.0
+235,John Madden Football,SNES,1991.0,Sports,Imagineer,0.0,0.0,0.07,0.0
+236,Kidou Senshi Gundam F91: Formula Senki 0122,SNES,1991.0,Strategy,Namco Bandai Games,0.0,0.0,0.33,0.0
+237,Lagoon,SNES,1991.0,Role-Playing,Kemco,0.0,0.0,0.05,0.0
+238,Lord of Darkness,SNES,1991.0,Action,Tecmo Koei,0.0,0.0,0.28,0.0
+239,Mega Man 4,NES,1991.0,Platform,Capcom,0.51,0.09,0.32,0.01
+240,Mega Man II,GB,1991.0,Platform,Nintendo,0.0,0.0,0.28,0.0
+241,Mega Man: Dr. Wily's Revenge,GB,1991.0,Platform,Nintendo,0.0,0.0,0.28,0.0
+242,Metroid II: Return of Samus,GB,1991.0,Adventure,Nintendo,0.85,0.31,0.56,0.04
+243,NES Open Tournament Golf,NES,1991.0,Sports,Nintendo,0.41,0.1,0.47,0.02
+244,Romance of the Three Kingdoms II,SNES,1991.0,Strategy,Tecmo Koei,0.0,0.0,0.25,0.0
+245,SD Gundam Gaiden: Knight Gundam Monogatari: Ooinaru Isan,SNES,1991.0,Role-Playing,Angel Studios,0.0,0.0,0.29,0.0
+246,SimCity,SNES,1991.0,Simulation,Nintendo,0.93,0.27,0.75,0.04
+247,SimEarth: The Living Planet,SNES,1991.0,Simulation,Imagineer,0.0,0.0,0.16,0.0
+248,Sonic the Hedgehog,GEN,1991.0,Platform,Sega,3.03,0.91,0.26,0.13
+249,Sonic the Hedgehog,GEN,1991.0,Platform,Sega,3.03,0.91,0.26,0.13
+250,Sonic the Hedgehog,GEN,1991.0,Platform,Sega,3.03,0.91,0.26,0.13
+251,Super Baseball Simulator 1.000,SNES,1991.0,Sports,Culture Brain,0.0,0.0,0.2,0.0
+252,Super Castlevania IV,SNES,1991.0,Platform,Konami Digital Entertainment,0.32,0.05,0.25,0.01
+253,Super Fire ProWrestling,SNES,1991.0,Fighting,Human Entertainment,0.0,0.0,0.39,0.0
+254,Super Ghouls 'n Ghosts,SNES,1991.0,Platform,Capcom,0.5,0.14,0.52,0.02
+255,Super R-Type,SNES,1991.0,Shooter,Nintendo,0.0,0.0,0.23,0.0
+256,Super R.C. Pro-Am,GB,1991.0,Racing,Nintendo,0.58,0.37,0.15,0.04
+257,Super Scope 6,SNES,1991.0,Shooter,Nintendo,1.06,0.38,0.15,0.05
+258,Super Soccer,SNES,1991.0,Sports,Nintendo,0.0,0.0,0.38,0.0
+259,Super Wagyan Land,SNES,1991.0,Action,Namco Bandai Games,0.0,0.0,0.42,0.0
+260,Teenage Mutant Ninja Turtles II: Back from the Sewers,GB,1991.0,Action,Konami Digital Entertainment,0.0,0.0,0.06,0.0
+261,Teenage Mutant Ninja Turtles III: The Manhattan Project,NES,1991.0,Action,Konami Digital Entertainment,1.05,0.17,0.15,0.02
+262,Tetris 2 + Bombliss,NES,1991.0,Puzzle,BPS,0.0,0.0,0.32,0.0
+263,The Legend of Zelda: A Link to the Past,SNES,1991.0,Action,Nintendo,2.42,0.91,1.15,0.13
+264,The Legend of Zelda: A Link to the Past,SNES,1991.0,Action,Nintendo,2.42,0.91,1.15,0.13
+265,The Legend of the Mystical Ninja,SNES,1991.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.48,0.0
+266,UN Squadron,SNES,1991.0,Shooter,Capcom,0.0,0.0,0.12,0.0
+267,World League Soccer,SNES,1991.0,Sports,Imagineer,0.0,0.0,0.15,0.0
+268,Yoshi,NES,1991.0,Puzzle,Nintendo,0.7,0.13,0.91,0.01
+269,Yoshi,GB,1991.0,Puzzle,Nintendo,0.0,0.0,0.73,0.0
+270,Battle Soccer: Field no Hasha,SNES,1992.0,Sports,Banpresto,0.0,0.0,0.16,0.0
+271,Contra III: The Alien Wars,SNES,1992.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.13,0.0
+272,Doom,PC,1992.0,Shooter,id Software,0.02,0.0,0.0,0.0
+273,Dragon Ball Z: Chou Saiya Densetsu,SNES,1992.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.58,0.0
+274,Dragon Quest V: Tenkuu no Hanayome,SNES,1992.0,Role-Playing,Enix Corporation,0.0,0.0,2.78,0.01
+275,Dragon Slayer: The Legend of Heroes,SNES,1992.0,Role-Playing,Epoch,0.0,0.0,0.07,0.0
+276,Ecco the Dolphin,GEN,1992.0,Adventure,Sega,0.0,0.0,0.12,0.0
+277,Empire Deluxe,PC,1992.0,Strategy,New World Computing,0.02,0.0,0.0,0.0
+278,F-1 Grand Prix,SNES,1992.0,Racing,Video System,0.0,0.0,0.28,0.0
+279,F1 ROC: Race of Champions,SNES,1992.0,Sports,Ocean,0.0,0.0,0.28,0.0
+280,Fatal Fury,SNES,1992.0,Fighting,Takara,0.0,0.0,0.39,0.0
+281,Final Fantasy V,SNES,1992.0,Role-Playing,SquareSoft,0.0,0.0,2.43,0.02
+282,Gunstar Heroes,GEN,1992.0,Shooter,Sega,0.0,0.0,0.13,0.0
+283,Kirby's Dream Land,GB,1992.0,Platform,Nintendo,2.71,0.61,1.7,0.11
+284,Kirby's Pinball Land,GB,1992.0,Misc,Nintendo,0.87,0.17,1.1,0.05
+285,Mario Paint,SNES,1992.0,Misc,Nintendo,1.43,0.54,0.71,0.07
+286,Mega Man 5,NES,1992.0,Platform,Capcom,0.39,0.07,0.32,0.01
+287,Mortal Kombat,GEN,1992.0,Fighting,Arena Entertainment,1.95,0.63,0.0,0.09
+288,Mortal Kombat,GEN,1992.0,Fighting,Arena Entertainment,1.95,0.63,0.0,0.09
+289,Mortal Kombat,GEN,1992.0,Fighting,Arena Entertainment,1.95,0.63,0.0,0.09
+290,NBA Jam,GEN,1992.0,Sports,Arena Entertainment,1.75,0.25,0.0,0.05
+291,NBA Jam,GEN,1992.0,Sports,Arena Entertainment,1.75,0.25,0.0,0.05
+292,Otogirisou,SNES,1992.0,Adventure,ChunSoft,0.0,0.0,0.16,0.0
+293,Romance of the Three Kingdoms III: Dragon of Destiny,SNES,1992.0,Strategy,Tecmo Koei,0.0,0.0,0.29,0.0
+294,Romancing SaGa,SNES,1992.0,Role-Playing,SquareSoft,0.0,0.0,0.97,0.0
+295,SimCity 2000,PC,1992.0,Simulation,Maxis,1.2,0.84,0.0,0.1
+296,SimCity 2000,PC,1992.0,Simulation,Maxis,1.2,0.84,0.0,0.1
+297,Sonic the Hedgehog 2,GEN,1992.0,Platform,Sega,4.47,1.2,0.16,0.19
+298,Sonic the Hedgehog 2 (8-bit),GG,1992.0,Platform,Sega,0.0,0.0,0.04,0.0
+299,Street Fighter II Turbo,SNES,1992.0,Fighting,Capcom,1.42,0.51,2.1,0.07
+300,Street Fighter II': Special Champion Edition,GEN,1992.0,Fighting,Sega,1.0,0.3,0.31,0.04
+301,Street Fighter II: The World Warrior,SNES,1992.0,Fighting,Capcom,2.47,0.83,2.87,0.12
+302,Super Adventure Island,SNES,1992.0,Platform,Hudson Soft,0.0,0.0,0.22,0.0
+303,Super Batter Up,SNES,1992.0,Sports,Namco Bandai Games,0.0,0.0,0.46,0.0
+304,Super Bomberman,SNES,1992.0,Puzzle,Hudson Soft,0.0,0.0,0.57,0.0
+305,Super Mario Kart,SNES,1992.0,Racing,Nintendo,3.54,1.24,3.81,0.18
+306,Super Mario Land 2: 6 Golden Coins,GB,1992.0,Adventure,Nintendo,6.16,2.04,2.69,0.29
+307,Syndicate,PC,1992.0,Strategy,Electronic Arts,0.0,0.05,0.0,0.01
+308,Teenage Mutant Ninja Turtles: Tournament Fighters,SNES,1992.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.06,0.0
+309,Teenage Mutant Ninja Turtles: Tournament Fighters,NES,1992.0,Fighting,Konami Digital Entertainment,0.04,0.01,0.02,0.0
+310,Tetris 2 (All region sales),GB,1992.0,Puzzle,Nintendo,0.56,0.22,0.43,0.03
+311,Tetris 2 (weekly jp sales),GB,1992.0,Puzzle,Nintendo,0.0,0.0,0.23,0.0
+312,The 7th Guest,PC,1992.0,Adventure,Virgin Interactive,0.02,0.77,0.0,0.0
+313,The Legend of Zelda: Link's Awakening,GB,1992.0,Action,Nintendo,2.21,0.96,0.54,0.13
+314,The Magical Quest starring Mickey Mouse,SNES,1992.0,Platform,Capcom,0.66,0.17,0.35,0.03
+315,Yoshi's Cookie,GB,1992.0,Puzzle,Nintendo,0.59,0.24,0.82,0.03
+316,Yoshi's Cookie,GB,1992.0,Puzzle,Nintendo,0.59,0.24,0.82,0.03
+317,Yoshi's Cookie,NES,1992.0,Puzzle,Nintendo,0.41,0.06,0.63,0.02
+318,Yoshi's Cookie,NES,1992.0,Puzzle,Nintendo,0.41,0.06,0.63,0.02
+319,Beyond Oasis,GEN,1993.0,Role-Playing,Sega,0.0,0.0,0.05,0.0
+320,Bishoujo Senshi Sailormoon R,SNES,1993.0,Fighting,Namco Bandai Games,0.0,0.0,0.27,0.0
+321,Capcom's Soccer Shootout,SNES,1993.0,Sports,Nintendo,0.0,0.0,0.8,0.0
+322,Classic Road,SNES,1993.0,Sports,Victor Interactive,0.0,0.0,0.11,0.0
+323,Crayon Shin-Chan: Arashi o Yobu Enji,SNES,1993.0,Platform,Namco Bandai Games,0.0,0.0,0.46,0.0
+324,Disney's Aladdin,SNES,1993.0,Platform,Capcom,0.94,0.34,0.21,0.27
+325,Doraemon 2: Nobita no Toizurando Daibouken,SNES,1993.0,Role-Playing,Epoch,0.0,0.0,0.05,0.0
+326,Dragon Ball Z,SNES,1993.0,Fighting,Namco Bandai Games,0.0,0.0,1.45,0.0
+327,Dragon Ball Z: La Legende Saien,SNES,1993.0,Fighting,Namco Bandai Games,0.0,0.0,1.2,0.0
+328,Dragon Ball Z: Ultime Menace,SNES,1993.0,Fighting,Namco Bandai Games,0.0,0.0,0.73,0.0
+329,Dragon Quest I & II,SNES,1993.0,Role-Playing,Enix Corporation,0.0,0.0,1.15,0.0
+330,Dynamite Headdy,GEN,1993.0,Platform,Sega,0.0,0.0,0.05,0.0
+331,Ecco: The Tides of Time,GEN,1993.0,Adventure,Sega,0.0,0.0,0.07,0.0
+332,Fatal Fury 2,SNES,1993.0,Fighting,Takara,0.0,0.0,0.45,0.0
+333,Final Fight 2,SNES,1993.0,Action,Capcom,0.39,0.12,0.49,0.02
+334,Ganbare Goemon 2: Kiteretsu Shougun Magginesu,SNES,1993.0,Platform,Konami Digital Entertainment,0.0,0.0,0.31,0.0
+335,Harukanaru Augusta 2: Masters,SNES,1993.0,Sports,T&E Soft,0.0,0.0,0.12,0.0
+336,Illusion of Gaia,SNES,1993.0,Role-Playing,Nintendo,0.0,0.0,0.13,0.0
+337,J-League Soccer: Prime Goal,SNES,1993.0,Sports,Namco Bandai Games,0.0,0.0,0.69,0.0
+338,Jissen Pachi-Slot Hisshouhou,SNES,1993.0,Misc,Sammy Corporation,0.0,0.0,0.19,0.0
+339,Jurassic Park,NES,1993.0,Action,Ocean,0.25,0.1,0.0,0.01
+340,Keiba Eight Special,SNES,1993.0,Sports,Misawa,0.0,0.0,0.05,0.0
+341,Kirby's Adventure,NES,1993.0,Platform,Nintendo,0.79,0.14,0.8,0.02
+342,Lethal Enforcers,SNES,1993.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.09,0.0
+343,Mario & Wario,SNES,1993.0,Puzzle,Nintendo,0.0,0.0,0.49,0.0
+344,Mega Man 6,NES,1993.0,Platform,Capcom,0.28,0.07,0.16,0.01
+345,Mega Man Soccer,SNES,1993.0,Sports,Capcom,0.04,0.01,0.13,0.0
+346,Mega Man X,SNES,1993.0,Platform,Capcom,0.57,0.08,0.5,0.01
+347,Mega Man X2,SNES,1993.0,Platform,Laguna,0.09,0.02,0.45,0.0
+348,Mortal Kombat II,SNES,1993.0,Fighting,Acclaim Entertainment,1.48,0.39,0.0,0.06
+349,Ninja Warriors,SNES,1993.0,Action,Titus,0.0,0.0,0.07,0.0
+350,Nobunaga no Yabou: Haouden,SNES,1993.0,Strategy,Tecmo Koei,0.3,0.0,0.32,0.0
+351,Pachinko Wars II,SNES,1993.0,Misc,Coconuts Japan,0.0,0.0,0.05,0.0
+352,Pop'n TwinBee: Rainbow Bell Adventure,SNES,1993.0,Platform,Konami Digital Entertainment,0.0,0.0,0.06,0.0
+353,Ranma 1/2: Akanekodan Teki Hihou,SNES,1993.0,Role-Playing,TOHO,0.0,0.0,0.11,0.0
+354,Rock N' Roll Racing,SNES,1993.0,Racing,Interplay,0.0,0.0,0.01,0.0
+355,Romancing SaGa 2,SNES,1993.0,Role-Playing,SquareSoft,0.0,0.0,1.17,0.0
+356,Sailor Moon,SNES,1993.0,Action,Namco Bandai Games,0.0,0.0,0.22,0.0
+357,Samurai Shodown,NG,1993.0,Fighting,SNK,0.0,0.0,0.07,0.0
+358,Secret of Mana,SNES,1993.0,Role-Playing,SquareSoft,0.25,0.07,1.49,0.02
+359,Shin Momotarou Densetsu,SNES,1993.0,Role-Playing,Hudson Soft,0.0,0.0,0.32,0.0
+360,Shining Force II,GEN,1993.0,Strategy,Sega,0.0,0.0,0.19,0.0
+361,Sonic CD,SCD,1993.0,Platform,Sega,1.0,0.36,0.09,0.05
+362,Star Fox,SNES,1993.0,Shooter,Nintendo,1.61,0.51,0.8,0.07
+363,Street Fighter II': Special Champion Edition (JP weekly sales),GEN,1993.0,Action,Capcom,0.0,0.0,0.07,0.0
+364,Streets of Rage 3,GEN,1993.0,Action,Sega,0.0,0.0,0.07,0.0
+365,Stunt Race FX,SNES,1993.0,Racing,Nintendo,0.0,0.0,0.35,0.0
+366,Super Mahjong 2: Honkaku 4Jin Uchi,SNES,1993.0,Misc,Imax,0.0,0.0,0.06,0.0
+367,Super Mario All-Stars,SNES,1993.0,Platform,Nintendo,5.99,2.15,2.12,0.29
+368,Super Power League,SNES,1993.0,Sports,Hudson Soft,0.0,0.0,0.17,0.0
+369,Super Puyo Puyo,SNES,1993.0,Puzzle,Banpresto,0.0,0.0,1.69,0.01
+370,Super Street Fighter II,GEN,1993.0,Fighting,Capcom,0.0,0.0,0.15,0.0
+371,Super Street Fighter II,SNES,1993.0,Fighting,Nintendo,0.52,0.16,1.29,0.03
+372,Tetris 2,NES,1993.0,Puzzle,Nintendo,0.62,0.13,0.21,0.02
+373,The King of Fighters '94 (CD),NG,1993.0,Fighting,SNK,0.0,0.0,0.14,0.0
+374,Thoroughbred Breeder,SNES,1993.0,Simulation,Hect,0.0,0.0,0.19,0.0
+375,Torneko no Daibouken: Fushigi no Dungeon,SNES,1993.0,Role-Playing,ChunSoft,0.0,0.0,0.78,0.0
+376,Virtual Soccer,SNES,1993.0,Sports,Hudson Soft,0.0,0.0,0.53,0.0
+377,Winning Post,SNES,1993.0,Sports,Tecmo Koei,0.0,0.0,0.53,0.0
+378,Yuu Yuu Hakusho,SNES,1993.0,Fighting,Namco Bandai Games,0.0,0.0,0.36,0.0
+379,A. IV Evolution: A Ressha de Ikou 4,PS,1994.0,Strategy,ArtDink,0.0,0.0,0.24,0.02
+380,Battle Arena Toshinden,PS,1994.0,Fighting,Sony Computer Entertainment,0.39,0.26,0.53,0.08
+381,Battle Arena Toshinden Remix,SAT,1994.0,Fighting,Sega,0.0,0.0,0.12,0.0
+382,Bishoujo Senshi Sailormoon S: Juugai Rantou!? Shuyaku Soudatsusen,SNES,1994.0,Fighting,Angel Studios,0.0,0.0,0.12,0.0
+383,Breath of Fire II,SNES,1994.0,Role-Playing,Laguna,0.0,0.0,0.36,0.0
+384,Bust-A-Move,3DO,1994.0,Puzzle,Micro Cabin,0.0,0.0,0.02,0.0
+385,Castlevania Bloodlines,GEN,1994.0,Platform,Konami Digital Entertainment,0.0,0.0,0.04,0.0
+386,Center Ring Boxing,SAT,1994.0,Fighting,JVC,0.0,0.0,0.12,0.0
+387,Clockwork Knight,SAT,1994.0,Platform,Sega,0.0,0.0,0.09,0.0
+388,Crime Crackers,PS,1994.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.09,0.01
+389,Daikaijyuu Monogatari,SNES,1994.0,Role-Playing,Hudson Soft,0.0,0.0,0.3,0.0
+390,Daytona USA,SAT,1994.0,Racing,Sega,0.0,0.0,0.55,0.0
+391,Decathlete,SAT,1994.0,Sports,Sega,0.0,0.0,0.3,0.0
+392,Derby Jockey: Kishou e no Michi,SNES,1994.0,Sports,Asmik Corp,0.0,0.0,0.07,0.0
+393,Derby Stallion II,SNES,1994.0,Sports,ASCII Entertainment,0.0,0.0,0.87,0.0
+394,Discworld,PS,1994.0,Adventure,Psygnosis,0.04,0.02,0.0,0.0
+395,Disney's The Lion King,GEN,1994.0,Platform,Virgin Interactive,0.97,0.37,0.03,0.05
+396,Disney's The Lion King,SNES,1994.0,Platform,Virgin Interactive,1.26,0.39,0.08,0.06
+397,Donkey Kong,GB,1994.0,Platform,Nintendo,1.57,0.62,0.55,0.34
+398,Donkey Kong,GB,1994.0,Platform,Nintendo,1.57,0.62,0.55,0.34
+399,Donkey Kong Country,SNES,1994.0,Platform,Nintendo,4.36,1.71,3.0,0.23
+400,Donkey Kong Country,SNES,1994.0,Platform,Nintendo,4.36,1.71,3.0,0.23
+401,Donkey Kong Country,SNES,1994.0,Platform,Nintendo,4.36,1.71,3.0,0.23
+402,Donkey Kong Land,GB,1994.0,Platform,Nintendo,1.97,0.76,1.07,0.11
+403,Doom,PS,1994.0,Shooter,Infogrames,0.43,0.3,0.0,0.05
+404,Doom II: Hell on Earth,PC,1994.0,Shooter,Virgin Interactive,2.05,1.4,0.0,0.16
+405,Dragon Slayer: The Legend of Heroes,GEN,1994.0,Role-Playing,Sega,0.0,0.0,0.08,0.0
+406,Drift King Shutokou Battle '94,SNES,1994.0,Racing,BPS,0.0,0.0,0.2,0.0
+407,ESPN Extreme Games,PS,1994.0,Sports,Sony Computer Entertainment,0.11,0.08,0.17,0.03
+408,EarthBound,SNES,1994.0,Role-Playing,Nintendo,0.0,0.0,0.81,0.0
+409,F1 Challenge,SAT,1994.0,Racing,Sega,0.0,0.0,0.18,0.0
+410,Fatal Fury Special,SNES,1994.0,Fighting,Takara,0.0,0.0,0.56,0.0
+411,Final Fantasy I & II,NES,1994.0,Role-Playing,Square,0.0,0.0,0.11,0.0
+412,Final Fantasy III,SNES,1994.0,Role-Playing,SquareSoft,0.86,0.0,2.55,0.02
+413,Final Fantasy III,SNES,1994.0,Role-Playing,SquareSoft,0.86,0.0,2.55,0.02
+414,Final Fantasy III,SNES,1994.0,Role-Playing,SquareSoft,0.86,0.0,2.55,0.02
+415,Fire Emblem: Monsh? no Nazo,SNES,1994.0,Role-Playing,Nintendo,0.0,0.0,0.7,0.0
+416,First Queen: Ornic Senki,SNES,1994.0,Role-Playing,Culture Brain,0.0,0.0,0.03,0.0
+417,Formula One World Championship: Beyond the Limit,SCD,1994.0,Racing,Sega,0.0,0.0,0.07,0.0
+418,Gaia Saver Hero Saidai no Sakusen,SNES,1994.0,Role-Playing,Banpresto,0.0,0.0,0.03,0.0
+419,Galactic Attack,SAT,1994.0,Shooter,Acclaim Entertainment,0.0,0.0,0.25,0.0
+420,Galaxy Fight,SAT,1994.0,Fighting,Sunsoft,0.0,0.0,0.04,0.0
+421,Gale Racer,SAT,1994.0,Racing,Sega,0.0,0.0,0.07,0.0
+422,Game no Kanzume Vol 1,SCD,1994.0,Misc,Sega,0.0,0.0,0.04,0.0
+423,Game no Kanzume Vol 2,SCD,1994.0,Misc,Sega,0.0,0.0,0.05,0.0
+424,Ganbare Goemon 3: Shishi Jyuurokubei no Karakuri Manji Katame,SNES,1994.0,Platform,Konami Digital Entertainment,0.0,0.0,0.36,0.0
+425,Gokujou Parodius,SNES,1994.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.18,0.0
+426,Golden Axe: The Duel,SAT,1994.0,Fighting,Sega,0.0,0.0,0.05,0.0
+427,Hisshou 777 Fighter: Pachi Slot Eiyu Densetsu,SNES,1994.0,Misc,Vap,0.0,0.0,0.05,0.0
+428,International Superstar Soccer,SNES,1994.0,Sports,Konami Digital Entertainment,0.0,0.0,0.28,0.0
+429,Itadaki Street 2: Neon Sign wa Bara Iro ni,SNES,1994.0,Misc,Enix Corporation,0.0,0.0,0.29,0.0
+430,J-League Pro Striker 2,GEN,1994.0,Sports,Sega,0.0,0.0,0.04,0.0
+431,J-League Soccer: Prime Goal 2,SNES,1994.0,Sports,Namco Bandai Games,0.0,0.0,0.53,0.0
+432,Jikkyou Powerful Pro Yakuu '94,SNES,1994.0,Sports,Konami Digital Entertainment,0.0,0.0,0.41,0.0
+433,Jikkyou Powerful Pro Yakyuu '95,PS,1994.0,Sports,Konami Digital Entertainment,0.0,0.0,0.11,0.01
+434,Jupiter Strike,PS,1994.0,Shooter,Acclaim Entertainment,0.06,0.04,0.0,0.01
+435,Kamaitachi no Yoru,SNES,1994.0,Adventure,ChunSoft,0.0,0.0,0.81,0.0
+436,Kenyuu Densetsu Yaiba,SNES,1994.0,Action,Banpresto,0.0,0.0,0.07,0.0
+437,Kidou Senshi V Gundam,SNES,1994.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.0
+438,Kileak: The DNA Imperative,PS,1994.0,Shooter,Sony Computer Entertainment,0.08,0.06,0.21,0.02
+439,King's Field (Japan),PS,1994.0,Role-Playing,From Software,0.0,0.0,0.08,0.01
+440,Kirby's Dream Course,SNES,1994.0,Sports,Nintendo,0.0,0.0,0.59,0.0
+441,Live A Live,SNES,1994.0,Role-Playing,SquareSoft,0.0,0.0,0.32,0.0
+442,"Lunar 2: Eternal Blue(sales, but wrong system)",GEN,1994.0,Role-Playing,Game Arts,0.0,0.0,0.14,0.0
+443,Majin Tensei,SNES,1994.0,Role-Playing,Atlus,0.0,0.0,0.08,0.0
+444,Monopoly,PC,1994.0,Misc,Hasbro Interactive,1.49,0.81,0.0,0.1
+445,Monopoly,PC,1994.0,Misc,Hasbro Interactive,1.49,0.81,0.0,0.1
+446,Mortal Kombat,PC,1994.0,Fighting,Acclaim Entertainment,0.02,0.0,0.0,0.0
+447,Mortal Kombat,PC,1994.0,Fighting,Acclaim Entertainment,0.02,0.0,0.0,0.0
+448,Mortal Kombat,PC,1994.0,Fighting,Acclaim Entertainment,0.02,0.0,0.0,0.0
+449,Mortal Kombat 3,GEN,1994.0,Fighting,Acclaim Entertainment,1.03,0.27,0.0,0.04
+450,Mortal Kombat 3,SNES,1994.0,Fighting,Acclaim Entertainment,1.19,0.29,0.0,0.05
+451,Mortal Kombat 3,SNES,1994.0,Fighting,Acclaim Entertainment,1.19,0.29,0.0,0.05
+452,Mortal Kombat 3,GEN,1994.0,Fighting,Acclaim Entertainment,1.03,0.27,0.0,0.04
+453,Motor Toon Grand Prix (Japan),PS,1994.0,Racing,Sony Computer Entertainment,0.0,0.0,0.06,0.0
+454,Myst,PC,1994.0,Adventure,Red Orb,0.02,2.79,0.0,0.0
+455,Myst,SAT,1994.0,Adventure,Sunsoft,0.0,0.0,0.06,0.0
+456,NBA Jam,SNES,1994.0,Sports,Acclaim Entertainment,1.19,0.16,0.0,0.03
+457,NBA Jam,SNES,1994.0,Sports,Acclaim Entertainment,1.19,0.16,0.0,0.03
+458,NBA Jam Tournament Edition,GEN,1994.0,Sports,Acclaim Entertainment,0.95,0.14,0.0,0.03
+459,NBA Jam Tournament Edition,GEN,1994.0,Sports,Acclaim Entertainment,0.95,0.14,0.0,0.03
+460,NHL FaceOff,PS,1994.0,Sports,Sony Computer Entertainment,0.25,0.17,0.0,0.03
+461,Parodius,PS,1994.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.31,0.02
+462,Pebble Beach Golf Links,SAT,1994.0,Sports,Sega,0.0,0.0,0.02,0.0
+463,Primal Rage,PS,1994.0,Fighting,Time Warner Interactive,0.06,0.04,0.0,0.01
+464,Puzzle & Action: Tant-R,GEN,1994.0,Misc,Sega,0.0,0.0,0.03,0.0
+465,Record of Lodoss War: Eiyuu Sensou,SCD,1994.0,Role-Playing,Sega,0.0,0.0,0.06,0.0
+466,Ridge Racer,PS,1994.0,Racing,Sony Computer Entertainment,0.0,0.0,0.74,0.05
+467,Robotica,SAT,1994.0,Shooter,Sega,0.0,0.0,0.06,0.0
+468,Romance of the Three Kingdoms IV: Wall of Fire,SNES,1994.0,Strategy,Tecmo Koei,0.0,0.0,0.53,0.0
+469,SD Gundam GX,SNES,1994.0,Strategy,Namco Bandai Games,0.0,0.0,0.19,0.0
+470,Samurai Shodown,SNES,1994.0,Fighting,Takara,0.0,0.0,0.4,0.0
+471,Samurai Shodown II,NG,1994.0,Fighting,SNK,0.0,0.0,0.25,0.0
+472,Samurai Spirits (CD),NG,1994.0,Fighting,SNK,0.0,0.0,0.2,0.0
+473,Saturday Night Slam Masters,SNES,1994.0,Fighting,Capcom,0.0,0.0,0.16,0.0
+474,Shin Megami Tensei II,SNES,1994.0,Role-Playing,Atlus,0.0,0.0,0.37,0.0
+475,Shining Force CD,SCD,1994.0,Strategy,Sega,0.0,0.0,0.14,0.0
+476,SimCity 2000,SAT,1994.0,Simulation,Sega,0.0,0.0,0.28,0.0
+477,SimCity 2000,SAT,1994.0,Simulation,Sega,0.0,0.0,0.28,0.0
+478,Slam Dunk: Yonkyo Taiketsu!!,SNES,1994.0,Sports,Namco Bandai Games,0.0,0.0,0.27,0.0
+479,Slayers,SNES,1994.0,Role-Playing,Banpresto,0.0,0.0,0.12,0.0
+480,Sonic & Knuckles,GEN,1994.0,Platform,Sega,1.24,0.43,0.03,0.12
+481,Sonic the Hedgehog 3,GEN,1994.0,Platform,Sega,1.02,0.47,0.2,0.07
+482,Space Invaders,SNES,1994.0,Shooter,Taito,0.0,0.0,0.46,0.0
+483,Star Wars: Dark Forces,PC,1994.0,Shooter,LucasArts,1.09,0.77,0.0,0.09
+484,Sugoi Hebereke,SNES,1994.0,Fighting,Sunsoft,0.0,0.0,0.02,0.0
+485,Super Bomberman 2,SNES,1994.0,Puzzle,Hudson Soft,0.0,0.0,0.81,0.0
+486,Super Bomberman 3,SNES,1994.0,Puzzle,Hudson Soft,0.0,0.0,0.7,0.0
+487,Super Famista 3,SNES,1994.0,Sports,Namco Bandai Games,0.0,0.0,0.39,0.0
+488,Super Fire ProWrestling Special,SNES,1994.0,Fighting,Human Entertainment,0.0,0.0,0.36,0.0
+489,Super Formation Soccer 94,SNES,1994.0,Sports,Human Entertainment,0.0,0.0,0.37,0.0
+490,Super Mario Land 3: Wario Land,GB,1994.0,Platform,Nintendo,2.49,0.98,1.57,0.15
+491,Super Metroid,SNES,1994.0,Action,Nintendo,0.57,0.12,0.71,0.02
+492,Super Momotarou Dentetsu III,SNES,1994.0,Simulation,Hudson Soft,0.0,0.0,0.91,0.0
+493,Super Power League 2,SNES,1994.0,Sports,Hudson Soft,0.0,0.0,0.33,0.0
+494,Super Robot Taisen EX,SNES,1994.0,Strategy,Banpresto,0.0,0.0,0.37,0.0
+495,The Great Battle Gaiden 2: Matsuri da Wasshoi,SNES,1994.0,Action,Banpresto,0.0,0.0,0.03,0.0
+496,The King of Fighters '94,NG,1994.0,Fighting,SNK,0.0,0.0,0.12,0.0
+497,The King of Fighters '95 (CD),NG,1994.0,Fighting,SNK,0.0,0.0,0.23,0.0
+498,Theme Park,SAT,1994.0,Simulation,Electronic Arts,0.0,0.0,0.08,0.0
+499,Theme Park,PS,1994.0,Simulation,Electronic Arts,0.24,0.16,0.13,0.04
+500,Thoroughbred Breeder II,SNES,1994.0,Simulation,Hect,0.0,0.0,0.27,0.0
+501,ThunderStrike 2,PS,1994.0,Simulation,Core Design Ltd.,0.1,0.07,0.0,0.01
+502,Virtua Fighter,SAT,1994.0,Fighting,Sega,0.17,0.12,0.77,0.02
+503,Virtua Racing,GEN,1994.0,Racing,Sega,0.0,0.0,0.26,0.0
+504,Warcraft: Orcs & Humans,PC,1994.0,Strategy,Activision,0.89,1.08,0.0,0.11
+505,Wing Arms,SAT,1994.0,Shooter,Sega,0.0,0.0,0.2,0.0
+506,Wonder Project J: Kikai no Shonen Pino,SNES,1994.0,Simulation,Enix Corporation,0.0,0.0,0.43,0.0
+507,World Class Rugby 2: Kokunai Gekitou Hen '93,SNES,1994.0,Sports,Misawa,0.0,0.0,0.02,0.0
+508,World Series Baseball,SAT,1994.0,Sports,Sega,0.0,0.0,0.04,0.0
+509,Worldwide Soccer,SAT,1994.0,Sports,Sega,0.0,0.0,0.06,0.0
+510,Yuu Yuu Hakusho 2: Kakutou no Sho,SNES,1994.0,Fighting,Namco Bandai Games,0.0,0.0,0.31,0.0
+511,Yuu Yuu Hakusho: Makyo Toitsusen,GEN,1994.0,Fighting,Sega,0.0,0.0,0.08,0.0
+512,Zero4 Champ RR,SNES,1994.0,Sports,Media Rings,0.0,0.0,0.36,0.0
+513,3D Lemmings,PS,1995.0,Puzzle,Psygnosis,0.03,0.02,0.0,0.0
+514,A llI S.V.: A Ressha de Gyoukou 3 Super Version,SNES,1995.0,Simulation,Pack-In-Video,0.0,0.0,0.06,0.0
+515,A-Train,PS,1995.0,Simulation,Sony Computer Entertainment,0.02,0.01,0.04,0.01
+516,Agile Warrior F-111X,PS,1995.0,Simulation,Virgin Interactive,0.08,0.05,0.0,0.01
+517,Air Combat,PS,1995.0,Simulation,Sony Computer Entertainment,0.92,0.33,0.52,0.05
+518,America Oudan Ultra-Quiz,SAT,1995.0,Misc,Victor Interactive,0.0,0.0,0.02,0.0
+519,Aquanaut's Holiday,PS,1995.0,Adventure,Sony Computer Entertainment,0.01,0.01,0.0,0.0
+520,Arc the Lad,PS,1995.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,1.1,0.01
+521,Baku Baku,SAT,1995.0,Puzzle,Sega,0.0,0.0,0.05,0.0
+522,Bases Loaded '96: Double Header,PS,1995.0,Sports,Jaleco,0.28,0.19,0.0,0.03
+523,Battle Arena Toshinden 2,PS,1995.0,Fighting,Sony Computer Entertainment,0.15,0.1,0.41,0.05
+524,Battle Arena Toshinden URA,SAT,1995.0,Fighting,Sega,0.0,0.0,0.03,0.0
+525,Beyond The Beyond,PS,1995.0,Role-Playing,Sony Computer Entertainment,0.11,0.08,0.35,0.04
+526,Blades of Blood: Samurai Shodown III,PS,1995.0,Fighting,Sony Computer Entertainment,0.05,0.03,0.0,0.01
+527,Blazing Heroes,SAT,1995.0,Role-Playing,Sega,0.0,0.0,0.3,0.0
+528,Block Kuzushi,SNES,1995.0,Puzzle,Pow,0.0,0.0,0.05,0.0
+529,Boxer's Road,PS,1995.0,Fighting,New,0.0,0.0,0.33,0.02
+530,Bubble Bobble also featuring Rainbow Islands,PS,1995.0,Puzzle,Acclaim Entertainment,0.04,0.02,0.0,0.0
+531,Bust-A-Move 2 Arcade Edition,PS,1995.0,Puzzle,Acclaim Entertainment,0.11,0.07,0.0,0.01
+532,Captain Tsubasa J: The Way to World Youth,SNES,1995.0,Sports,Namco Bandai Games,0.0,0.0,0.03,0.0
+533,Carnage Heart,PS,1995.0,Strategy,Sony Computer Entertainment,0.01,0.01,0.09,0.01
+534,Castlevania Dracula X,SNES,1995.0,Platform,Konami Digital Entertainment,0.03,0.01,0.05,0.0
+535,Chrono Trigger,SNES,1995.0,Role-Playing,SquareSoft,0.28,0.0,2.02,0.01
+536,Chrono Trigger,SNES,1995.0,Role-Playing,SquareSoft,0.28,0.0,2.02,0.01
+537,Classic Road,PS,1995.0,Sports,Victor Interactive,0.0,0.0,0.07,0.0
+538,College Slam,PS,1995.0,Sports,Acclaim Entertainment,0.1,0.07,0.0,0.01
+539,Cyber Sled,PS,1995.0,Action,Sony Computer Entertainment,0.0,0.0,0.13,0.01
+540,Cyber Troopers Virtual-On,SAT,1995.0,Fighting,Sega,0.0,0.0,0.42,0.0
+541,Cyberia,PS,1995.0,Action,Interplay,0.05,0.03,0.0,0.01
+542,D,PS,1995.0,Adventure,Acclaim Entertainment,0.0,0.0,0.1,0.01
+543,Dai-4-Ji Super Robot Taisen,SNES,1995.0,Strategy,Banpresto,0.0,0.0,0.38,0.0
+544,Daibakushou: Jinsei Gekijou,SNES,1995.0,Misc,Taito,0.0,0.0,0.03,0.0
+545,Darius Gaiden,SAT,1995.0,Shooter,Acclaim Entertainment,0.0,0.0,0.1,0.0
+546,Darius II,SAT,1995.0,Shooter,Taito,0.0,0.0,0.03,0.0
+547,Daytona USA Championship Circuit Edition,SAT,1995.0,Racing,Sega,0.0,0.0,0.14,0.0
+548,DefCon 5,PS,1995.0,Shooter,Psygnosis,0.04,0.03,0.0,0.0
+549,Derby Jockey 2,SNES,1995.0,Sports,Asmik Corp,0.0,0.0,0.1,0.0
+550,Derby Stallion III,SNES,1995.0,Sports,ASCII Entertainment,0.0,0.0,1.15,0.0
+551,Destruction Derby,PS,1995.0,Racing,Psygnosis,0.5,0.34,0.0,0.06
+552,Detana TwinBee Yahho! Deluxe Pack,SAT,1995.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.13,0.0
+553,Detana TwinBee Yahho! Deluxe Pack,PS,1995.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.08,0.01
+554,Disruptor,PS,1995.0,Shooter,Interplay,0.07,0.05,0.0,0.01
+555,Doki Oki,PS,1995.0,Adventure,Banpresto,0.0,0.0,0.02,0.0
+556,Donkey Kong Country 2: Diddy's Kong Quest,SNES,1995.0,Platform,Nintendo,2.1,0.74,2.2,0.11
+557,Doraemon 4: Nobita to Toki no Okoku,SNES,1995.0,Platform,Epoch,0.0,0.0,0.06,0.0
+558,Doukyuusei,TG16,1995.0,Adventure,NEC,0.0,0.0,0.14,0.0
+559,Dragon Ball Z Hyper Dimension,SNES,1995.0,Fighting,Namco Bandai Games,0.0,0.0,0.21,0.0
+560,Dragon Ball Z Super Gokuden: Kakusei-Hen,SNES,1995.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.11,0.0
+561,Dragon Ball Z: Idainaru Dragon Ball Densetsu,SAT,1995.0,Fighting,Namco Bandai Games,0.0,0.0,0.15,0.0
+562,Dragon Ball Z: Shin Butouden,SAT,1995.0,Fighting,Namco Bandai Games,0.0,0.0,0.09,0.0
+563,Dragon Quest VI: Maboroshi no Daichi,SNES,1995.0,Role-Playing,Enix Corporation,0.0,0.0,3.19,0.0
+564,Epidemic,PS,1995.0,Shooter,Sony Computer Entertainment,0.02,0.01,0.1,0.01
+565,Extreme Pinball,PS,1995.0,Misc,Electronic Arts,0.18,0.12,0.0,0.02
+566,FIFA Soccer 96,PS,1995.0,Sports,Electronic Arts,0.09,0.06,0.0,0.01
+567,Far East of Eden Shinden,NG,1995.0,Fighting,Hudson Soft,0.0,0.0,0.03,0.0
+568,Far East of Eden Zero,SNES,1995.0,Role-Playing,Hudson Soft,0.0,0.0,0.3,0.0
+569,Fighting Vipers,SAT,1995.0,Fighting,Sega,0.0,0.0,0.4,0.0
+570,Final Doom,PS,1995.0,Shooter,GT Interactive,0.15,0.1,0.0,0.02
+571,Front Mission,SNES,1995.0,Strategy,SquareSoft,0.0,0.0,0.6,0.0
+572,GOTHA: Ismailia Seneki,SAT,1995.0,Strategy,Sega,0.0,0.0,0.08,0.0
+573,Gameboy Gallery,GB,1995.0,Misc,Nintendo,0.0,0.0,0.3,0.0
+574,Ganbare Goemon: KiraKira Douchuu - Boku ga Dancer ni Natta Riyuu,SNES,1995.0,Platform,Konami Digital Entertainment,0.0,0.0,0.31,0.0
+575,Gex,PS,1995.0,Platform,Crystal Dynamics,0.49,0.33,0.0,0.06
+576,Ginga Fukei Densetsu: Sapphire,TG16,1995.0,Shooter,Hudson Soft,0.0,0.0,0.02,0.0
+577,Go Go Ackman 3,SNES,1995.0,Platform,Banpresto,0.0,0.0,0.04,0.0
+578,Gouketuji Ichizoku 2: Chottodake Saikyou Densetsu,PS,1995.0,Fighting,Atlus,0.0,0.0,0.1,0.01
+579,Guardian Heroes,SAT,1995.0,Role-Playing,Sega,0.0,0.0,0.29,0.0
+580,GunGriffon,SAT,1995.0,Simulation,Sega,0.0,0.0,0.19,0.0
+581,Gunbird,SAT,1995.0,Shooter,Atlus,0.0,0.0,0.06,0.0
+582,Hang On GP,SAT,1995.0,Racing,Sega,0.0,0.0,0.07,0.0
+583,Hermie Hopperhead: Scrap Panic,PS,1995.0,Platform,Sony Computer Entertainment,0.0,0.0,0.02,0.0
+584,Hi-Octane: The Track Fights Back!,PS,1995.0,Racing,Electronic Arts,0.03,0.02,0.0,0.0
+585,High Velocity: Mountain Racing Challenge,SAT,1995.0,Racing,Atlus,0.0,0.0,0.12,0.0
+586,Hissatsu Pachinko Collection 3,SNES,1995.0,Misc,Sunsoft,0.0,0.0,0.03,0.0
+587,Hyper Formation Soccer,PS,1995.0,Sports,Human Entertainment,0.0,0.0,0.1,0.01
+588,Ide Yosuke no Mahjong Kazoku,PS,1995.0,Misc,Seta Corporation,0.0,0.0,0.04,0.0
+589,Idol Janshi Suchie-Pai Remix,SAT,1995.0,Misc,Jaleco,0.0,0.0,0.1,0.0
+590,In the Hunt,PS,1995.0,Shooter,THQ,0.03,0.02,0.07,0.01
+591,International Superstar Soccer Deluxe,SNES,1995.0,Sports,Konami Digital Entertainment,0.0,0.0,0.16,0.0
+592,Iron Storm,SAT,1995.0,Shooter,Sega,0.0,0.0,0.34,0.0
+593,J-League Excite Stage '95,SNES,1995.0,Sports,Epoch,0.0,0.0,0.45,0.0
+594,J-League Victory Goal,SAT,1995.0,Sports,Sega,0.0,0.0,0.15,0.0
+595,Jikkyou Oshaberi Parodius,SNES,1995.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.05,0.0
+596,Jikkyou Powerful Pro Yakyuu 2,SNES,1995.0,Sports,Konami Digital Entertainment,0.0,0.0,0.27,0.0
+597,Jirou Akagawa: Majotachi no Nemuri,SNES,1995.0,Adventure,Pack-In-Video,0.0,0.0,0.05,0.0
+598,Johnny Bazookatone,PS,1995.0,Platform,U.S. Gold,0.03,0.02,0.0,0.0
+599,Jumping Flash!,PS,1995.0,Platform,Sony Computer Entertainment,0.05,0.03,0.21,0.02
+600,Kanzen Chuuki Pro Yakyuu Greatest Nine,SAT,1995.0,Sports,Sega,0.0,0.0,0.22,0.0
+601,Kekkon Zenya,SAT,1995.0,Adventure,Shogakukan,0.0,0.0,0.05,0.0
+602,Kekkon: Marriage,SAT,1995.0,Adventure,Shogakukan,0.0,0.0,0.06,0.0
+603,Killer Instinct,SNES,1995.0,Fighting,Nintendo,2.26,0.72,0.12,0.1
+604,King's Field,PS,1995.0,Role-Playing,Sony Computer Entertainment,0.09,0.06,0.0,0.01
+605,Kirby's Block Ball,GB,1995.0,Puzzle,Nintendo,0.0,0.0,0.32,0.0
+606,Kirby's Dream Land 2,GB,1995.0,Platform,Nintendo,0.69,0.14,1.48,0.05
+607,Konpeki no Kantai,SNES,1995.0,Strategy,Angel Studios,0.0,0.0,0.03,0.0
+608,Krazy Ivan,PS,1995.0,Simulation,Psygnosis,0.04,0.03,0.0,0.0
+609,Magic Carpet,PS,1995.0,Shooter,Electronic Arts,0.03,0.02,0.0,0.0
+610,Mario no Super Picross,SNES,1995.0,Puzzle,Nintendo,0.0,0.0,0.41,0.0
+611,Mario's Picross,GB,1995.0,Puzzle,Nintendo,0.0,0.0,0.62,0.0
+612,Mega Man 7,SNES,1995.0,Platform,Laguna,0.03,0.01,0.23,0.01
+613,Mega Man X3,SNES,1995.0,Action,Laguna,0.04,0.01,0.3,0.0
+614,Metal Max Returns,SNES,1995.0,Role-Playing,Data East,0.0,0.0,0.04,0.0
+615,Mobile Suit Gundam,SAT,1995.0,Action,Namco Bandai Games,0.0,0.0,0.41,0.0
+616,Mobile Suit Gundam,PS,1995.0,Action,Namco Bandai Games,0.0,0.0,0.42,0.03
+617,Mortal Kombat 3,PS,1995.0,Fighting,Sony Computer Entertainment,0.29,0.2,0.02,0.04
+618,Mortal Kombat 3,PS,1995.0,Fighting,Sony Computer Entertainment,0.29,0.2,0.02,0.04
+619,Myst,PS,1995.0,Adventure,Psygnosis,0.0,0.0,0.07,0.0
+620,Mystery Dungeon: Shiren the Wanderer,SNES,1995.0,Role-Playing,ChunSoft,0.0,0.0,0.4,0.0
+621,Mystic Ark,SNES,1995.0,Role-Playing,Enix Corporation,0.0,0.0,0.13,0.0
+622,NBA In The Zone,PS,1995.0,Sports,Konami Digital Entertainment,0.16,0.11,0.0,0.02
+623,NBA Jam Tournament Edition,PS,1995.0,Sports,Acclaim Entertainment,0.14,0.09,0.0,0.02
+624,NBA Jam Tournament Edition,PS,1995.0,Sports,Acclaim Entertainment,0.14,0.09,0.0,0.02
+625,NBA Jam Tournament Edition,SNES,1995.0,Sports,Acclaim Entertainment,0.87,0.12,0.0,0.02
+626,NBA Jam Tournament Edition,SNES,1995.0,Sports,Acclaim Entertainment,0.87,0.12,0.0,0.02
+627,NBA ShootOut,PS,1995.0,Sports,Sony Computer Entertainment,0.17,0.12,0.0,0.02
+628,NFL GameDay,PS,1995.0,Sports,Sony Computer Entertainment,0.47,0.32,0.0,0.06
+629,Namco Museum Vol.1,PS,1995.0,Misc,Sony Computer Entertainment,2.12,1.44,0.22,0.06
+630,Namco Soccer Prime Goal,PS,1995.0,Sports,Sony Computer Entertainment,0.0,0.0,0.12,0.01
+631,Namco Tennis Smash Court,PS,1995.0,Sports,Sony Computer Entertainment,0.0,0.0,0.23,0.02
+632,Nichibutsu Arcade Classics,SNES,1995.0,Misc,Nichibutsu,0.0,0.0,0.28,0.0
+633,Night Head: The Labyrinth,PS,1995.0,Adventure,Fuji,0.0,0.0,0.03,0.0
+634,Night Warriors: Darkstalkers' Revenge,SAT,1995.0,Fighting,Virgin Interactive,0.0,0.0,0.34,0.0
+635,Nobunaga no Yabou: Tenshoki,SAT,1995.0,Strategy,Tecmo Koei,0.0,0.0,0.11,0.0
+636,Novastorm,PS,1995.0,Shooter,Psygnosis,0.02,0.02,0.0,0.0
+637,Off-World Interceptor Extreme,PS,1995.0,Racing,Crystal Dynamics,0.09,0.06,0.0,0.01
+638,PGA Tour 96,PS,1995.0,Sports,Electronic Arts,0.13,0.09,0.0,0.02
+639,Panzer Dragoon,SAT,1995.0,Shooter,Sega,0.0,0.0,0.37,0.0
+640,Panzer Dragoon II Zwei,SAT,1995.0,Shooter,Sega,0.0,0.0,0.31,0.0
+641,Panzer General,PS,1995.0,Strategy,Mindscape,0.14,0.09,0.0,0.02
+642,Parodius,SAT,1995.0,Shooter,Konami Digital Entertainment,0.0,0.0,0.16,0.0
+643,Persona,PS,1995.0,Role-Playing,Atlus,0.0,0.0,0.42,0.03
+644,Philosoma,PS,1995.0,Shooter,Sony Computer Entertainment,0.03,0.02,0.0,0.0
+645,Policenauts,3DO,1995.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.06,0.0
+646,Princess Maker 2,SAT,1995.0,Simulation,Micro Cabin,0.0,0.0,0.08,0.0
+647,Project: Horned Owl,PS,1995.0,Shooter,Sony Computer Entertainment,0.03,0.02,0.05,0.01
+648,Psychic Detective,PS,1995.0,Adventure,Electronic Arts,0.01,0.0,0.0,0.0
+649,Quo Vadis,SAT,1995.0,Strategy,Glams,0.0,0.0,0.08,0.0
+650,Rampo,SAT,1995.0,Adventure,Sega,0.0,0.0,0.03,0.0
+651,Rapid Reload,PS,1995.0,Shooter,Sony Computer Entertainment,0.0,0.0,0.09,0.01
+652,Rayman,PS,1995.0,Platform,Ubisoft,1.54,1.33,0.0,0.16
+653,Revolution X,PS,1995.0,Shooter,Acclaim Entertainment,0.06,0.04,0.0,0.01
+654,Ridge Racer Revolution,PS,1995.0,Racing,Sony Computer Entertainment,0.17,0.12,0.71,0.07
+655,Road & Track Presents: The Need for Speed,PS,1995.0,Racing,Electronic Arts,0.56,0.38,0.0,0.07
+656,Road Rash,PS,1995.0,Racing,Electronic Arts,0.71,0.48,0.0,0.08
+657,Robo Pit,PS,1995.0,Fighting,Kokopeli Digital Studios,0.02,0.01,0.0,0.0
+658,Romance of the Three Kingdoms IV: Wall of Fire,PS,1995.0,Strategy,Tecmo Koei,0.05,0.03,0.04,0.01
+659,Romancing SaGa 3,SNES,1995.0,Role-Playing,SquareSoft,0.0,0.0,1.29,0.01
+660,SD Gundam GNext,SNES,1995.0,Strategy,Namco Bandai Games,0.0,0.0,0.2,0.0
+661,Samurai Shodown III,NG,1995.0,Fighting,SNK,0.0,0.0,0.08,0.0
+662,Sega Rally Championship,SAT,1995.0,Racing,Sega,0.21,0.16,0.77,0.02
+663,Seiken Densetsu 3,SNES,1995.0,Role-Playing,SquareSoft,0.0,0.0,0.89,0.0
+664,Sengoku Cyber: Fujimaru Jigokuhen,PS,1995.0,Strategy,Sony Computer Entertainment,0.0,0.0,0.11,0.01
+665,Sentou Kokka Air Land Battle,PS,1995.0,Strategy,Sony Computer Entertainment,0.0,0.0,0.13,0.01
+666,Shellshock,PS,1995.0,Action,Core Design Ltd.,0.06,0.04,0.0,0.01
+667,Shin Megami Tensei: Devil Summoner,SAT,1995.0,Role-Playing,Atlus,0.0,0.0,0.38,0.0
+668,Shin Nippon Pro Wrestling: Toukon Retsuden,PS,1995.0,Fighting,Tomy Corporation,0.0,0.0,0.3,0.02
+669,Shockwave Assault,PS,1995.0,Simulation,Electronic Arts,0.05,0.04,0.0,0.01
+670,SimCity 2000,SNES,1995.0,Simulation,THQ,0.0,0.0,0.49,0.0
+671,SimCity 2000,SNES,1995.0,Simulation,THQ,0.0,0.0,0.49,0.0
+672,Slam 'n Jam '96 featuring Magic & Kareem,PS,1995.0,Sports,Crystal Dynamics,0.04,0.03,0.0,0.01
+673,Slam Dunk SD Heat Up!!,SNES,1995.0,Sports,Namco Bandai Games,0.0,0.0,0.05,0.0
+674,Sotsugyou II: Neo Generation,PS,1995.0,Simulation,Riverhillsoft,0.0,0.0,0.04,0.0
+675,Sotsugyou II: Neo Generation Special,3DO,1995.0,Simulation,Imageworks,0.0,0.0,0.02,0.0
+676,Space Griffon VF-9,PS,1995.0,Role-Playing,Panther Software,0.02,0.02,0.12,0.01
+677,Space Hulk: Vengeance of the Blood Angels,PS,1995.0,Shooter,Electronic Arts,0.04,0.03,0.0,0.0
+678,Star Fighter,PS,1995.0,Shooter,Telstar,0.04,0.02,0.0,0.0
+679,StarBlade α,PS,1995.0,Shooter,Sony Computer Entertainment,0.0,0.0,0.15,0.01
+680,Street Fighter Alpha 2,SAT,1995.0,Fighting,Virgin Interactive,0.0,0.0,0.32,0.0
+681,Street Fighter Alpha: Warriors' Dreams,PS,1995.0,Fighting,Virgin Interactive,0.17,0.11,0.43,0.05
+682,Street Fighter: The Movie,PS,1995.0,Fighting,Acclaim Entertainment,0.1,0.07,0.0,0.01
+683,Striker 96,PS,1995.0,Sports,Time Warner Interactive,0.04,0.03,0.0,0.01
+684,Suikoden,PS,1995.0,Role-Playing,Konami Digital Entertainment,0.21,0.14,0.21,0.04
+685,Super Dodge Ball,NG,1995.0,Sports,Technos Japan Corporation,0.0,0.0,0.02,0.0
+686,Super Famista 4,SNES,1995.0,Sports,Namco Bandai Games,0.0,0.0,0.42,0.0
+687,Super Fire ProWrestling X,SNES,1995.0,Fighting,Human Entertainment,0.0,0.0,0.28,0.0
+688,Super Jinsei Game 2,SNES,1995.0,Misc,Takara,0.0,0.0,0.05,0.0
+689,Super Mario World 2: Yoshi's Island,SNES,1995.0,Platform,Nintendo,1.65,0.61,1.76,0.09
+690,Super Momotarou Dentetsu DX,SNES,1995.0,Misc,Hudson Soft,0.0,0.0,0.47,0.0
+691,Super Nazo Puyo: Ruruu no Ruu,SNES,1995.0,Puzzle,Banpresto,0.0,0.0,0.27,0.0
+692,Super Puyo Puyo 2,SNES,1995.0,Puzzle,Compile,0.0,0.0,0.47,0.0
+693,Super Real Mahjong Graffiti,SAT,1995.0,Misc,Seta Corporation,0.0,0.0,0.07,0.0
+694,Super Real Mahjong P V,SAT,1995.0,Misc,Seta Corporation,0.0,0.0,0.19,0.0
+695,Tactics Ogre: Let Us Cling Together,SNES,1995.0,Role-Playing,Quest,0.0,0.0,0.71,0.0
+696,Tales of Phantasia,SNES,1995.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.4,0.0
+697,Tekken,PS,1995.0,Fighting,Sony Computer Entertainment,0.95,1.3,0.77,0.22
+698,Tempest 3X,PS,1995.0,Shooter,Interplay,0.04,0.03,0.0,0.01
+699,Tenchi Muyou! Ryoukouki Gokuraku,SAT,1995.0,Adventure,Yumedia,0.0,0.0,0.06,0.0
+700,Terranigma,SNES,1995.0,Role-Playing,Nintendo,0.0,0.0,0.09,0.0
+701,Tetris Attack,SNES,1995.0,Puzzle,Nintendo,0.0,0.0,0.15,0.0
+702,The King of Fighters '95,NG,1995.0,Fighting,SNK,0.0,0.0,0.2,0.0
+703,The King of Fighters '95,SAT,1995.0,Fighting,SNK Playmore,0.0,0.0,0.28,0.0
+704,The Perfect Golf,PS,1995.0,Sports,Seta Corporation,0.0,0.0,0.03,0.0
+705,The Raiden Project,PS,1995.0,Shooter,Ocean,0.06,0.04,0.12,0.01
+706,Thoroughbred Breeder II Plus,PS,1995.0,Simulation,Hect,0.0,0.0,0.04,0.0
+707,Tokimeki Mahjong Paradise: Koi no Tenpai Beat,SAT,1995.0,Misc,Sonnet,0.0,0.0,0.04,0.0
+708,Tokimeki Memorial: Forever with You,PS,1995.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.55,0.04
+709,Twisted Metal,PS,1995.0,Action,Sony Computer Entertainment,1.32,0.19,0.0,0.05
+710,Victory Zone,PS,1995.0,Misc,Sony Computer Entertainment,0.0,0.0,0.1,0.01
+711,Viewpoint,PS,1995.0,Shooter,Electronic Arts,0.04,0.03,0.0,0.0
+712,Virtua Cop,SAT,1995.0,Shooter,Sega,0.0,0.0,0.62,0.0
+713,Virtua Fighter 2,SAT,1995.0,Fighting,Sega,0.34,0.26,1.3,0.03
+714,Virtua Fighter CG Portrait Series Vol.1: Sarah Bryant,SAT,1995.0,Misc,Sega,0.0,0.0,0.11,0.0
+715,Virtua Fighter CG Portrait Series Vol.2: Jacky Bryant,SAT,1995.0,Misc,Sega,0.0,0.0,0.08,0.0
+716,Virtua Fighter CG Portrait Series Vol.3: Akira Yuki,SAT,1995.0,Misc,Sega,0.0,0.0,0.09,0.0
+717,Virtua Fighter CG Portrait Series Vol.4: Pai Chan,SAT,1995.0,Misc,Sega,0.0,0.0,0.12,0.0
+718,Virtua Fighter CG Portrait Series Vol.5: Wolf Hawkfield,SAT,1995.0,Misc,Sega,0.0,0.0,0.05,0.0
+719,Virtua Fighter CG Portrait Series Vol.6: Lau Chan,SAT,1995.0,Misc,Sega,0.0,0.0,0.04,0.0
+720,Virtua Fighter Kids,SAT,1995.0,Fighting,Sega,0.0,0.0,0.23,0.0
+721,Virtual Hydlide,SAT,1995.0,Role-Playing,Sega,0.0,0.0,0.11,0.0
+722,WWF Wrestlemania: The Arcade Game,PS,1995.0,Fighting,Acclaim Entertainment,0.03,0.02,0.0,0.0
+723,Warcraft II: Tides of Darkness,PC,1995.0,Strategy,Activision,1.7,2.27,0.0,0.23
+724,Warhawk,PS,1995.0,Simulation,Sony Computer Entertainment,0.25,0.17,0.0,0.03
+725,Winning Post 2,SNES,1995.0,Sports,Tecmo Koei,0.0,0.0,0.3,0.0
+726,WipEout,PS,1995.0,Action,Psygnosis,0.26,0.18,0.0,0.03
+727,Wizardry VI: Bane of the Cosmic Forge,SNES,1995.0,Role-Playing,ASCII Entertainment,0.0,0.0,0.1,0.0
+728,Wizardry VII: Gadeia no Houshu,PS,1995.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.14,0.01
+729,World Cup Golf: Professional Edition,PS,1995.0,Sports,U.S. Gold,0.07,0.05,0.0,0.01
+730,X-COM: UFO Defense,PS,1995.0,Strategy,Microprose,0.05,0.04,0.0,0.01
+731,X-Men: Children of the Atom,SAT,1995.0,Fighting,Acclaim Entertainment,0.0,0.0,0.21,0.0
+732,You Don't Know Jack,PC,1995.0,Misc,Vivendi Games,0.02,0.0,0.0,0.0
+733,Zen-Nippon GT Senshuken,SNES,1995.0,Racing,Banpresto,0.0,0.0,0.04,0.0
+734,Zero Divide,PS,1995.0,Fighting,Ocean,0.03,0.02,0.0,0.0
+735,Zero4 Champ RR-Z,SNES,1995.0,Racing,Media Rings,0.0,0.0,0.1,0.0
+736,Zoop,PS,1995.0,Puzzle,MediaQuest,0.03,0.02,0.0,0.0
+737,2Xtreme,PS,1996.0,Sports,Sony Computer Entertainment,1.15,0.2,0.0,0.05
+738,3D Baseball,PS,1996.0,Sports,BMG Interactive Entertainment,0.02,0.01,0.0,0.0
+739,Adidas Power Soccer,PS,1996.0,Sports,Psygnosis,0.02,0.01,0.0,0.0
+740,Alien Trilogy,PS,1996.0,Shooter,Acclaim Entertainment,0.24,0.16,0.04,0.03
+741,Allied General,PS,1996.0,Strategy,SSI,0.11,0.07,0.0,0.01
+742,Alone in the Dark: One-Eyed Jack's Revenge,PS,1996.0,Adventure,Infogrames,0.17,0.12,0.0,0.02
+743,Andretti Racing,PS,1996.0,Racing,Electronic Arts,0.43,0.29,0.0,0.05
+744,Arc the Lad II,PS,1996.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.92,0.13
+745,Area 51,PS,1996.0,Shooter,GT Interactive,0.4,0.27,0.0,0.05
+746,Art of Fighting 3: The Path of the Warrior,NG,1996.0,Fighting,SNK,0.0,0.0,0.04,0.0
+747,Assault Rigs,PS,1996.0,Action,Electronic Arts Victor,0.02,0.02,0.0,0.0
+748,BRAHMA Force: The Assault on Beltlogger 9,PS,1996.0,Shooter,JVC,0.02,0.01,0.0,0.0
+749,Bahamut Lagoon,SNES,1996.0,Role-Playing,SquareSoft,0.0,0.0,0.62,0.0
+750,Bastard!! Utsuro Naru Kamigami no Utsuwa,PS,1996.0,Role-Playing,Seta Corporation,0.0,0.0,0.2,0.01
+751,Batman Forever: The Arcade Game,PS,1996.0,Action,Acclaim Entertainment,0.02,0.01,0.0,0.0
+752,Battle Arena Toshinden 3,PS,1996.0,Fighting,Sony Computer Entertainment,0.06,0.04,0.14,0.02
+753,Big Ichigeki! Pachi-Slot Taikouryku Universal Museum,SAT,1996.0,Misc,ASK,0.0,0.0,0.03,0.0
+754,Black Dawn,PS,1996.0,Simulation,Virgin Interactive,0.07,0.05,0.0,0.01
+755,Blast Chamber,PS,1996.0,Shooter,Activision,0.05,0.04,0.0,0.01
+756,Blazing Dragons,PS,1996.0,Adventure,Crystal Dynamics,0.08,0.06,0.0,0.01
+757,Blood Omen: Legacy of Kain,PS,1996.0,Role-Playing,Crystal Dynamics,0.25,0.17,0.0,0.03
+758,Blue Breaker: Ken Yorimo Hohoemi o,PCFX,1996.0,Role-Playing,NEC,0.0,0.0,0.03,0.0
+759,Bogey: Dead 6,PS,1996.0,Simulation,Sony Computer Entertainment,0.05,0.04,0.0,0.01
+760,Bomberman B-Daman,SNES,1996.0,Shooter,Hudson Soft,0.0,0.0,0.17,0.0
+761,Bottom of the 9th,PS,1996.0,Sports,Konami Digital Entertainment,0.08,0.05,0.0,0.01
+762,Brain Dead 13,PS,1996.0,Adventure,Coconuts Japan,0.01,0.01,0.0,0.0
+763,Bubsy 3D,PS,1996.0,Platform,Accolade,0.1,0.07,0.0,0.01
+764,Burning Road,PS,1996.0,Racing,FunSoft,0.07,0.05,0.0,0.01
+765,Casper,PS,1996.0,Adventure,Interplay,0.46,0.31,0.0,0.05
+766,Chou-Kuukan Night Pro Yakyuu King (weekly JP sales),N64,1996.0,Sports,Imagineer,0.0,0.0,0.19,0.0
+767,Chou-Kuukan Night Pro Yakyuu King(higher JP sales),N64,1996.0,Sports,Imagineer,0.0,0.0,0.22,0.0
+768,Chronicles of the Sword,PS,1996.0,Adventure,Psygnosis,0.03,0.02,0.0,0.0
+769,Clock Tower,PS,1996.0,Adventure,ASCII Entertainment,0.07,0.05,0.38,0.03
+770,Command & Conquer,PS,1996.0,Strategy,Virgin Interactive,0.22,0.15,0.0,0.03
+771,Command & Conquer: Red Alert,PC,1996.0,Strategy,Virgin Interactive,1.37,1.34,0.0,0.14
+772,Contra: Legacy of War,PS,1996.0,Shooter,Konami Digital Entertainment,0.37,0.25,0.0,0.04
+773,Cool Boarders,PS,1996.0,Sports,Sony Computer Entertainment,0.1,0.07,0.24,0.03
+774,Crash Bandicoot,PS,1996.0,Platform,Sony Computer Entertainment,3.23,2.35,0.94,0.3
+775,Criticom,PS,1996.0,Fighting,Vic Tokai,0.07,0.05,0.0,0.01
+776,Cruis'n USA,N64,1996.0,Racing,Nintendo,1.69,0.04,0.0,0.01
+777,Crusader: No Remorse,PS,1996.0,Adventure,Electronic Arts,0.03,0.02,0.0,0.0
+778,DX Game of Life,PS,1996.0,Misc,Takara,0.0,0.0,0.27,0.02
+779,Dai-4-Ji Super Robot Taisen S,PS,1996.0,Strategy,Banpresto,0.0,0.0,0.48,0.03
+780,Daikaijyuu Monogatari II,SNES,1996.0,Role-Playing,Hudson Soft,0.0,0.0,0.12,0.0
+781,Dark Half,SNES,1996.0,Role-Playing,Enix Corporation,0.0,0.0,0.04,0.0
+782,Derby Stallion 96,SNES,1996.0,Sports,ASCII Entertainment,0.0,0.0,1.04,0.01
+783,Descent,PS,1996.0,Shooter,Interplay,0.11,0.07,0.0,0.01
+784,Destruction Derby 2,PS,1996.0,Racing,Psygnosis,0.65,0.44,0.0,0.08
+785,Diablo,PC,1996.0,Role-Playing,Activision,0.01,1.58,0.0,0.0
+786,Die Hard Trilogy,PS,1996.0,Shooter,Fox Interactive,0.85,0.58,0.0,0.1
+787,Discworld II: Mortality Bytes!,PS,1996.0,Adventure,Psygnosis,0.01,0.01,0.0,0.0
+788,Donkey Kong Country 3: Dixie Kong's Double Trouble!,SNES,1996.0,Platform,Nintendo,1.17,0.5,1.75,0.08
+789,Donkey Kong Land II,GB,1996.0,Platform,Nintendo,1.39,0.48,0.4,0.08
+790,Doukyuusei if,SAT,1996.0,Role-Playing,NEC,0.0,0.0,0.26,0.0
+791,Dragon Ball Z: Idainaru Dragon Ball Densetsu,PS,1996.0,Fighting,Namco Bandai Games,0.0,0.0,0.18,0.01
+792,Dragon Force,SAT,1996.0,Strategy,Sega,0.0,0.0,0.3,0.0
+793,Dragon Quest III: Soshite Densetsu e...,SNES,1996.0,Role-Playing,Enix Corporation,0.0,0.0,1.36,0.0
+794,DragonHeart: Fire & Steel,PS,1996.0,Action,Acclaim Entertainment,0.02,0.01,0.0,0.0
+795,E0: Enemy Zero,SAT,1996.0,Adventure,Sega,0.0,0.0,0.41,0.0
+796,FIFA Soccer 97,PS,1996.0,Sports,Electronic Arts,0.09,0.06,0.0,0.01
+797,Fade to Black,PS,1996.0,Action,Electronic Arts,0.19,0.13,0.0,0.02
+798,Fighters MEGAMiX,SAT,1996.0,Fighting,Sega,0.0,0.0,0.62,0.0
+799,Fire Emblem: Seisen no Keifu,SNES,1996.0,Strategy,Nintendo,0.0,0.0,0.58,0.0
+800,Fire ProWrestling S: 6Men Scramble,SAT,1996.0,Fighting,Human Entertainment,0.0,0.0,0.12,0.0
+801,Formula 1,PS,1996.0,Racing,Psygnosis,0.18,0.12,0.42,0.05
+802,Frank Thomas Big Hurt Baseball,PS,1996.0,Sports,Acclaim Entertainment,0.08,0.05,0.0,0.01
+803,Front Mission: Gun Hazard,SNES,1996.0,Role-Playing,SquareSoft,0.0,0.0,0.24,0.0
+804,Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikagemura no Kaibutsu,GB,1996.0,Role-Playing,ChunSoft,0.0,0.0,0.27,0.0
+805,Gallop Racer (JP),PS,1996.0,Sports,Tecmo Koei,0.04,0.03,0.16,0.02
+806,Garou Densetsu 3: Road to the Final Victory,SAT,1996.0,Fighting,SNK,0.0,0.0,0.05,0.0
+807,Goal Storm '97,PS,1996.0,Sports,Konami Digital Entertainment,0.01,0.0,0.09,0.01
+808,Grid Runner,PS,1996.0,Action,Virgin Interactive,0.02,0.01,0.0,0.0
+809,Gunship,PS,1996.0,Simulation,Microprose,0.15,0.1,0.0,0.02
+810,Hankou Shashin,SAT,1996.0,Adventure,Imagineer,0.0,0.0,0.03,0.0
+811,HardBall 5,PS,1996.0,Sports,SPS,0.07,0.04,0.0,0.01
+812,Haunted Casino,SAT,1996.0,Adventure,Societa,0.0,0.0,0.04,0.0
+813,Hexen,N64,1996.0,Shooter,GT Interactive,0.15,0.04,0.0,0.0
+814,Impact Racing,PS,1996.0,Racing,JVC,0.03,0.02,0.0,0.0
+815,International Track & Field,PS,1996.0,Sports,Konami Digital Entertainment,0.08,0.05,0.35,0.03
+816,Iron & Blood,PS,1996.0,Fighting,Acclaim Entertainment,0.08,0.05,0.0,0.01
+817,Iron Man / X-O Manowar in Heavy Metal,PS,1996.0,Platform,Acclaim Entertainment,0.05,0.03,0.0,0.01
+818,J-League '96 Dream Stadium,SNES,1996.0,Sports,Hudson Soft,0.0,0.0,0.05,0.0
+819,J-League Excite Stage '96,SNES,1996.0,Sports,Epoch,0.0,0.0,0.19,0.0
+820,J-League Pro Soccer Club wo Tsukurou!,SAT,1996.0,Sports,Sega,0.0,0.0,0.26,0.0
+821,J-League Victory Goal '96,SAT,1996.0,Sports,Sega,0.0,0.0,0.29,0.0
+822,Jampack Vol. 1,PS,1996.0,Misc,Sony Computer Entertainment,0.1,0.07,0.0,0.01
+823,Jampack Vol. 2,PS,1996.0,Misc,Sony Computer Entertainment,0.3,0.2,0.0,0.03
+824,Jet Moto,PS,1996.0,Racing,Sony Computer Entertainment,1.33,0.4,0.03,0.07
+825,Jikkyou J-League Perfect Striker,N64,1996.0,Sports,Konami Digital Entertainment,0.0,0.0,0.19,0.0
+826,Jikkyou Powerful Pro Yakyuu '96 Kaimakuban,SNES,1996.0,Sports,Konami Digital Entertainment,0.0,0.0,0.19,0.0
+827,Jikkyou Powerful Pro Yakyuu 3,SNES,1996.0,Sports,Konami Digital Entertainment,0.0,0.0,0.45,0.0
+828,Jumping Flash! 2,PS,1996.0,Platform,Sony Computer Entertainment,0.05,0.03,0.15,0.02
+829,Killer Instinct Gold,N64,1996.0,Fighting,Nintendo,0.61,0.19,0.0,0.01
+830,Killing Zone,PS,1996.0,Fighting,Acclaim Entertainment,0.03,0.02,0.0,0.0
+831,King's Field II,PS,1996.0,Role-Playing,From Software,0.08,0.06,0.11,0.02
+832,Kirby Super Star,SNES,1996.0,Platform,Nintendo,0.26,0.07,1.09,0.02
+833,Langrisser III,SAT,1996.0,Strategy,NCS,0.0,0.0,0.2,0.0
+834,Last Bronx,SAT,1996.0,Fighting,Sega,0.0,0.0,0.13,0.0
+835,Lethal Enforcers I & II,PS,1996.0,Shooter,Konami Digital Entertainment,0.02,0.01,0.0,0.0
+836,Lunacy,SAT,1996.0,Adventure,Sega,0.0,0.0,0.11,0.0
+837,Lunar: Silver Star Story,SAT,1996.0,Role-Playing,Kadokawa Shoten,0.0,0.0,0.23,0.0
+838,MLB Pennant Race,PS,1996.0,Sports,Sony Computer Entertainment,0.16,0.11,0.0,0.02
+839,Machine Head,PS,1996.0,Shooter,Eidos Interactive,0.04,0.03,0.0,0.0
+840,Madden NFL 97,PS,1996.0,Sports,Electronic Arts,0.73,0.5,0.0,0.09
+841,Mahjong Master,N64,1996.0,Misc,Konami Digital Entertainment,0.0,0.0,0.09,0.0
+842,Mario Kart 64,N64,1996.0,Racing,Nintendo,5.55,1.94,2.23,0.15
+843,Mega Man 8 Anniversary Collector's Edition,PS,1996.0,Platform,Capcom,0.44,0.3,0.09,0.06
+844,Mega Man X4,PS,1996.0,Action,Virgin Interactive,0.45,0.3,0.22,0.07
+845,Meru Purana,PS,1996.0,Strategy,Gust,0.0,0.0,0.01,0.0
+846,Microsoft Flight Simulator,PC,1996.0,Simulation,Microsoft Game Studios,3.22,1.69,0.0,0.2
+847,Midway Presents Arcade's Greatest Hits: The Atari Collection 1,PS,1996.0,Misc,GT Interactive,0.52,0.36,0.0,0.06
+848,Mini-Yonku Shining Scorpion: Let's & Go!!,SNES,1996.0,Racing,ASCII Entertainment,0.0,0.0,0.9,0.0
+849,Mobile Suit Gundam Side Story I: Senritsu no Blue,SAT,1996.0,Shooter,Namco Bandai Games,0.0,0.0,0.28,0.0
+850,Mobile Suit Gundam Side Story II: Aoi o Uketsugu Mono,SAT,1996.0,Shooter,Namco Bandai Games,0.0,0.0,0.2,0.0
+851,Mobile Suit Gundam version 2.0,PS,1996.0,Action,Namco Bandai Games,0.0,0.0,0.36,0.02
+852,Momotarou Dentetsu Happy,SNES,1996.0,Misc,Hudson Soft,0.0,0.0,0.32,0.0
+853,Mortal Kombat Trilogy,N64,1996.0,Fighting,GT Interactive,0.72,0.22,0.0,0.02
+854,Mortal Kombat Trilogy,PS,1996.0,Fighting,GT Interactive,1.98,0.7,0.0,0.11
+855,Mortal Kombat Trilogy,PS,1996.0,Fighting,GT Interactive,1.98,0.7,0.0,0.11
+856,Mortal Kombat Trilogy,N64,1996.0,Fighting,GT Interactive,0.72,0.22,0.0,0.02
+857,NASCAR 98,PS,1996.0,Racing,Electronic Arts,1.43,0.05,0.0,0.04
+858,NASCAR Racing,PS,1996.0,Racing,Pioneer LDC,0.23,0.16,0.0,0.03
+859,NBA Hangtime,PS,1996.0,Sports,Midway Games,0.03,0.02,0.0,0.0
+860,NBA Jam Extreme,PS,1996.0,Sports,Acclaim Entertainment,0.12,0.08,0.0,0.01
+861,NBA Live 96,PS,1996.0,Sports,Electronic Arts,0.16,0.11,0.04,0.02
+862,NBA Live 97,PS,1996.0,Sports,Electronic Arts,0.55,0.38,0.0,0.07
+863,NCAA Gamebreaker,PS,1996.0,Sports,Sony Computer Entertainment,0.15,0.1,0.0,0.02
+864,NFL GameDay '97,PS,1996.0,Sports,Sony Computer Entertainment,0.48,0.33,0.0,0.06
+865,NFL Quarterback Club 97,PS,1996.0,Sports,Acclaim Entertainment,0.12,0.08,0.0,0.01
+866,NHL 97,PS,1996.0,Sports,Electronic Arts,0.26,0.18,0.0,0.03
+867,NHL Breakaway 98,PS,1996.0,Sports,Acclaim Entertainment,0.08,0.05,0.0,0.01
+868,NHL FaceOff '97,PS,1996.0,Sports,Sony Computer Entertainment,0.26,0.17,0.0,0.03
+869,NHL Open Ice,PS,1996.0,Sports,Midway Games,0.04,0.03,0.0,0.0
+870,NHL Powerplay '96,PS,1996.0,Sports,Virgin Interactive,0.06,0.04,0.0,0.01
+871,NOëL: NOT DiGITAL,PS,1996.0,Adventure,Pioneer LDC,0.0,0.0,0.2,0.01
+872,Namco Museum Vol.2,PS,1996.0,Misc,Sony Computer Entertainment,0.03,0.02,0.21,0.02
+873,Namco Museum Vol.3,PS,1996.0,Misc,Sony Computer Entertainment,2.28,1.55,0.16,0.06
+874,Namco Museum Vol.4,PS,1996.0,Misc,Sony Computer Entertainment,0.02,0.01,0.16,0.01
+875,Namco Museum Vol.5,PS,1996.0,Misc,Sony Computer Entertainment,0.02,0.01,0.12,0.01
+876,Neon Genesis Evangelion,SAT,1996.0,Adventure,Sega,0.0,0.0,0.44,0.0
+877,NiGHTS into dreams...,SAT,1996.0,Platform,Sega,0.0,0.0,0.43,0.0
+878,NightTruth: Explanation of the Paranormal - The Making of Nighttruth: Voice Selection,SAT,1996.0,Misc,Sonnet,0.0,0.0,0.02,0.0
+879,Nightmare Creatures,N64,1996.0,Action,Activision,0.21,0.05,0.0,0.0
+880,Nishijin Pachinko Monogatari 2,SNES,1996.0,Misc,KSS,0.0,0.0,0.03,0.0
+881,Nobunaga no Yabou: Tenshoki,SNES,1996.0,Strategy,Tecmo Koei,0.0,0.0,0.17,0.0
+882,Nonomura Byoin no Hitobito,SAT,1996.0,Adventure,Elf,0.0,0.0,0.36,0.0
+883,Ogre Battle Saga Episode Five: The March of the Black Queen,PS,1996.0,Role-Playing,ArtDink,0.06,0.04,0.09,0.01
+884,Olympic Soccer: Atlanta 1996,PS,1996.0,Sports,U.S. Gold,0.03,0.02,0.0,0.0
+885,Olympic Summer Games: Atlanta 1996,PS,1996.0,Sports,U.S. Gold,0.06,0.04,0.0,0.01
+886,OverBlood,PS,1996.0,Action,Electronic Arts,0.05,0.04,0.21,0.02
+887,PGA Tour 97,PS,1996.0,Sports,Electronic Arts,0.16,0.11,0.0,0.02
+888,PO'ed,PS,1996.0,Shooter,Time Warner Interactive,0.02,0.01,0.0,0.0
+889,PaRappa The Rapper,PS,1996.0,Misc,Sony Computer Entertainment,0.26,0.16,1.46,0.03
+890,Pandemonium!,PS,1996.0,Platform,BMG Interactive Entertainment,0.12,0.08,0.0,0.01
+891,Parlor! Mini 2,SNES,1996.0,Misc,Nippon Telenet,0.0,0.0,0.07,0.0
+892,Parlor! Mini 4,SNES,1996.0,Misc,Nippon Telenet,0.0,0.0,0.19,0.0
+893,Penny Racers,PS,1996.0,Racing,Sony Computer Entertainment,0.0,0.0,0.23,0.02
+894,Perfect Weapon,PS,1996.0,Action,American Softworks,0.13,0.09,0.0,0.02
+895,Picross 2,GB,1996.0,Puzzle,Nintendo,0.0,0.0,0.35,0.0
+896,Pilotwings 64,N64,1996.0,Simulation,Nintendo,0.56,0.24,0.3,0.02
+897,Pitball,PS,1996.0,Sports,Time Warner Interactive,0.01,0.01,0.0,0.0
+898,PoPoLoCrois Monogatari,PS,1996.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.46,0.03
+899,Pokemon Red/Pokemon Blue,GB,1996.0,Role-Playing,Nintendo,11.27,8.89,10.22,1.0
+900,PowerSlave,PS,1996.0,Shooter,BMG Interactive Entertainment,0.02,0.01,0.0,0.0
+901,Pro Pinball,PS,1996.0,Misc,Empire Interactive,0.23,0.15,0.0,0.03
+902,Project Overkill,PS,1996.0,Shooter,Konami Digital Entertainment,0.14,0.09,0.0,0.02
+903,Psychic Force,PS,1996.0,Fighting,Acclaim Entertainment,0.01,0.01,0.13,0.01
+904,RPG Tsukuru 2,SNES,1996.0,Role-Playing,ASCII Entertainment,0.0,0.0,0.31,0.0
+905,Rage Racer,PS,1996.0,Racing,Sony Computer Entertainment,0.16,0.11,0.83,0.08
+906,Real Bout Garou Densetsu,SAT,1996.0,Fighting,SNK,0.0,0.0,0.1,0.0
+907,Reel Fishing,PS,1996.0,Sports,Natsume,0.99,0.13,0.1,0.04
+908,Reloaded,PS,1996.0,Action,Gremlin Interactive Ltd,0.09,0.06,0.0,0.01
+909,Resident Evil,PS,1996.0,Action,Virgin Interactive,2.05,1.16,1.11,0.73
+910,Resident Evil,PS,1996.0,Action,Virgin Interactive,2.05,1.16,1.11,0.73
+911,Resident Evil Director's Cut,PS,1996.0,Action,Virgin Interactive,1.82,1.24,0.47,0.25
+912,Return Fire,PS,1996.0,Strategy,Time Warner Interactive,0.05,0.03,0.0,0.01
+913,Robotron X,PS,1996.0,Shooter,GT Interactive,0.05,0.03,0.0,0.01
+914,Rudra no Hihou,SNES,1996.0,Role-Playing,SquareSoft,0.0,0.0,0.15,0.0
+915,SD Gundam: Over Galaxian,PS,1996.0,Shooter,Namco Bandai Games,0.0,0.0,0.05,0.0
+916,Saikyou Habu Shogi,N64,1996.0,Misc,Seta Corporation,0.0,0.0,0.06,0.03
+917,Sakura Wars,SAT,1996.0,Adventure,Sega,0.0,0.0,0.55,0.0
+918,San Goku Shi V,SAT,1996.0,Strategy,Tecmo Koei,0.0,0.0,0.12,0.0
+919,Saturn Bomberman,SAT,1996.0,Puzzle,Sega,0.0,0.0,0.15,0.0
+920,Sega Touring Car Championship,SAT,1996.0,Racing,Sega,0.0,0.0,0.11,0.0
+921,Shin Fortune Quest: Sokutaku no Kishi,PS,1996.0,Misc,Media Works,0.0,0.0,0.04,0.0
+922,Shin Nippon Pro Wrestling: Toukon Retsuden 2,PS,1996.0,Fighting,Tomy Corporation,0.0,0.0,0.26,0.02
+923,Shin Super Robot Taisen,PS,1996.0,Role-Playing,Banpresto,0.0,0.0,0.52,0.04
+924,Shippuu Mahou Daisakusen: Kingdom-Grandprix,SAT,1996.0,Shooter,Gaga,0.0,0.0,0.02,0.0
+925,SimCity 2000,PS,1996.0,Simulation,Maxis,0.68,0.46,0.0,0.08
+926,SimCity 2000,PS,1996.0,Simulation,Maxis,0.68,0.46,0.0,0.08
+927,Skeleton Warriors,PS,1996.0,Platform,Virgin Interactive,0.04,0.03,0.0,0.01
+928,Snowboard Kids,N64,1996.0,Sports,Atlus,0.16,0.04,0.0,0.0
+929,Sotsugyou Crossworld,PS,1996.0,Simulation,Hearty Robin,0.0,0.0,0.08,0.01
+930,Soul Edge,PS,1996.0,Fighting,Sony Computer Entertainment,0.61,0.41,0.46,0.1
+931,Sound Novel Tsukuru,SNES,1996.0,Misc,ASCII Entertainment,0.0,0.0,0.08,0.0
+932,Soviet Strike,PS,1996.0,Simulation,Electronic Arts,0.65,0.44,0.0,0.08
+933,Space Jam,PS,1996.0,Sports,Acclaim Entertainment,0.51,0.35,0.0,0.06
+934,Speed Racer,PS,1996.0,Racing,Tomy Corporation,0.04,0.02,0.0,0.0
+935,Spot Goes to Hollywood,PS,1996.0,Platform,Virgin Interactive,0.04,0.03,0.0,0.0
+936,Star Gladiator Episode: I Final Crusade,PS,1996.0,Fighting,Virgin Interactive,0.07,0.05,0.15,0.02
+937,Star Ocean,SNES,1996.0,Role-Playing,Enix Corporation,0.0,0.0,0.23,0.0
+938,Star Wars: Dark Forces,PS,1996.0,Shooter,LucasArts,0.31,0.21,0.0,0.04
+939,Star Wars: Rebel Assault II - The Hidden Empire,PS,1996.0,Shooter,CTO SpA,0.49,0.33,0.0,0.06
+940,Star Wars: Shadows of the Empire,N64,1996.0,Action,Nintendo,2.0,0.5,0.12,0.03
+941,Starwinder: The Ultimate Space Race,PS,1996.0,Racing,Mindscape,0.03,0.02,0.0,0.0
+942,Street Fighter Alpha 2,SNES,1996.0,Fighting,Nintendo,0.0,0.0,0.17,0.0
+943,Street Fighter Alpha 2,PS,1996.0,Fighting,Virgin Interactive,0.14,0.09,0.57,0.06
+944,Street Fighter Alpha: Warriors' Dreams,SAT,1996.0,Fighting,Capcom,0.0,0.0,0.35,0.0
+945,Street Fighter Collection,SAT,1996.0,Fighting,Capcom,0.0,0.0,0.11,0.0
+946,Street Racer,PS,1996.0,Racing,Ubisoft,0.09,0.06,0.0,0.01
+947,Strike Point,PS,1996.0,Simulation,Elite,0.04,0.03,0.0,0.0
+948,Strikers 1945,SAT,1996.0,Shooter,Atlus,0.0,0.0,0.05,0.0
+949,Super Bomberman 4,SNES,1996.0,Puzzle,Hudson Soft,0.0,0.0,0.44,0.0
+950,Super Famista 5,SNES,1996.0,Sports,Namco Bandai Games,0.0,0.0,0.5,0.0
+951,Super Mario 64,N64,1996.0,Platform,Nintendo,6.91,2.85,1.91,0.23
+952,Super Mario RPG: Legend of the Seven Stars,SNES,1996.0,Role-Playing,Nintendo,0.66,0.0,1.45,0.03
+953,Super Nazo Puyo Tsuu: Ruruu no Tetsuwan Hanjyouki,SNES,1996.0,Puzzle,Compile,0.0,0.0,0.02,0.0
+954,Super Puzzle Fighter II Turbo,PS,1996.0,Puzzle,Virgin Interactive,0.08,0.05,0.0,0.01
+955,Sword & Sorcery,SAT,1996.0,Role-Playing,Micro Cabin,0.0,0.0,0.1,0.0
+956,TNN Motor Sports Hardcore 4x4,PS,1996.0,Racing,ASC Games,0.73,0.5,0.0,0.09
+957,Tail of the Sun,PS,1996.0,Role-Playing,ArtDink,0.01,0.01,0.0,0.0
+958,Tamagotchi,GB,1996.0,Simulation,Namco Bandai Games,0.0,0.0,1.44,0.01
+959,Tanjou S Debut,SAT,1996.0,Simulation,NEC Interchannel,0.0,0.0,0.06,0.0
+960,Tecmo Super Bowl,PS,1996.0,Sports,Tecmo Koei,0.06,0.04,0.0,0.01
+961,Tecmo's Deception,PS,1996.0,Role-Playing,Sunsoft,0.04,0.03,0.0,0.0
+962,Tekken 2,PS,1996.0,Fighting,Sony Computer Entertainment,2.26,1.89,1.36,0.23
+963,Tetris Attack,GB,1996.0,Puzzle,Nintendo,0.0,0.0,0.23,0.0
+964,Tetris Plus,PS,1996.0,Puzzle,JVC,2.1,0.24,0.0,0.07
+965,The Adventures of Lomax,PS,1996.0,Platform,Psygnosis,0.01,0.01,0.0,0.0
+966,The Final Round,PS,1996.0,Sports,Konami Digital Entertainment,0.04,0.03,0.0,0.0
+967,The Incredible Hulk: The Pantheon Saga,PS,1996.0,Action,Eidos Interactive,0.09,0.06,0.0,0.01
+968,The King of Fighters '95,PS,1996.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.16,0.01
+969,The King of Fighters '96,SAT,1996.0,Fighting,SNK,0.0,0.0,0.21,0.0
+970,The King of Fighters '96,NG,1996.0,Fighting,SNK,0.0,0.0,0.06,0.0
+971,The Space Bar,SAT,1996.0,Adventure,Sega,0.0,0.0,0.08,0.0
+972,Time Commando,PS,1996.0,Action,Adeline Software,0.1,0.07,0.0,0.01
+973,Tobal No.1,PS,1996.0,Fighting,Sony Computer Entertainment,0.12,0.08,0.66,0.06
+974,Tokimeki Memorial: Forever with You,SAT,1996.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.38,0.0
+975,Tokimeki Memorial: Private Collection,PS,1996.0,Misc,Konami Digital Entertainment,0.0,0.0,0.16,0.01
+976,Tokimeki Memorial: Taisen Pazurudama,SAT,1996.0,Puzzle,Konami Digital Entertainment,0.0,0.0,0.08,0.0
+977,Tokimeki Memorial: Taisen Pazurudama,PS,1996.0,Puzzle,Konami Digital Entertainment,0.0,0.0,0.09,0.01
+978,Tokyo Highway Battle,PS,1996.0,Racing,Jaleco,0.06,0.04,0.21,0.02
+979,Tomb Raider,PC,1996.0,Action,Eidos Interactive,0.96,0.07,0.0,0.0
+980,Tomb Raider,PC,1996.0,Action,Eidos Interactive,0.96,0.07,0.0,0.0
+981,Tomb Raider,PS,1996.0,Action,Eidos Interactive,2.29,1.97,0.13,0.24
+982,Tomb Raider,PS,1996.0,Action,Eidos Interactive,2.29,1.97,0.13,0.24
+983,Top Gun: Fire at Will!,PS,1996.0,Misc,Microprose,0.3,0.21,0.0,0.04
+984,Treasure Hunter G,SNES,1996.0,Role-Playing,SquareSoft,0.0,0.0,0.2,0.0
+985,Triple Play 97,PS,1996.0,Sports,Electronic Arts Victor,0.21,0.15,0.0,0.03
+986,True Pinball,PS,1996.0,Misc,Ocean,0.02,0.01,0.0,0.0
+987,Tunnel B1,PS,1996.0,Action,Ocean,0.05,0.03,0.0,0.01
+988,Twisted Metal 2,PS,1996.0,Racing,Sony Computer Entertainment,2.12,0.25,0.0,0.07
+989,VR Golf '97,PS,1996.0,Sports,Gremlin Interactive Ltd,0.09,0.06,0.0,0.01
+990,VR Soccer '96,PS,1996.0,Sports,Gremlin Interactive Ltd,0.03,0.02,0.0,0.0
+991,Vandal Hearts,PS,1996.0,Role-Playing,Konami Digital Entertainment,0.14,0.09,0.19,0.03
+992,Victory Spike,PS,1996.0,Sports,Imagineer,0.0,0.0,0.01,0.0
+993,Virtua Cop 2,SAT,1996.0,Shooter,Sega,0.0,0.0,0.3,0.0
+994,Virtual Pro Wrestling,PS,1996.0,Fighting,Asmik Ace Entertainment,0.0,0.0,0.09,0.01
+995,WWF in Your House,PS,1996.0,Fighting,Acclaim Entertainment,0.35,0.24,0.0,0.04
+996,War Gods,PS,1996.0,Fighting,GT Interactive,0.01,0.01,0.0,0.0
+997,Warhammer: Shadow of the Horned Rat,PS,1996.0,Strategy,Mindscape,0.11,0.07,0.0,0.01
+998,Wave Race 64,N64,1996.0,Racing,Nintendo,1.98,0.58,0.34,0.04
+999,Wayne Gretzky's 3D Hockey,N64,1996.0,Sports,Nintendo,0.49,0.03,0.0,0.0
+1000,Wild ARMs,PS,1996.0,Role-Playing,Sony Computer Entertainment,0.26,0.17,0.46,0.06
+1001,Wing Commander III: Heart of the Tiger,PS,1996.0,Action,Electronic Arts,0.09,0.06,0.0,0.01
+1002,Winter Heat,SAT,1996.0,Sports,Sega,0.0,0.0,0.11,0.0
+1003,WipEout XL,PS,1996.0,Racing,Psygnosis,0.14,0.1,0.0,0.02
+1004,Wonder Project J2: Koruro no Mori no Josette,N64,1996.0,Simulation,Enix Corporation,0.0,0.0,0.12,0.04
+1005,World Stadium EX,PS,1996.0,Sports,Namco Bandai Games,0.0,0.0,0.41,0.03
+1006,64 de Hakken! Tamagotchi Minna de Tamagotchi World,N64,1997.0,Misc,Namco Bandai Games,0.0,0.0,0.22,0.0
+1007,Ace Combat 2,PS,1997.0,Simulation,Sony Computer Entertainment,0.16,0.11,0.56,0.06
+1008,Actua Tennis,PS,1997.0,Sports,Gremlin Interactive Ltd,0.07,0.05,0.0,0.01
+1009,Aero Gauge,N64,1997.0,Racing,ASCII Entertainment,0.06,0.01,0.0,0.0
+1010,AeroFighters Assault,N64,1997.0,Action,Video System,0.15,0.04,0.0,0.0
+1011,All Japan Pro Wrestling featuring Virtua,SAT,1997.0,Fighting,Sega,0.0,0.0,0.15,0.0
+1012,Alundra,PS,1997.0,Role-Playing,Psygnosis,0.13,0.09,0.0,0.01
+1013,Angel Blade: Neo Tokyo Guardians,PS,1997.0,Role-Playing,On Demand,0.12,0.08,0.0,0.01
+1014,Armored Core,PS,1997.0,Simulation,Sony Computer Entertainment,0.13,0.09,0.16,0.03
+1015,Armored Core: Project Phantasma,PS,1997.0,Simulation,From Software,0.06,0.04,0.15,0.02
+1016,Automobili Lamborghini,N64,1997.0,Racing,Titus,0.28,0.17,0.0,0.01
+1017,Azure Dreams,PS,1997.0,Role-Playing,Konami Digital Entertainment,0.07,0.05,0.0,0.01
+1018,Ballblazer Champions,PS,1997.0,Sports,CTO SpA,0.01,0.01,0.0,0.0
+1019,Battle Stations,PS,1997.0,Strategy,Electronic Arts,0.43,0.29,0.0,0.05
+1020,Big Bass World Championship,PS,1997.0,Sports,Starfish,0.2,0.14,0.0,0.02
+1021,Blast Corps,N64,1997.0,Action,Nintendo,0.39,0.09,0.17,0.06
+1022,Bloody Roar,PS,1997.0,Fighting,Virgin Interactive,0.22,0.15,0.0,0.03
+1023,Bomberman 64,N64,1997.0,Puzzle,Hudson Soft,0.5,0.2,0.31,0.03
+1024,Bottom of the 9th '97,PS,1997.0,Sports,Konami Digital Entertainment,0.01,0.01,0.0,0.0
+1025,Bravo Air Race,PS,1997.0,Racing,THQ,0.08,0.05,0.0,0.01
+1026,Breath of Fire III,PS,1997.0,Role-Playing,Capcom,0.29,0.19,0.46,0.07
+1027,Broken Helix,PS,1997.0,Action,Konami Digital Entertainment,0.03,0.02,0.0,0.0
+1028,Broken Sword II: The Smoking Mirror,PS,1997.0,Adventure,Sony Computer Entertainment,0.03,0.02,0.0,0.0
+1029,Bugriders: The Race of Kings,PS,1997.0,Racing,GT Interactive,0.01,0.01,0.0,0.0
+1030,Bushido Blade,PS,1997.0,Fighting,Sony Computer Entertainment,0.39,0.27,0.43,0.08
+1031,Bust-A-Move '99,PS,1997.0,Puzzle,Acclaim Entertainment,0.18,0.12,0.0,0.02
+1032,Bust-A-Move 2 Arcade Edition,N64,1997.0,Puzzle,Acclaim Entertainment,0.06,0.02,0.0,0.0
+1033,Buster Bros. Collection,PS,1997.0,Puzzle,Capcom,0.04,0.03,0.0,0.0
+1034,Cart World Series,PS,1997.0,Racing,Sony Computer Entertainment,0.17,0.11,0.0,0.02
+1035,Castlevania: Symphony of the Night,PS,1997.0,Platform,Konami Digital Entertainment,0.58,0.4,0.21,0.08
+1036,Chameleon Twist,N64,1997.0,Platform,Sunsoft,0.09,0.02,0.0,0.0
+1037,Chocobo no Fushigi Dungeon,PS,1997.0,Role-Playing,SquareSoft,0.0,0.0,1.14,0.08
+1038,Chopper Attack,N64,1997.0,Action,GT Interactive,0.09,0.02,0.0,0.0
+1039,Choro Q2,PS,1997.0,Racing,Takara,0.0,0.0,0.23,0.02
+1040,Choujikuu Yousai Macross: Ai Oboete Imasu ka,SAT,1997.0,Shooter,Namco Bandai Games,0.0,0.0,0.1,0.0
+1041,ClayFighter 63 1/3,N64,1997.0,Fighting,Interplay,0.17,0.04,0.0,0.0
+1042,Clock Tower: The First Fear,PS,1997.0,Adventure,Human Entertainment,0.0,0.0,0.12,0.01
+1043,Codename Tenka,PS,1997.0,Shooter,Psygnosis,0.05,0.03,0.0,0.01
+1044,Colony Wars,PS,1997.0,Simulation,Psygnosis,0.24,0.16,0.0,0.03
+1045,Command & Conquer: Red Alert,PS,1997.0,Strategy,Virgin Interactive,0.23,0.16,0.0,0.03
+1046,Cool Boarders 2,PS,1997.0,Sports,UEP Systems,1.52,0.46,0.2,0.08
+1047,Courier Crisis,PS,1997.0,Racing,BMG Interactive Entertainment,0.09,0.06,0.0,0.01
+1048,Crash Bandicoot 2: Cortex Strikes Back,PS,1997.0,Platform,Sony Computer Entertainment,3.78,2.17,1.31,0.31
+1049,Critical Depth,PS,1997.0,Action,GT Interactive,0.13,0.09,0.0,0.01
+1050,Croc: Legend of the Gobbos,PS,1997.0,Platform,Fox Interactive,1.57,1.79,0.0,0.2
+1051,Crypt Killer,PS,1997.0,Shooter,Konami Digital Entertainment,0.02,0.01,0.0,0.0
+1052,DX Game of Life 2,PS,1997.0,Misc,Takara,0.0,0.0,0.31,0.02
+1053,Dark Rift,N64,1997.0,Fighting,Vic Tokai,0.12,0.03,0.0,0.0
+1054,Darklight Conflict,PS,1997.0,Simulation,Electronic Arts,0.02,0.01,0.0,0.0
+1055,Dead or Alive,SAT,1997.0,Fighting,Tecmo Koei,0.0,0.0,0.18,0.0
+1056,Densha De Go!,PS,1997.0,Simulation,Taito,0.0,0.0,1.02,0.07
+1057,Derby Stallion,PS,1997.0,Sports,ASCII Entertainment,0.0,0.0,1.96,0.14
+1058,Descent Maximum,PS,1997.0,Shooter,Interplay Productions,0.05,0.04,0.0,0.01
+1059,Desire,SAT,1997.0,Adventure,Imadio,0.0,0.0,0.14,0.0
+1060,Diablo,PS,1997.0,Role-Playing,Electronic Arts,0.29,0.19,0.07,0.04
+1061,Diddy Kong Racing,N64,1997.0,Racing,Nintendo,2.91,0.99,0.89,0.1
+1062,Doom 64,N64,1997.0,Shooter,Midway Games,0.38,0.08,0.0,0.01
+1063,Doukyuusei 2,SAT,1997.0,Role-Playing,NEC Interchannel,0.0,0.0,0.13,0.0
+1064,Dragon Ball GT: Final Bout,PS,1997.0,Fighting,Namco Bandai Games,0.02,0.02,0.22,0.02
+1065,Dual Heroes,N64,1997.0,Fighting,Hudson Soft,0.04,0.01,0.0,0.0
+1066,Duke Nukem 64,N64,1997.0,Shooter,GT Interactive,0.35,0.08,0.0,0.01
+1067,Duke Nukem: Total Meltdown,PS,1997.0,Shooter,GT Interactive,0.34,0.23,0.0,0.04
+1068,Dynasty Warriors,PS,1997.0,Action,Tecmo Koei,0.09,0.06,0.11,0.02
+1069,ESPN X-Games Pro Boarder,PS,1997.0,Sports,Sony Computer Entertainment,0.18,0.12,0.0,0.02
+1070,EVE: burst error,SAT,1997.0,Adventure,Imagineer,0.0,0.0,0.21,0.0
+1071,Einhänder,PS,1997.0,Shooter,SquareSoft,0.1,0.07,0.13,0.02
+1072,Elemental Gearbolt,PS,1997.0,Shooter,Sony Computer Entertainment,0.03,0.02,0.0,0.0
+1073,Extreme-G,N64,1997.0,Racing,Acclaim Entertainment,0.47,0.11,0.0,0.01
+1074,F1 Pole Position 64,N64,1997.0,Racing,Ubisoft,0.11,0.13,0.0,0.01
+1075,FIFA Soccer 64,N64,1997.0,Sports,Electronic Arts,0.16,0.3,0.0,0.03
+1076,FIFA: Road to  World Cup 98,N64,1997.0,Sports,Electronic Arts,0.15,0.39,0.0,0.03
+1077,FIFA: Road to World Cup 98,PS,1997.0,Sports,Electronic Arts,0.14,0.09,0.46,0.05
+1078,Fantastic Four,PS,1997.0,Action,Acclaim Entertainment,0.04,0.03,0.0,0.0
+1079,Felony 11-79,PS,1997.0,Racing,ASCII Entertainment,0.06,0.04,0.0,0.01
+1080,Fighting Force,PS,1997.0,Fighting,Eidos Interactive,0.73,0.5,0.0,0.09
+1081,Final Fantasy IV,PS,1997.0,Simulation,SquareSoft,0.0,0.0,0.29,0.02
+1082,Final Fantasy Tactics,PS,1997.0,Role-Playing,SquareSoft,0.93,0.12,1.34,0.06
+1083,Final Fantasy VII,PS,1997.0,Role-Playing,Sony Computer Entertainment,3.01,2.47,3.28,0.96
+1084,Final Fantasy VII International,PS,1997.0,Role-Playing,Square,0.0,0.0,0.59,0.04
+1085,Flying Dragon,N64,1997.0,Fighting,Natsume,0.08,0.02,0.0,0.0
+1086,Formula 1 Championship Edition,PS,1997.0,Racing,Psygnosis,0.06,0.04,0.23,0.02
+1087,Fox Sports Golf '99,PS,1997.0,Sports,Gremlin Interactive Ltd,0.08,0.05,0.0,0.01
+1088,Frogger,PS,1997.0,Action,Hasbro Interactive,3.79,0.27,0.0,0.11
+1089,Front Mission 2,PS,1997.0,Strategy,SquareSoft,0.0,0.0,0.49,0.03
+1090,Front Mission Alternative,PS,1997.0,Strategy,SquareSoft,0.0,0.0,0.13,0.01
+1091,Future Cop L.A.P.D.,PS,1997.0,Simulation,Electronic Arts,0.16,0.11,0.0,0.02
+1092,G Darius,PS,1997.0,Shooter,THQ,0.04,0.03,0.0,0.0
+1093,G-Police,PS,1997.0,Action,Psygnosis,0.13,0.09,0.0,0.02
+1094,Gallop Racer 2: One and Only Road to Victory,PS,1997.0,Sports,Tecmo Koei,0.0,0.0,0.25,0.02
+1095,Game & Watch Gallery,GB,1997.0,Misc,Nintendo,0.63,0.25,0.09,0.03
+1096,Game & Watch Gallery 2,GB,1997.0,Misc,Nintendo,0.76,0.3,0.12,0.04
+1097,Game de Hakken!! Tamagotchi 2,GB,1997.0,Simulation,Namco Bandai Games,0.0,0.0,1.44,0.01
+1098,Ghost in the Shell,PS,1997.0,Simulation,Sony Computer Entertainment,0.06,0.04,0.0,0.01
+1099,GoldenEye 007,N64,1997.0,Shooter,Nintendo,5.8,2.01,0.13,0.15
+1100,Gran Turismo,PS,1997.0,Racing,Sony Computer Entertainment,4.02,3.87,2.54,0.52
+1101,Gran Turismo,PS,1997.0,Racing,Sony Computer Entertainment,4.02,3.87,2.54,0.52
+1102,Grand Prix Legends,PC,1997.0,Racing,Vivendi Games,0.0,0.01,0.0,0.0
+1103,Grand Slam,PS,1997.0,Misc,Virgin Interactive,0.02,0.02,0.0,0.0
+1104,Grand Theft Auto,PS,1997.0,Action,Take-Two Interactive,0.79,1.35,0.04,0.14
+1105,Grandia,SAT,1997.0,Role-Playing,ESP,0.0,0.0,0.42,0.0
+1106,Gundam: The Battle Master,PS,1997.0,Fighting,Namco Bandai Games,0.0,0.0,0.13,0.01
+1107,Half-Life,PC,1997.0,Shooter,Vivendi Games,4.03,0.0,0.09,0.0
+1108,Hanagumi Taisen Columns,SAT,1997.0,Puzzle,Sega,0.0,0.0,0.12,0.0
+1109,Harvest Moon GB,GB,1997.0,Simulation,Victor Interactive,0.0,0.0,0.23,0.0
+1110,Herc's Adventures,PS,1997.0,Action,Virgin Interactive,0.02,0.01,0.0,0.0
+1111,Hexen: Beyond Heretic,PS,1997.0,Shooter,GT Interactive,0.06,0.04,0.0,0.01
+1112,Hot Shots Golf,PS,1997.0,Sports,Sony Computer Entertainment,0.29,0.2,2.13,0.18
+1113,Independence Day,PS,1997.0,Shooter,Fox Interactive,0.25,0.17,0.0,0.03
+1114,Intelligent Qube,PS,1997.0,Puzzle,Sony Computer Entertainment,0.13,0.07,1.0,0.02
+1115,Interactive Sampler Disc 6,PS,1997.0,Misc,Sony Computer Entertainment,0.08,0.05,0.0,0.01
+1116,International Superstar Soccer 64,N64,1997.0,Sports,Konami Digital Entertainment,0.09,0.26,0.23,0.02
+1117,International Superstar Soccer 64 (weekly JP sales),N64,1997.0,Sports,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+1118,Itoi Shigesato no Bass Tsuri No. 1,SNES,1997.0,Sports,Nintendo,0.0,0.0,0.17,0.0
+1119,J-League Jikkyou Winning Eleven 3,PS,1997.0,Sports,Konami Digital Entertainment,0.0,0.0,0.18,0.01
+1120,J-League Pro Soccer Club wo Tsukurou! 2,SAT,1997.0,Sports,Sega,0.0,0.0,0.49,0.0
+1121,Jeopardy!,PS,1997.0,Misc,Hasbro Interactive,0.39,0.27,0.0,0.05
+1122,Jersey Devil,PS,1997.0,Platform,Ocean,0.13,0.09,0.0,0.01
+1123,Jet Moto 2,PS,1997.0,Racing,Sony Computer Entertainment,1.41,0.42,0.03,0.07
+1124,Jikkyou Powerful Pro Yakyuu '97 Kaimakuban,PS,1997.0,Sports,Konami Digital Entertainment,0.0,0.0,0.56,0.04
+1125,Jikkyou Powerful Pro Yakyuu 3 '97 Haru,SNES,1997.0,Sports,Konami Digital Entertainment,0.0,0.0,0.16,0.0
+1126,Jikkyou Powerful Pro Yakyuu 4,N64,1997.0,Sports,Konami Digital Entertainment,0.0,0.0,0.26,0.05
+1127,Judge Dredd,PS,1997.0,Platform,Gremlin Interactive Ltd,0.03,0.02,0.0,0.0
+1128,K-1 Revenge,PS,1997.0,Fighting,Xing Entertainment,0.04,0.03,0.16,0.02
+1129,Kakyuusei,SAT,1997.0,Strategy,Elf,0.0,0.0,0.28,0.0
+1130,Kensei: Sacred Fist,PS,1997.0,Fighting,Konami Digital Entertainment,0.01,0.01,0.0,0.0
+1131,Kidou Senkan Nadesico,SAT,1997.0,Strategy,Sega,0.0,0.0,0.15,0.0
+1132,Kirby's Dream Land 3,SNES,1997.0,Platform,Nintendo,0.0,0.0,0.36,0.0
+1133,Kirby's Star Stacker,GB,1997.0,Puzzle,Nintendo,0.0,0.0,0.22,0.0
+1134,Klonoa: Door to Phantomile,PS,1997.0,Platform,Sony Computer Entertainment,0.0,0.0,0.17,0.01
+1135,Knockout Kings,PS,1997.0,Fighting,Electronic Arts,1.07,0.39,0.0,0.06
+1136,Kowloon's Gate,PS,1997.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.14,0.01
+1137,Langrisser IV,SAT,1997.0,Strategy,NCS,0.0,0.0,0.11,0.0
+1138,Lunar: Silver Star Story Complete,SAT,1997.0,Role-Playing,Kadokawa Shoten,0.0,0.0,0.21,0.0
+1139,MDK,PS,1997.0,Shooter,Interplay,0.11,0.08,0.0,0.01
+1140,MRC: Multi-Racing Championship,N64,1997.0,Racing,Ocean,0.2,0.05,0.0,0.0
+1141,Mace: The Dark Age,N64,1997.0,Fighting,GT Interactive,0.15,0.04,0.0,0.0
+1142,Macross Digital Mission VF-X,PS,1997.0,Simulation,Namco Bandai Games,0.0,0.0,0.28,0.02
+1143,Madden Football 64,N64,1997.0,Sports,Electronic Arts,0.81,0.04,0.0,0.01
+1144,Madden NFL 98,PS,1997.0,Sports,Electronic Arts,1.29,0.03,0.0,0.03
+1145,Magic: The Gathering - Battlemage,PS,1997.0,Strategy,Acclaim Entertainment,0.07,0.05,0.0,0.01
+1146,Magical Tetris Challenge,N64,1997.0,Puzzle,Activision,0.13,0.02,0.05,0.0
+1147,Marie no Atelier: Salburg no Renkinjutsushi,PS,1997.0,Role-Playing,Gust,0.0,0.0,0.23,0.02
+1148,Marvel Super Heroes,SAT,1997.0,Fighting,Capcom,0.0,0.0,0.06,0.0
+1149,Marvel Super Heroes,PS,1997.0,Fighting,Virgin Interactive,0.19,0.13,0.0,0.02
+1150,Mass Destruction,PS,1997.0,Shooter,BMG Interactive Entertainment,0.06,0.04,0.0,0.01
+1151,Master of Monsters: Disciples of Gaia,PS,1997.0,Strategy,Agetec,0.02,0.01,0.0,0.0
+1152,Maximum Force,PS,1997.0,Shooter,GT Interactive,0.06,0.04,0.0,0.01
+1153,MechWarrior 2: 31st Century Combat,PS,1997.0,Simulation,Activision,0.2,0.14,0.0,0.02
+1154,Medarot: Kabuto / Kuwagata Version,GB,1997.0,Role-Playing,Imagineer,0.0,0.0,0.4,0.0
+1155,Mega Man 8 Anniversary Collector's Edition,SAT,1997.0,Platform,Capcom,0.0,0.0,0.06,0.0
+1156,Mega Man Legends,PS,1997.0,Adventure,Capcom,0.39,0.26,0.12,0.05
+1157,Mega Man X4,SAT,1997.0,Action,Capcom,0.0,0.0,0.07,0.0
+1158,Mega Man: Battle & Chase,PS,1997.0,Racing,Capcom,0.0,0.0,0.06,0.0
+1159,Micro Machines V3,PS,1997.0,Racing,Codemasters,0.06,0.04,0.0,0.01
+1160,Mini-Yonku GB: Let's & Go!!,GB,1997.0,Strategy,ASCII Entertainment,0.0,0.0,0.37,0.0
+1161,Mischief Makers,N64,1997.0,Platform,Nintendo,0.25,0.06,0.07,0.06
+1162,Mission: Impossible,N64,1997.0,Action,Ocean,0.74,0.38,0.02,0.03
+1163,Mobile Suit Gundam Side Story III: Sabakareshi Mono,SAT,1997.0,Shooter,Namco Bandai Games,0.0,0.0,0.15,0.0
+1164,Mobile Suit Gundam: Perfect One Year War,PS,1997.0,Strategy,Namco Bandai Games,0.0,0.0,0.14,0.01
+1165,Mobile Suit Z-Gundam,PS,1997.0,Action,Namco Bandai Games,0.0,0.0,0.34,0.02
+1166,Momotaro Douchuuki,SAT,1997.0,Misc,Hudson Soft,0.0,0.0,0.13,0.0
+1167,Momotarou Dentetsu 7,PS,1997.0,Simulation,Hudson Entertainment,0.0,0.0,0.74,0.05
+1168,Monopoly,PS,1997.0,Misc,Hasbro Interactive,1.18,0.27,0.0,0.05
+1169,Monopoly,PS,1997.0,Misc,Hasbro Interactive,1.18,0.27,0.0,0.05
+1170,Monster Rancher,PS,1997.0,Simulation,Tecmo Koei,0.12,0.08,0.74,0.07
+1171,Moon,PS,1997.0,Adventure,ASCII Entertainment,0.0,0.0,0.17,0.01
+1172,Mortal Kombat Mythologies: Sub-Zero,N64,1997.0,Fighting,Midway Games,0.32,0.07,0.0,0.0
+1173,Mortal Kombat Mythologies: Sub-Zero,PS,1997.0,Fighting,GT Interactive,0.38,0.26,0.0,0.04
+1174,Moto Racer,PS,1997.0,Racing,Electronic Arts,0.45,0.3,0.0,0.05
+1175,Moto Racer 2,PS,1997.0,Racing,Electronic Arts,0.39,0.26,0.0,0.05
+1176,Mystical Ninja starring Goemon,N64,1997.0,Action,Konami Digital Entertainment,0.07,0.02,0.23,0.04
+1177,NBA Hangtime,N64,1997.0,Sports,GT Interactive,0.48,0.08,0.0,0.0
+1178,NBA In The Zone '98,N64,1997.0,Sports,Konami Digital Entertainment,0.25,0.02,0.0,0.0
+1179,NBA Live 98,PS,1997.0,Sports,Electronic Arts,1.41,0.06,0.0,0.04
+1180,NBA Live 99,PS,1997.0,Sports,Electronic Arts,1.13,0.05,0.0,0.03
+1181,NBA ShootOut '97,PS,1997.0,Sports,Sony Computer Entertainment,0.35,0.24,0.0,0.04
+1182,NCAA Basketball Final Four 97,PS,1997.0,Sports,Mindscape,0.08,0.05,0.0,0.01
+1183,NCAA Football 98,PS,1997.0,Sports,Electronic Arts,0.39,0.27,0.0,0.05
+1184,NFL GameDay 98,PS,1997.0,Sports,Sony Computer Entertainment,1.58,0.06,0.0,0.04
+1185,NFL Quarterback Club 98,N64,1997.0,Sports,Acclaim Entertainment,1.01,0.05,0.0,0.01
+1186,NHL 98,PS,1997.0,Sports,Electronic Arts,0.51,0.35,0.0,0.06
+1187,NHL 99,PS,1997.0,Sports,Electronic Arts,0.59,0.4,0.0,0.07
+1188,NHL FaceOff 98,PS,1997.0,Sports,Sony Computer Entertainment,0.28,0.19,0.0,0.03
+1189,NHL FaceOff 99,PS,1997.0,Sports,989 Studios,0.24,0.16,0.0,0.03
+1190,NHL Powerplay 98,PS,1997.0,Sports,Virgin Interactive,0.03,0.02,0.0,0.0
+1191,Nagano Winter Olympics '98,PS,1997.0,Sports,Konami Digital Entertainment,0.07,0.05,0.0,0.01
+1192,Nagano Winter Olympics 98,N64,1997.0,Sports,Konami Digital Entertainment,0.15,0.04,0.13,0.0
+1193,Nanotek Warrior,PS,1997.0,Shooter,Virgin Interactive,0.01,0.01,0.0,0.0
+1194,Need for Speed: V-Rally,PS,1997.0,Racing,Infogrames,0.43,0.29,0.09,0.06
+1195,Neon Genesis Evangelion 2nd Impression,SAT,1997.0,Role-Playing,Sega,0.0,0.0,0.42,0.0
+1196,Nightmare Creatures,PS,1997.0,Action,Sony Computer Entertainment,0.35,0.24,0.0,0.04
+1197,Norse by Norsewest: The Return of the Lost Vikings,PS,1997.0,Action,Interplay,0.04,0.03,0.0,0.0
+1198,Nuclear Strike,PS,1997.0,Simulation,Electronic Arts,0.66,0.45,0.0,0.08
+1199,O.D.T.: Escape... Or Die Trying,PS,1997.0,Adventure,Psygnosis,0.07,0.05,0.0,0.01
+1200,Oddworld: Abe's Oddysee,PS,1997.0,Platform,GT Interactive,0.75,0.44,0.0,0.06
+1201,Ogre Battle Series: Tactics Ogre,PS,1997.0,Role-Playing,Atlus,0.04,0.03,0.0,0.01
+1202,Pandemonium 2,PS,1997.0,Platform,BMG Interactive Entertainment,0.04,0.02,0.0,0.0
+1203,Panzer Dragoon Saga,SAT,1997.0,Role-Playing,Sega,0.0,0.0,0.11,0.0
+1204,Peak Performance,PS,1997.0,Racing,JVC,0.02,0.01,0.0,0.0
+1205,Pet in TV,PS,1997.0,Strategy,Sony Computer Entertainment,0.0,0.0,0.38,0.03
+1206,Pocket Fighter,PS,1997.0,Fighting,Virgin Interactive,0.06,0.04,0.12,0.01
+1207,Point Blank,PS,1997.0,Shooter,Sony Computer Entertainment,0.05,0.03,0.23,0.02
+1208,Porsche Challenge,PS,1997.0,Racing,Sony Computer Entertainment,0.05,0.03,0.0,0.01
+1209,Power Stakes,PS,1997.0,Sports,Aques,0.0,0.0,0.15,0.01
+1210,Poy Poy,PS,1997.0,Action,Konami Digital Entertainment,0.01,0.01,0.0,0.0
+1211,Princess Maker: Yumemiru Yosei,PS,1997.0,Strategy,Sony Computer Entertainment,0.0,0.0,0.18,0.01
+1212,Pro Yakyuu Greatest Nine '97,SAT,1997.0,Sports,Sega,0.0,0.0,0.21,0.0
+1213,Puyo Puyo Sun,SAT,1997.0,Puzzle,Compile,0.0,0.0,0.6,0.0
+1214,Puyo Puyo Sun 64,N64,1997.0,Puzzle,Compile,0.0,0.0,0.16,0.03
+1215,Puyo Puyo Sun Ketteiban,PS,1997.0,Puzzle,Compile,0.0,0.0,1.07,0.07
+1216,Puzzle Star Sweep,PS,1997.0,Puzzle,Midas Interactive Entertainment,0.01,0.01,0.0,0.0
+1217,RPG Maker,PS,1997.0,Role-Playing,ASCII Entertainment,0.11,0.07,0.29,0.03
+1218,Rally Cross,PS,1997.0,Racing,Sony Computer Entertainment,0.18,0.12,0.0,0.02
+1219,Rampage World Tour,PS,1997.0,Action,GT Interactive,0.47,0.32,0.0,0.06
+1220,Ray Tracers,PS,1997.0,Racing,Sony Computer Entertainment,0.04,0.02,0.0,0.0
+1221,RayStorm,PS,1997.0,Shooter,Sony Computer Entertainment,0.04,0.03,0.0,0.0
+1222,Real Sound: Kaze no Riguretto,SAT,1997.0,Adventure,Warp,0.0,0.0,0.07,0.0
+1223,Resident Evil,SAT,1997.0,Action,Capcom,0.0,0.0,0.17,0.0
+1224,Resident Evil,SAT,1997.0,Action,Capcom,0.0,0.0,0.17,0.0
+1225,Resident Evil Director's Cut: Dual Shock Edition,PS,1997.0,Action,Capcom,0.0,0.0,0.16,0.01
+1226,Riven: The Sequel to Myst,PS,1997.0,Adventure,Acclaim Entertainment,0.18,0.12,0.0,0.02
+1227,Riven: The Sequel to Myst,PC,1997.0,Adventure,Red Orb,1.52,0.82,0.0,0.1
+1228,Rosco McQueen: Firefighter Extreme,PS,1997.0,Action,Sony Computer Entertainment,0.05,0.04,0.0,0.01
+1229,Running Wild,PS,1997.0,Racing,989 Studios,0.05,0.03,0.0,0.01
+1230,Rush Hour,PS,1997.0,Misc,Psygnosis,0.02,0.01,0.0,0.0
+1231,SD Gundam G Century,PS,1997.0,Strategy,Namco Bandai Games,0.0,0.0,0.27,0.02
+1232,SaGa Frontier,PS,1997.0,Role-Playing,SquareSoft,0.15,0.04,1.07,0.09
+1233,Sakura Taisen Hanagumi Tsuushin,SAT,1997.0,Misc,Sega,0.0,0.0,0.11,0.0
+1234,San Francisco Rush: Extreme Racing,N64,1997.0,Racing,GT Interactive,0.63,0.11,0.0,0.01
+1235,San Francisco Rush: Extreme Racing,PS,1997.0,Racing,GT Interactive,0.21,0.15,0.0,0.03
+1236,Sentimental Graffiti: First Window,SAT,1997.0,Adventure,NEC Interchannel,0.0,0.0,0.08,0.0
+1237,Shadow Master,PS,1997.0,Adventure,Psygnosis,0.05,0.04,0.0,0.01
+1238,Shin Megami Tensei: Devil Summoner - Soul Hackers,SAT,1997.0,Role-Playing,Atlus,0.0,0.0,0.31,0.0
+1239,Shin Super Robot Taisen Special Disk,PS,1997.0,Strategy,Banpresto,0.0,0.0,0.3,0.02
+1240,Shining Force III,SAT,1997.0,Strategy,Sega,0.0,0.0,0.13,0.0
+1241,Sonic Jam,SAT,1997.0,Platform,Sega,0.0,0.0,0.12,0.0
+1242,Space Station Silicon Valley,N64,1997.0,Adventure,Take-Two Interactive,0.12,0.03,0.0,0.0
+1243,Spawn the Eternal,PS,1997.0,Action,Sony Computer Entertainment,0.14,0.09,0.0,0.02
+1244,Star Fox 64,N64,1997.0,Shooter,Nintendo,2.78,0.58,0.64,0.04
+1245,Star Wars: Masters of Teras Kasi,PS,1997.0,Action,LucasArts,0.38,0.26,0.0,0.04
+1246,Street Fighter Collection,PS,1997.0,Fighting,Capcom,0.0,0.0,0.09,0.01
+1247,Street Fighter EX Plus Alpha,PS,1997.0,Fighting,Virgin Interactive,0.28,0.19,0.23,0.05
+1248,Super Bomberman 5,SNES,1997.0,Puzzle,Hudson Soft,0.0,0.0,0.3,0.0
+1249,Super Robot Taisen F,SAT,1997.0,Strategy,Banpresto,0.0,0.0,0.55,0.0
+1250,Syndicate Wars,PS,1997.0,Strategy,Electronic Arts,0.02,0.01,0.0,0.0
+1251,TOCA Touring Car Championship,PS,1997.0,Racing,Codemasters,0.07,2.0,0.02,0.18
+1252,Tales of Destiny,PS,1997.0,Role-Playing,Namco Bandai Games,0.09,0.06,0.83,0.07
+1253,Tenchu: Stealth Assassins,PS,1997.0,Action,Activision,0.95,0.64,0.27,0.13
+1254,Tengai Makyou: Daishi no Mokushiroku - The Apocalypse IV,SAT,1997.0,Role-Playing,Hudson Soft,0.0,0.0,0.26,0.0
+1255,Test Drive 4,PS,1997.0,Racing,Electronic Arts,0.67,0.46,0.0,0.08
+1256,Test Drive 5,PS,1997.0,Racing,Accolade,1.05,0.2,0.0,0.05
+1257,Test Drive: Off Road,PS,1997.0,Racing,Eidos Interactive,0.65,0.44,0.0,0.08
+1258,Tetrisphere,N64,1997.0,Puzzle,Nintendo,0.29,0.06,0.0,0.0
+1259,The Bombing Islands,PS,1997.0,Platform,Kemco,0.08,0.05,0.0,0.01
+1260,The Conveni: Ano Machi wo Dokusen Seyo,PS,1997.0,Simulation,Human Entertainment,0.0,0.0,0.3,0.02
+1261,The Crow: City of Angels,PS,1997.0,Action,Acclaim Entertainment,0.01,0.01,0.0,0.0
+1262,The Granstream Saga,PS,1997.0,Role-Playing,Sony Computer Entertainment,0.08,0.05,0.0,0.01
+1263,The House of the Dead,SAT,1997.0,Shooter,Sega,0.0,0.0,0.13,0.0
+1264,The King of Fighters '96,PS,1997.0,Fighting,SNK,0.0,0.0,0.07,0.01
+1265,The Lost World: Jurassic Park,PS,1997.0,Action,Electronic Arts,0.57,0.39,0.0,0.07
+1266,Theme Hospital,PC,1997.0,Strategy,Electronic Arts,2.3,0.1,0.0,0.0
+1267,Thunder Truck Rally,PS,1997.0,Racing,Psygnosis,0.08,0.05,0.0,0.01
+1268,Tiger Woods 99 PGA Tour Golf,PS,1997.0,Sports,Electronic Arts,0.85,0.58,0.0,0.1
+1269,TigerShark,PS,1997.0,Simulation,GT Interactive,0.04,0.03,0.0,0.0
+1270,Time Crisis,PS,1997.0,Shooter,Namco Bandai Games,0.38,0.87,0.33,0.1
+1271,Tobal 2,PS,1997.0,Fighting,SquareSoft,0.0,0.0,0.35,0.02
+1272,Tomb Raider II,PS,1997.0,Action,Eidos Interactive,2.3,2.46,0.2,0.28
+1273,Tomb Raider II,PS,1997.0,Action,Eidos Interactive,2.3,2.46,0.2,0.28
+1274,Tomb Raider II,PC,1997.0,Action,Eidos Interactive,0.91,1.25,0.0,0.13
+1275,Tomb Raider II,PC,1997.0,Action,Eidos Interactive,0.91,1.25,0.0,0.13
+1276,Tomb Raider III: Adventures of Lara Croft,PS,1997.0,Action,Eidos Interactive,1.66,1.58,0.12,0.18
+1277,Tomba!,PS,1997.0,Platform,Sony Computer Entertainment,0.15,0.1,0.0,0.02
+1278,Top Gear Rally,N64,1997.0,Racing,Kemco,0.32,0.07,0.0,0.0
+1279,Treasures of the Deep,PS,1997.0,Action,Namco Bandai Games,0.1,0.07,0.0,0.01
+1280,Triple Play 98,PS,1997.0,Sports,Electronic Arts,0.61,0.42,0.0,0.07
+1281,Turbo Prop Racing,PS,1997.0,Racing,Sony Computer Entertainment,0.08,0.06,0.0,0.01
+1282,Turok 2: Seeds of Evil,N64,1997.0,Platform,Acclaim Entertainment,1.37,0.41,0.04,0.04
+1283,Turok: Dinosaur Hunter,N64,1997.0,Shooter,Acclaim Entertainment,0.0,0.0,0.05,0.0
+1284,VMX Racing,PS,1997.0,Racing,Playmates,0.16,0.11,0.0,0.02
+1285,Virtual Pool,PS,1997.0,Sports,Interplay,0.28,0.19,0.0,0.03
+1286,Virus,SAT,1997.0,Shooter,Hudson Soft,0.0,0.0,0.08,0.0
+1287,WCW vs. nWo: World Tour,N64,1997.0,Fighting,THQ,1.37,0.28,0.03,0.02
+1288,War Gods,N64,1997.0,Fighting,Midway Games,0.23,0.06,0.0,0.0
+1289,WarCraft II: The Dark Saga,PS,1997.0,Strategy,Electronic Arts,0.18,0.12,0.0,0.02
+1290,Wario Land II,GB,1997.0,Platform,Nintendo,0.7,0.35,0.39,0.04
+1291,Wayne Gretzky's 3D Hockey '98,N64,1997.0,Sports,Midway Games,0.23,0.02,0.0,0.0
+1292,Wayne Gretzky's 3D Hockey '98,PS,1997.0,Sports,GT Interactive,0.03,0.02,0.0,0.0
+1293,Wheel of Fortune,N64,1997.0,Misc,Take-Two Interactive,0.2,0.05,0.0,0.0
+1294,Wheel of Fortune,N64,1997.0,Misc,Take-Two Interactive,0.2,0.05,0.0,0.0
+1295,Wing Commander IV: The Price of Freedom,PS,1997.0,Simulation,Origin Systems,0.05,0.03,0.0,0.01
+1296,Worms 2,PC,1997.0,Strategy,Microprose,0.0,0.01,0.0,0.0
+1297,X-Men vs. Street Fighter,PS,1997.0,Fighting,Capcom,0.16,0.11,0.12,0.03
+1298,X-Men vs. Street Fighter,SAT,1997.0,Fighting,Capcom,0.0,0.0,0.26,0.0
+1299,Xevious 3D/G+,PS,1997.0,Shooter,Sony Computer Entertainment,0.01,0.01,0.11,0.01
+1300,Yoshi's Story,N64,1997.0,Platform,Nintendo,1.29,0.53,0.98,0.05
+1301,'98 Koshien,PS,1998.0,Sports,Magical Company,0.15,0.1,0.12,0.03
+1302,1080°: TenEighty Snowboarding,N64,1998.0,Sports,Nintendo,1.25,0.61,0.13,0.05
+1303,A Bug's Life,PS,1998.0,Platform,Sony Computer Entertainment,1.96,0.72,0.0,0.11
+1304,A Bug's Life,N64,1998.0,Platform,Activision,0.49,0.13,0.0,0.01
+1305,A Collection of Activision Classic Games for the Atari 2600,PS,1998.0,Misc,Activision,0.76,0.52,0.0,0.09
+1306,Adidas Power Soccer 98,PS,1998.0,Sports,Psygnosis,0.01,0.01,0.0,0.0
+1307,Akuji the Heartless,PS,1998.0,Platform,Eidos Interactive,0.07,0.04,0.0,0.01
+1308,Alexi Lalas International Soccer,PS,1998.0,Sports,Take-Two Interactive,0.04,0.03,0.0,0.0
+1309,All-Star Baseball 99,N64,1998.0,Sports,Acclaim Entertainment,0.44,0.04,0.0,0.0
+1310,Angelique Duet,PS,1998.0,Strategy,Tecmo Koei,0.0,0.0,0.04,0.0
+1311,Animaniacs Ten Pin Alley,PS,1998.0,Sports,ASC Games,0.36,0.25,0.0,0.04
+1312,Apocalypse,PS,1998.0,Action,Activision,0.25,0.17,0.0,0.03
+1313,Assault: Retribution,PS,1998.0,Action,Telstar,0.07,0.05,0.0,0.01
+1314,Asteroids,PS,1998.0,Shooter,Success,0.64,0.43,0.0,0.07
+1315,Auto Destruct,PS,1998.0,Action,Electronic Arts,0.04,0.03,0.0,0.01
+1316,Backstreet Billiards,PS,1998.0,Misc,ASCII Entertainment,0.19,0.13,0.0,0.02
+1317,Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidoi,PS,1998.0,Racing,Human Entertainment,0.0,0.0,0.36,0.03
+1318,Bakusou Kyoudai Let's & Go!! Eternal Wings,PS,1998.0,Racing,Jaleco,0.0,0.0,0.05,0.0
+1319,Banjo-Kazooie,N64,1998.0,Platform,Nintendo,1.87,1.13,0.55,0.1
+1320,Batman & Robin,PS,1998.0,Action,Acclaim Entertainment,0.06,0.04,0.0,0.01
+1321,BattleTanx,N64,1998.0,Action,3DO,0.26,0.06,0.0,0.0
+1322,BeatMania,PS,1998.0,Simulation,Konami Digital Entertainment,0.0,0.0,1.07,0.02
+1323,BeatMania Append 3rdMix,PS,1998.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.56,0.04
+1324,Big Mountain 2000,N64,1998.0,Sports,Imagineer,0.02,0.01,0.0,0.0
+1325,Bio FREAKS,N64,1998.0,Action,GT Interactive,0.11,0.03,0.0,0.0
+1326,Bio FREAKS,PS,1998.0,Action,GT Interactive,0.07,0.05,0.0,0.01
+1327,Black/Matrix,SAT,1998.0,Strategy,NEC Interchannel,0.0,0.0,0.08,0.0
+1328,Blast Radius,PS,1998.0,Action,Psygnosis,0.04,0.03,0.0,0.0
+1329,Blasto,PS,1998.0,Action,Sony Computer Entertainment,0.2,0.13,0.0,0.02
+1330,Body Harvest,N64,1998.0,Shooter,Gremlin Interactive Ltd,0.16,0.04,0.0,0.0
+1331,Bomberman Fantasy Race,PS,1998.0,Racing,Virgin Interactive,0.01,0.01,0.0,0.0
+1332,Bomberman Hero,N64,1998.0,Platform,Nintendo,0.27,0.06,0.08,0.05
+1333,Bomberman Party Edition,PS,1998.0,Puzzle,Virgin Interactive,0.07,0.05,0.0,0.01
+1334,Bomberman World,PS,1998.0,Puzzle,Sony Computer Entertainment,0.06,0.04,0.22,0.02
+1335,Bottom of the 9th '99,PS,1998.0,Sports,Konami Digital Entertainment,0.03,0.02,0.0,0.0
+1336,Brave Fencer Musashi,PS,1998.0,Role-Playing,SquareSoft,0.25,0.17,0.65,0.07
+1337,Breeding Stud 2,PS,1998.0,Sports,Konami Digital Entertainment,0.0,0.0,0.04,0.0
+1338,Brian Lara Cricket,PS,1998.0,Sports,Codemasters,0.02,1.13,0.01,0.1
+1339,Brigandine: The Legend of Forsena,PS,1998.0,Strategy,Atlus,0.05,0.03,0.0,0.01
+1340,Brunswick Circuit Pro Bowling,PS,1998.0,Sports,THQ,0.1,0.07,0.0,0.01
+1341,Buck Bumble,N64,1998.0,Action,Ubisoft,0.13,0.03,0.0,0.0
+1342,Burning Rangers,SAT,1998.0,Platform,Sega,0.0,0.0,0.06,0.0
+1343,Bushido Blade 2,PS,1998.0,Fighting,SquareSoft,0.25,0.17,0.22,0.04
+1344,Bust A Groove,PS,1998.0,Misc,Sony Computer Entertainment,0.09,0.06,0.35,0.04
+1345,Bust-A-Move '99,N64,1998.0,Puzzle,Acclaim Entertainment,0.05,0.01,0.0,0.0
+1346,Bust-A-Move 4,PS,1998.0,Puzzle,Acclaim Entertainment,0.12,0.08,0.0,0.01
+1347,C: The Contra Adventure,PS,1998.0,Shooter,Konami Digital Entertainment,0.04,0.02,0.0,0.0
+1348,Caesar III,PC,1998.0,Strategy,Vivendi Games,0.0,0.03,0.0,0.0
+1349,Caesars Palace II,PS,1998.0,Misc,Interplay,0.14,0.09,0.0,0.02
+1350,Cardinal Syn,PS,1998.0,Fighting,Sony Computer Entertainment,0.08,0.06,0.0,0.01
+1351,Castrol Honda Superbike Racing,PS,1998.0,Racing,THQ,0.07,0.05,0.0,0.01
+1352,Centipede,PS,1998.0,Shooter,Atari,0.36,0.25,0.0,0.04
+1353,Chameleon Twist 2,N64,1998.0,Platform,Infogrames,0.04,0.01,0.0,0.0
+1354,Championship Motocross featuring Ricky Carmichael,PS,1998.0,Racing,THQ,0.32,0.22,0.0,0.04
+1355,Chessmaster II,PS,1998.0,Strategy,Mindscape,0.08,0.06,0.0,0.01
+1356,Chocobo's Dungeon 2,PS,1998.0,Role-Playing,SquareSoft,0.04,0.03,0.58,0.05
+1357,Choro Q Marine: Q Boat,PS,1998.0,Racing,Takara,0.0,0.0,0.05,0.0
+1358,Choro Q3,PS,1998.0,Racing,Takara,0.0,0.0,0.24,0.02
+1359,Circuit Breakers,PS,1998.0,Racing,Mindscape,0.04,0.03,0.0,0.0
+1360,Civilization II,PS,1998.0,Strategy,Activision,0.15,0.11,0.0,0.02
+1361,Clock Tower II: The Struggle Within,PS,1998.0,Adventure,Human Entertainment,0.02,0.01,0.12,0.01
+1362,Code R,SAT,1998.0,Adventure,Quintet,0.0,0.0,0.02,0.0
+1363,Colin McRae Rally,PS,1998.0,Racing,Codemasters,0.09,2.43,0.12,0.22
+1364,Colony Wars: Vengeance,PS,1998.0,Simulation,Psygnosis,0.13,0.09,0.0,0.02
+1365,Combination Pro Soccer: J-League no Kantoku ni Natte Sekai wo Mezase!!,PS,1998.0,Sports,Axela,0.0,0.0,0.24,0.02
+1366,Command & Conquer: Red Alert Retaliation,PS,1998.0,Strategy,Virgin Interactive,0.39,0.27,0.0,0.05
+1367,Cool Boarders 3,PS,1998.0,Sports,989 Studios,1.65,0.46,0.1,0.1
+1368,Cool Boarders 4,PS,1998.0,Sports,989 Studios,0.65,0.44,0.0,0.08
+1369,Crash Bandicoot 3: Warped,PS,1998.0,Platform,Sony Computer Entertainment,3.68,1.75,1.42,0.28
+1370,Crime Killer,PS,1998.0,Racing,Interplay,0.07,0.04,0.0,0.01
+1371,Cruis'n World,N64,1998.0,Racing,Nintendo,0.59,0.04,0.0,0.01
+1372,CyberTiger,PS,1998.0,Sports,Electronic Arts,0.33,0.22,0.0,0.04
+1373,Darkstalkers 3,PS,1998.0,Fighting,Capcom,0.11,0.07,0.0,0.01
+1374,Dead Ball Zone,PS,1998.0,Sports,GT Interactive,0.02,0.02,0.0,0.0
+1375,Dead or Alive,PS,1998.0,Fighting,Sony Computer Entertainment,0.09,0.06,0.1,0.02
+1376,Deadly Arts,N64,1998.0,Fighting,Konami Digital Entertainment,0.03,0.01,0.0,0.0
+1377,Deathtrap Dungeon,PS,1998.0,Action,Eidos Interactive,0.19,0.13,0.0,0.02
+1378,Deep Fear,SAT,1998.0,Adventure,Sega,0.0,0.0,0.08,0.0
+1379,Demolition Racer,PS,1998.0,Racing,Infogrames,0.17,0.12,0.0,0.02
+1380,Derby Stallion 98,SNES,1998.0,Sports,ASCII Entertainment,0.0,0.0,0.08,0.0
+1381,Destrega,PS,1998.0,Fighting,Sony Computer Entertainment,0.04,0.03,0.0,0.0
+1382,Devil Dice,PS,1998.0,Puzzle,THQ,0.05,0.03,1.1,0.08
+1383,Dino Crisis,PS,1998.0,Action,Capcom,0.81,0.76,0.7,0.14
+1384,Doukoku Shoshite...,SAT,1998.0,Adventure,Data East,0.0,0.0,0.11,0.0
+1385,Dragon Force II: Kamisarishi Daichi ni,SAT,1998.0,Strategy,Sega,0.0,0.0,0.08,0.0
+1386,Dragon Warrior Monsters,GB,1998.0,Role-Playing,Eidos Interactive,0.0,0.0,2.34,0.01
+1387,Dragonseeds,PS,1998.0,Action,Jaleco,0.03,0.02,0.04,0.01
+1388,Duke Nukem: Time to Kill,PS,1998.0,Shooter,Take-Two Interactive,0.77,0.54,0.0,0.07
+1389,Echo Night,PS,1998.0,Adventure,From Software,0.03,0.02,0.07,0.01
+1390,Ehrgeiz,PS,1998.0,Fighting,SquareSoft,0.17,0.12,0.0,0.02
+1391,Eve: The Lost One,SAT,1998.0,Adventure,Imagineer,0.0,0.0,0.16,0.0
+1392,Evil Zone,PS,1998.0,Fighting,Titus,0.14,0.1,0.0,0.02
+1393,Extreme-G: XG2,N64,1998.0,Racing,Acclaim Entertainment,0.31,0.07,0.0,0.0
+1394,F-1 World Grand Prix,N64,1998.0,Racing,Video System,0.46,0.96,0.09,0.08
+1395,F-Zero X,N64,1998.0,Racing,Nintendo,0.45,0.33,0.29,0.03
+1396,FIFA 2000,PS,1998.0,Sports,Electronic Arts,0.22,1.47,0.04,0.14
+1397,FIFA 99,N64,1998.0,Sports,Electronic Arts,0.11,0.39,0.0,0.03
+1398,Fear Effect,PS,1998.0,Action,Eidos Interactive,0.4,0.27,0.0,0.05
+1399,Fighter Maker,PS,1998.0,Fighting,Agetec,0.05,0.04,0.07,0.01
+1400,Fighters Destiny,N64,1998.0,Fighting,Ocean,0.13,0.03,0.0,0.0
+1401,Final Fantasy V,PS,1998.0,Role-Playing,SquareSoft,0.0,0.0,0.16,0.01
+1402,Forsaken,PS,1998.0,Shooter,Acclaim Entertainment,0.13,0.09,0.0,0.02
+1403,Fox Sports College Hoops '99,N64,1998.0,Sports,Fox Interactive,0.2,0.05,0.0,0.0
+1404,GT64 Championship Edition,N64,1998.0,Racing,Ocean,0.08,0.02,0.0,0.0
+1405,Gex 64: Enter the Gecko,N64,1998.0,Action,GT Interactive,0.2,0.05,0.0,0.0
+1406,Gex: Enter the Gecko,PS,1998.0,Platform,BMG Interactive Entertainment,0.32,0.22,0.0,0.04
+1407,Glover,N64,1998.0,Platform,Hasbro Interactive,0.72,0.17,0.0,0.01
+1408,Godzilla Generations,DC,1998.0,Action,Sega,0.0,0.0,0.08,0.0
+1409,Goemon's Great Adventure,N64,1998.0,Platform,Konami Digital Entertainment,0.06,0.02,0.13,0.1
+1410,Golden Nugget 64,N64,1998.0,Misc,Electronic Arts,0.07,0.02,0.0,0.0
+1411,Grand Theft Auto 2,PS,1998.0,Action,Take-Two Interactive,1.13,2.07,0.0,0.22
+1412,"Grand Theft Auto: Mission Pack #1, London 1969",PS,1998.0,Adventure,Take-Two Interactive,0.06,0.04,0.0,0.01
+1413,Guardian's Crusade,PS,1998.0,Role-Playing,Activision,0.07,0.05,0.0,0.01
+1414,Guilty Gear,PS,1998.0,Fighting,Virgin Interactive,0.03,0.02,0.07,0.01
+1415,GunGriffon II,SAT,1998.0,Simulation,ESP,0.0,0.0,0.06,0.0
+1416,Gundam Battle Assault,PS,1998.0,Fighting,Namco Bandai Games,0.13,0.09,0.0,0.02
+1417,Heart of Darkness,PS,1998.0,Platform,Ocean,0.18,0.12,0.0,0.02
+1418,Hello Kitty's Cube Frenzy,PS,1998.0,Puzzle,Culture Publishers,0.05,0.03,0.0,0.01
+1419,"Hey You, Pikachu!",N64,1998.0,Simulation,Nintendo,0.83,0.06,0.93,0.0
+1420,Highschool Terra Story,SAT,1998.0,Adventure,KID,0.0,0.0,0.03,0.0
+1421,Homeworld,PC,1998.0,Strategy,Vivendi Games,0.0,0.02,0.0,0.0
+1422,Houshinengi,PS,1998.0,Strategy,Tecmo Koei,0.0,0.0,0.13,0.01
+1423,ISS Pro Evolution,PS,1998.0,Sports,Konami Digital Entertainment,0.0,0.0,0.71,0.05
+1424,Iggy's Reckin' Balls,N64,1998.0,Racing,Acclaim Entertainment,0.06,0.02,0.0,0.0
+1425,International Superstar Soccer '98,N64,1998.0,Sports,Konami Digital Entertainment,0.06,0.3,0.19,0.03
+1426,International Superstar Soccer Pro '98,PS,1998.0,Sports,Konami Digital Entertainment,0.02,0.02,0.35,0.03
+1427,Invasion From Beyond,PS,1998.0,Shooter,GT Interactive,0.05,0.03,0.0,0.01
+1428,Irritating Stick,PS,1998.0,Action,Saurus,0.01,0.01,0.0,0.0
+1429,JGTC: All-Japan Grand Touring Car Championship,PS,1998.0,Racing,TYO,0.23,0.16,0.0,0.03
+1430,Jade Cocoon: Story of the Tamamayu,PS,1998.0,Role-Playing,Crave Entertainment,0.15,0.1,0.0,0.02
+1431,Jampack Winter '98,PS,1998.0,Misc,Sony Computer Entertainment,0.63,0.43,0.0,0.07
+1432,Jeopardy!,N64,1998.0,Misc,GameTek,0.08,0.02,0.0,0.0
+1433,Jeremy McGrath Supercross 98,PS,1998.0,Racing,Acclaim Entertainment,0.91,0.1,0.0,0.03
+1434,Jikkyou Powerful Pro Yakyuu '98 Kaimakuban,PS,1998.0,Sports,Konami Digital Entertainment,0.0,0.0,0.55,0.04
+1435,Jikkyou Powerful Pro Yakyuu '98 Ketteiban,PS,1998.0,Sports,Konami Digital Entertainment,0.0,0.0,0.25,0.02
+1436,Jikkyou Powerful Pro Yakyuu 5,N64,1998.0,Sports,Konami Digital Entertainment,0.0,0.0,0.27,0.0
+1437,July,DC,1998.0,Adventure,Fortyfive,0.0,0.0,0.06,0.0
+1438,Kagero: Deception II,PS,1998.0,Strategy,Virgin Interactive,0.03,0.02,0.22,0.02
+1439,Kartia: The Word of Fate,PS,1998.0,Strategy,Konami Digital Entertainment,0.05,0.03,0.12,0.01
+1440,Kawa no Nushi Tsuri,PS,1998.0,Sports,Victor Interactive,0.0,0.0,0.15,0.01
+1441,Kidou Senshi Gundam: Giren no Yabou,SAT,1998.0,Strategy,Namco Bandai Games,0.0,0.0,0.25,0.0
+1442,Knife Edge: NoseGunner,N64,1998.0,Shooter,Mitsui,0.06,0.02,0.0,0.0
+1443,Kobe Bryant in NBA Courtside,N64,1998.0,Sports,Nintendo,1.02,0.13,0.04,0.01
+1444,Kurushi Final: Mental Blocks,PS,1998.0,Puzzle,Sony Computer Entertainment,0.0,0.0,0.32,0.02
+1445,Langrisser V: The End of Legend,SAT,1998.0,Strategy,NCS,0.0,0.0,0.09,0.0
+1446,Legend of Legaia,PS,1998.0,Role-Playing,Sony Computer Entertainment,0.37,0.25,0.0,0.04
+1447,Lode Runner 3-D,N64,1998.0,Action,Infogrames,0.08,0.02,0.0,0.0
+1448,Lucky Luke,PS,1998.0,Platform,Ocean,0.13,0.09,0.0,0.02
+1449,Lunar 2: Eternal Blue,SAT,1998.0,Role-Playing,Kadokawa Shoten,0.0,0.0,0.12,0.0
+1450,Lunar: Silver Star Story Complete,PS,1998.0,Role-Playing,Kadokawa Shoten,0.27,0.18,0.06,0.04
+1451,MLB 99,PS,1998.0,Sports,Sony Computer Entertainment,0.48,0.32,0.0,0.06
+1452,Madden NFL 2000,PS,1998.0,Sports,Electronic Arts,1.68,0.04,0.0,0.04
+1453,Madden NFL 99,N64,1998.0,Sports,Electronic Arts,0.84,0.05,0.0,0.01
+1454,Madden NFL 99,N64,1998.0,Sports,Electronic Arts,0.84,0.05,0.0,0.01
+1455,Madden NFL 99,PS,1998.0,Sports,Electronic Arts,1.66,0.04,0.0,0.04
+1456,Madden NFL 99,PS,1998.0,Sports,Electronic Arts,1.66,0.04,0.0,0.04
+1457,Madou Monogatari,SAT,1998.0,Role-Playing,Compile,0.0,0.0,0.03,0.0
+1458,Major League Baseball Featuring Ken Griffey Jr,N64,1998.0,Sports,Nintendo,0.75,0.03,0.0,0.01
+1459,Mario Party,N64,1998.0,Misc,Nintendo,1.25,0.53,0.87,0.05
+1460,Marvel Super Heroes vs. Street Fighter,PS,1998.0,Fighting,Virgin Interactive,0.14,0.1,0.0,0.02
+1461,Medal of Honor,PS,1998.0,Shooter,Electronic Arts,1.44,1.09,0.0,0.14
+1462,Medal of Honor,PS,1998.0,Shooter,Electronic Arts,1.44,1.09,0.0,0.14
+1463,Medal of Honor,PS,1998.0,Shooter,Electronic Arts,1.44,1.09,0.0,0.14
+1464,MediEvil,PS,1998.0,Platform,Sony Computer Entertainment,0.46,0.31,0.0,0.05
+1465,Metal Gear Solid,PS,1998.0,Action,Konami Digital Entertainment,3.18,1.83,0.78,0.24
+1466,Mike Piazza's Strike Zone,N64,1998.0,Sports,GT Interactive,0.05,0.01,0.0,0.0
+1467,Milo's Astro Lanes,N64,1998.0,Sports,Interplay,0.08,0.02,0.0,0.0
+1468,Monkey Hero,PS,1998.0,Action,Take-Two Interactive,0.04,0.03,0.0,0.0
+1469,Monster Rancher 2,PS,1998.0,Simulation,Sony Computer Entertainment,0.19,0.13,0.66,0.07
+1470,Mortal Kombat 4,PS,1998.0,Fighting,GT Interactive,0.81,0.55,0.0,0.1
+1471,Mortal Kombat 4,N64,1998.0,Fighting,GT Interactive,0.55,0.17,0.0,0.01
+1472,MotorHead,PS,1998.0,Racing,Gremlin Interactive Ltd,0.02,0.01,0.0,0.0
+1473,N2O: Nitrous Oxide,PS,1998.0,Racing,Gremlin Interactive Ltd,0.09,0.06,0.0,0.01
+1474,NASCAR 99,PS,1998.0,Racing,Electronic Arts,1.45,0.04,0.0,0.04
+1475,NASCAR 99,PS,1998.0,Racing,Electronic Arts,1.45,0.04,0.0,0.04
+1476,NASCAR 99,N64,1998.0,Racing,Electronic Arts,0.94,0.04,0.0,0.01
+1477,NASCAR 99,N64,1998.0,Racing,Electronic Arts,0.94,0.04,0.0,0.01
+1478,NBA In The Zone '99,N64,1998.0,Sports,Konami Digital Entertainment,0.04,0.0,0.0,0.0
+1479,NBA Jam 99,N64,1998.0,Sports,Acclaim Entertainment,0.25,0.02,0.0,0.0
+1480,NBA Live 2000,PS,1998.0,Sports,Electronic Arts,1.43,0.05,0.0,0.03
+1481,NBA Live 99,N64,1998.0,Sports,Electronic Arts,0.45,0.02,0.0,0.0
+1482,NBA ShootOut 98,PS,1998.0,Sports,Sony Computer Entertainment,0.43,0.29,0.0,0.05
+1483,NCAA Football 99,PS,1998.0,Sports,Electronic Arts,0.59,0.4,0.0,0.07
+1484,NCAA Gamebreaker 99,PS,1998.0,Sports,989 Studios,0.25,0.17,0.0,0.03
+1485,NFL Blitz,PS,1998.0,Sports,Midway Games,1.41,0.05,0.0,0.04
+1486,NFL Blitz,PS,1998.0,Sports,Midway Games,1.41,0.05,0.0,0.04
+1487,NFL Blitz,N64,1998.0,Sports,Midway Games,1.02,0.04,0.0,0.01
+1488,NFL Blitz,N64,1998.0,Sports,Midway Games,1.02,0.04,0.0,0.01
+1489,NFL Blitz 2000,PS,1998.0,Sports,Midway Games,0.6,0.41,0.0,0.07
+1490,NFL GameDay 99,PS,1998.0,Sports,989 Studios,1.44,0.05,0.0,0.04
+1491,NFL Quarterback Club 99,N64,1998.0,Sports,Acclaim Entertainment,0.59,0.02,0.0,0.0
+1492,NFL Xtreme,PS,1998.0,Sports,Sony Computer Entertainment,0.38,0.26,0.0,0.05
+1493,NHL 2000,PS,1998.0,Sports,Electronic Arts,0.48,0.33,0.0,0.06
+1494,NHL 99,N64,1998.0,Sports,Electronic Arts,0.38,0.01,0.0,0.0
+1495,NHL Breakaway 98,N64,1998.0,Sports,Acclaim Entertainment,0.3,0.02,0.0,0.0
+1496,NHL Breakaway 99,N64,1998.0,Sports,Acclaim Entertainment,0.07,0.01,0.0,0.0
+1497,NHL Championship 2000,PS,1998.0,Sports,Fox Interactive,0.12,0.08,0.0,0.01
+1498,NHL FaceOff 2000,PS,1998.0,Sports,Sony Computer Entertainment,0.17,0.12,0.0,0.02
+1499,NOëL: La Neige,PS,1998.0,Adventure,Pioneer LDC,0.0,0.0,0.07,0.0
+1500,Nectaris: Military Madness,PS,1998.0,Strategy,Hudson Soft,0.02,0.01,0.0,0.0
+1501,Need for Speed III: Hot Pursuit,PS,1998.0,Racing,Electronic Arts,2.14,0.86,0.0,0.13
+1502,Neo Atlas,PS,1998.0,Strategy,ArtDink,0.0,0.0,0.09,0.01
+1503,Ninja: Shadow of Darkness,PS,1998.0,Action,Eidos Interactive,0.21,0.14,0.0,0.02
+1504,Nippon Daihyou Team no Kantoku ni Narou! Sekaihatsu Soccer RPG,SAT,1998.0,Sports,Sega,0.0,0.0,0.12,0.0
+1505,No Fear Downhill Mountain Biking,PS,1998.0,Sports,Codemasters,0.07,0.05,0.0,0.01
+1506,No One Can Stop Mr. Domino!,PS,1998.0,Misc,JVC,0.04,0.03,0.0,0.0
+1507,Oddworld: Abe's Exoddus,PS,1998.0,Platform,GT Interactive,0.55,0.38,0.0,0.06
+1508,Off Road Challenge,N64,1998.0,Racing,GT Interactive,0.27,0.06,0.0,0.0
+1509,Ojyousama Express,PS,1998.0,Strategy,Media Works,0.0,0.0,0.06,0.0
+1510,Ojyousama Express,SAT,1998.0,Strategy,Media Works,0.0,0.0,0.03,0.0
+1511,Olympic Hockey 98,N64,1998.0,Sports,GT Interactive,0.05,0.01,0.0,0.0
+1512,Option Tuning Car Battle,PS,1998.0,Racing,MTO,0.0,0.0,0.09,0.01
+1513,OverBlood 2,PS,1998.0,Action,Evolution Games,0.0,0.0,0.06,0.0
+1514,Pac-Man World,PS,1998.0,Action,Namco Bandai Games,1.21,0.14,0.1,0.04
+1515,Pachi-Slot Kanzen Kouryaku 3: Universal Koushiki Gaido Volume 3,PS,1998.0,Misc,Syscom,0.0,0.0,0.15,0.01
+1516,Parasite Eve,PS,1998.0,Role-Playing,SquareSoft,0.94,0.07,1.05,0.04
+1517,PenPen TriIceLon,DC,1998.0,Racing,Infogrames,0.0,0.0,0.06,0.0
+1518,Penny Racers,N64,1998.0,Racing,THQ,0.05,0.01,0.0,0.0
+1519,Pharaoh,PC,1998.0,Strategy,Vivendi Games,0.0,0.02,0.0,0.0
+1520,Pitfall 3D: Beyond the Jungle,PS,1998.0,Platform,Activision,0.18,0.12,0.0,0.02
+1521,Planescape: Torment,PC,1998.0,Role-Playing,Interplay,0.01,0.02,0.0,0.0
+1522,Pocket Fighter,SAT,1998.0,Fighting,Capcom,0.0,0.0,0.03,0.0
+1523,Pocket Monsters Stadium,N64,1998.0,Strategy,Nintendo,0.0,0.0,1.37,0.0
+1524,Point Blank 2,PS,1998.0,Shooter,Namco Bandai Games,0.02,0.02,0.0,0.0
+1525,Pokémon Trading Card Game,GB,1998.0,Strategy,Nintendo,1.49,0.73,1.38,0.1
+1526,Pokémon Yellow: Special Pikachu Edition,GB,1998.0,Role-Playing,Nintendo,5.89,5.04,3.12,0.59
+1527,Pong: The Next Level,PS,1998.0,Puzzle,Hasbro Interactive,0.56,0.38,0.0,0.07
+1528,Populous: The Beginning,PS,1998.0,Strategy,Electronic Arts,0.05,0.04,0.0,0.01
+1529,Power Pro GB,GB,1998.0,Sports,Konami Digital Entertainment,0.0,0.0,0.07,0.0
+1530,Power Stone,DC,1998.0,Fighting,Eidos Interactive,0.0,0.0,0.14,0.0
+1531,Pro Yakyuu Greatest Nine 98,SAT,1998.0,Sports,Sega,0.0,0.0,0.09,0.0
+1532,Pro Yakyuu Team o Tsukurou!,SAT,1998.0,Sports,Sega,0.0,0.0,0.25,0.0
+1533,Project V6,PS,1998.0,Strategy,General Entertainment,0.0,0.0,0.13,0.01
+1534,Quake,N64,1998.0,Shooter,GT Interactive,0.15,0.04,0.0,0.0
+1535,Quake II,PS,1998.0,Shooter,Activision,0.23,0.16,0.0,0.03
+1536,Quest 64,N64,1998.0,Role-Playing,Konami Digital Entertainment,0.38,0.08,0.0,0.01
+1537,R-Type Delta,PS,1998.0,Shooter,Irem Software Engineering,0.01,0.01,0.0,0.0
+1538,R-Types,PS,1998.0,Shooter,Virgin Interactive,0.04,0.02,0.0,0.0
+1539,R/C Stunt Copter,PS,1998.0,Simulation,Interplay,0.04,0.03,0.0,0.01
+1540,R4: Ridge Racer Type 4,PS,1998.0,Racing,Namco Bandai Games,0.68,0.46,0.79,0.13
+1541,Radiant Silvergun,SAT,1998.0,Shooter,ESP,0.0,0.0,0.03,0.0
+1542,Rally Cross 2,PS,1998.0,Racing,989 Studios,0.19,0.13,0.0,0.02
+1543,Rampage 2: Universal Tour,PS,1998.0,Action,GT Interactive,0.13,0.09,0.0,0.01
+1544,Rampage World Tour,N64,1998.0,Action,GT Interactive,0.36,0.08,0.0,0.01
+1545,Rascal,PS,1998.0,Action,Psygnosis,0.24,0.16,0.0,0.03
+1546,Re-Volt,PS,1998.0,Racing,Acclaim Entertainment,0.11,0.07,0.0,0.01
+1547,Ready 2 Rumble Boxing,PS,1998.0,Sports,Midway Games,0.6,0.41,0.0,0.07
+1548,Real Bout Garou Densetsu Special: Dominated Mind,PS,1998.0,Fighting,SNK,0.0,0.0,0.05,0.0
+1549,Real Robots Final Attack,PS,1998.0,Shooter,Banpresto,0.0,0.0,0.07,0.01
+1550,Resident Evil 2,PS,1998.0,Action,Virgin Interactive,1.88,1.47,2.02,0.45
+1551,Resident Evil 2: Dual Shock Edition,PS,1998.0,Action,Capcom,0.0,0.0,0.26,0.02
+1552,Rhapsody: A Musical Adventure,PS,1998.0,Role-Playing,Nippon Ichi Software,0.02,0.01,0.0,0.0
+1553,Rising Zan: The Samurai Gunman,PS,1998.0,Action,Agetec,0.01,0.01,0.0,0.0
+1554,Rival Schools: United By Fate,PS,1998.0,Fighting,Capcom,0.12,0.08,0.28,0.03
+1555,Road Rash 3D,PS,1998.0,Racing,Electronic Arts,1.05,0.16,0.0,0.04
+1556,Robotron 64,N64,1998.0,Shooter,GT Interactive,0.07,0.02,0.0,0.0
+1557,RockMan & Forte,SNES,1998.0,Platform,Capcom,0.0,0.0,0.14,0.0
+1558,Rogue Trip: Vacation 2012,PS,1998.0,Racing,GT Interactive,0.21,0.14,0.0,0.02
+1559,Roll Away,PS,1998.0,Puzzle,Sony Computer Entertainment,0.04,0.03,0.0,0.0
+1560,Romance of the Three Kingdoms VI: Awakening of the Dragon,PS,1998.0,Strategy,Tecmo Koei,0.03,0.02,0.0,0.0
+1561,Rugrats: Search For Reptar,PS,1998.0,Adventure,THQ,1.63,1.53,0.0,0.18
+1562,Rush 2: Extreme Racing USA,N64,1998.0,Racing,Midway Games,0.35,0.06,0.0,0.0
+1563,S.C.A.R.S,PS,1998.0,Racing,Ubisoft,0.05,0.03,0.0,0.01
+1564,S.C.A.R.S,N64,1998.0,Racing,Ubisoft,0.05,0.01,0.0,0.0
+1565,SD Gundam G Generation,PS,1998.0,Strategy,Namco Bandai Games,0.0,0.0,0.67,0.05
+1566,"Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare",SAT,1998.0,Adventure,Sega,0.0,0.0,0.53,0.0
+1567,Sentimental Graffiti,SAT,1998.0,Adventure,NEC Interchannel,0.0,0.0,0.25,0.0
+1568,Sesame Street: Elmo's Letter Adventure,PS,1998.0,Misc,NewKidCo,0.17,0.12,0.0,0.02
+1569,Sesame Street: Elmo's Number Journey,PS,1998.0,Misc,NewKidCo,0.13,0.09,0.0,0.02
+1570,Shadow Man,PS,1998.0,Action,Acclaim Entertainment,0.14,0.09,0.0,0.02
+1571,Shadow Tower,PS,1998.0,Role-Playing,From Software,0.01,0.01,0.07,0.01
+1572,Shanghai: True Valor,PS,1998.0,Puzzle,Activision,0.01,0.01,0.0,0.0
+1573,Shin Nippon Pro Wrestling: Toukon Retsuden 3,PS,1998.0,Fighting,Tomy Corporation,0.0,0.0,0.21,0.01
+1574,Shining Force III: Scenario 2,SAT,1998.0,Strategy,Sega,0.0,0.0,0.05,0.0
+1575,Shinseiki Evangelion- Eva: Yukai na Nakama Tachi,PS,1998.0,Misc,Gainax Network Systems,0.0,0.0,0.05,0.0
+1576,Shinseiki Evangelion: Koutetsu no Girlfriend,SAT,1998.0,Adventure,Sega,0.0,0.0,0.11,0.0
+1577,Shinseiki Evangelion: Koutetsu no Girlfriend,PS,1998.0,Adventure,Gainax Network Systems,0.0,0.0,0.11,0.01
+1578,Silhouette Mirage,PS,1998.0,Platform,ESP,0.03,0.02,0.0,0.0
+1579,Sim Theme Park,PC,1998.0,Strategy,Electronic Arts,2.04,0.04,0.0,0.0
+1580,Simple 1500 Series Vol. 1: The Mahjong,PS,1998.0,Misc,D3Publisher,0.0,0.0,0.99,0.07
+1581,SkullMonkeys,PS,1998.0,Platform,DreamWorks Interactive,0.07,0.05,0.0,0.01
+1582,Slayers Royal,PS,1998.0,Role-Playing,Kadokawa Shoten,0.0,0.0,0.08,0.01
+1583,Slayers Royal 2,SAT,1998.0,Role-Playing,Kadokawa Shoten,0.0,0.0,0.08,0.0
+1584,Sled Storm,PS,1998.0,Racing,Electronic Arts,0.9,0.61,0.0,0.11
+1585,Small Soldiers,PS,1998.0,Platform,Electronic Arts,0.34,0.23,0.0,0.04
+1586,Sonic Adventure,DC,1998.0,Platform,Sega,1.26,0.61,0.46,0.08
+1587,Soukaigi,PS,1998.0,Role-Playing,SquareSoft,0.0,0.0,0.13,0.01
+1588,Sound Novel Machi,SAT,1998.0,Adventure,ChunSoft,0.0,0.0,0.09,0.0
+1589,South Park,PS,1998.0,Shooter,Acclaim Entertainment,0.39,0.27,0.0,0.05
+1590,South Park,N64,1998.0,Shooter,Acclaim Entertainment,0.9,0.23,0.0,0.02
+1591,South Park Rally,PS,1998.0,Racing,Acclaim Entertainment,0.2,0.13,0.0,0.02
+1592,South Park: Chef's Luv Shack,PS,1998.0,Misc,Acclaim Entertainment,0.17,0.12,0.0,0.02
+1593,Speed Punks,PS,1998.0,Racing,Sony Computer Entertainment,0.11,0.08,0.0,0.01
+1594,Spice World,PS,1998.0,Action,Sony Computer Entertainment,0.37,0.25,0.0,0.04
+1595,Spyro the Dragon,PS,1998.0,Platform,Sony Computer Entertainment,3.36,1.36,0.07,0.21
+1596,Star Ocean: The Second Story,PS,1998.0,Role-Playing,Sony Computer Entertainment,0.26,0.1,0.72,0.02
+1597,Star Soldier: Vanishing Earth,N64,1998.0,Shooter,Hudson Entertainment,0.05,0.01,0.0,0.0
+1598,Star Wars: Rogue Squadron,N64,1998.0,Simulation,Nintendo,1.6,0.46,0.08,0.03
+1599,StarCraft,PC,1998.0,Strategy,Activision,0.0,0.04,0.0,0.01
+1600,Starshot: Space Circus Fever,N64,1998.0,Platform,Infogrames,0.02,0.01,0.0,0.0
+1601,Stolen Song,PS,1998.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.11,0.01
+1602,Streak: Hoverboard Racing,PS,1998.0,Racing,GT Interactive,0.09,0.06,0.0,0.01
+1603,Street Fighter Alpha 3,PS,1998.0,Fighting,Virgin Interactive,0.38,0.12,0.51,0.02
+1604,Street Fighter EX2 Plus,PS,1998.0,Fighting,Virgin Interactive,0.13,0.09,0.0,0.02
+1605,Street Sk8er,PS,1998.0,Sports,Electronic Arts,0.37,0.25,0.0,0.04
+1606,Strikers 1945,PS,1998.0,Shooter,Midas Interactive Entertainment,0.07,0.05,0.0,0.01
+1607,Suikoden II,PS,1998.0,Role-Playing,Konami Digital Entertainment,0.15,0.1,0.38,0.04
+1608,Super Robot Spirits,N64,1998.0,Fighting,Banpresto,0.0,0.0,0.04,0.03
+1609,Super Robot Taisen F Kanketsuhen,SAT,1998.0,Strategy,Banpresto,0.0,0.0,0.55,0.0
+1610,T'ai Fu: Wrath of the Tiger,PS,1998.0,Action,Activision,0.08,0.06,0.0,0.01
+1611,T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy,PS,1998.0,Adventure,Sunsoft,0.08,0.05,0.0,0.01
+1612,TOCA 2: Touring Cars,PS,1998.0,Racing,Codemasters,0.03,1.16,0.02,0.11
+1613,Tail Concerto,PS,1998.0,Adventure,Namco Bandai Games,0.02,0.01,0.0,0.0
+1614,Tales of Phantasia,PS,1998.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.54,0.04
+1615,Tekken 3,PS,1998.0,Fighting,Sony Computer Entertainment,3.27,2.22,1.4,0.29
+1616,Tetris DX,GB,1998.0,Puzzle,Nintendo,1.06,0.6,0.2,0.07
+1617,The Fifth Element,PS,1998.0,Action,Sony Computer Entertainment,0.08,0.05,0.0,0.01
+1618,The Game of Life,PS,1998.0,Misc,Unknown,0.46,0.31,0.0,0.05
+1619,The House of the Dead 2,DC,1998.0,Shooter,Sega,0.0,0.0,0.26,0.0
+1620,The King of Fighters '97,SAT,1998.0,Fighting,SNK,0.0,0.0,0.17,0.0
+1621,The King of Fighters '97,PS,1998.0,Fighting,SNK,0.0,0.0,0.16,0.01
+1622,The King of Fighters Kyo,PS,1998.0,Fighting,SNK Playmore,0.0,0.0,0.04,0.0
+1623,The Legend of Zelda: Link's Awakening DX,GB,1998.0,Adventure,Nintendo,1.0,0.63,0.45,0.13
+1624,The Legend of Zelda: Ocarina of Time,N64,1998.0,Action,Nintendo,4.1,1.89,1.45,0.16
+1625,The Legend of Zelda: Ocarina of Time,N64,1998.0,Action,Nintendo,4.1,1.89,1.45,0.16
+1626,The Next Tetris,PS,1998.0,Puzzle,Atari,0.45,0.31,0.0,0.05
+1627,The Smurfs,PS,1998.0,Action,Infogrames,0.02,0.02,0.0,0.0
+1628,The Unholy War,PS,1998.0,Strategy,Eidos Interactive,0.07,0.05,0.0,0.01
+1629,Theme Hospital,PS,1998.0,Strategy,Electronic Arts,0.03,0.02,0.03,0.01
+1630,Thousand Arms,PS,1998.0,Role-Playing,Atlus,0.06,0.04,0.0,0.01
+1631,Thrasher Presents: Skate and Destroy,PS,1998.0,Sports,Take-Two Interactive,0.22,0.15,0.0,0.03
+1632,Thunder Force V: Perfect System,PS,1998.0,Shooter,TechnoSoft,0.03,0.02,0.0,0.0
+1633,Tiger Woods PGA Tour 2000,PS,1998.0,Sports,Electronic Arts,0.37,0.25,0.0,0.04
+1634,Timeshock! Pro Pinball,PS,1998.0,Misc,Empire Interactive,0.02,0.01,0.0,0.0
+1635,Tiny Tank,PS,1998.0,Action,Sony Computer Entertainment,0.19,0.13,0.0,0.02
+1636,Tiny Toon Adventures: The Great Beanstalk,PS,1998.0,Misc,Sony Computer Entertainment,0.17,0.12,0.0,0.02
+1637,Tiny Toon Adventures: Toonenstein - Dare to Scare,PS,1998.0,Action,Swing! Entertainment,0.03,0.02,0.0,0.0
+1638,Tokimeki no Houkago,PS,1998.0,Misc,Konami Digital Entertainment,0.0,0.0,0.06,0.0
+1639,Tomb Raider III: Adventures of Lara Croft,PC,1998.0,Action,Eidos Interactive,0.59,0.03,0.0,0.0
+1640,Tomb Raider: The Last Revelation,PS,1998.0,Action,Eidos Interactive,1.15,1.14,0.06,0.13
+1641,Tomb Raider: The Last Revelation,PS,1998.0,Action,Eidos Interactive,1.15,1.14,0.06,0.13
+1642,Tomb Raider: The Last Revelation,PC,1998.0,Action,Eidos Interactive,0.41,0.0,0.0,0.0
+1643,Tomb Raider: The Last Revelation,PC,1998.0,Action,Eidos Interactive,0.41,0.0,0.0,0.0
+1644,Top Gear Overdrive,N64,1998.0,Racing,Kemco,0.23,0.06,0.0,0.0
+1645,Toy Story 2: Buzz Lightyear to the Rescue!,PS,1998.0,Platform,Activision,0.99,0.64,0.0,0.08
+1646,Toy Story 2: Buzz Lightyear to the Rescue!,PS,1998.0,Platform,Activision,0.99,0.64,0.0,0.08
+1647,Trap Gunner: Countdown to Oblivion,PS,1998.0,Strategy,Konami Digital Entertainment,0.02,0.01,0.0,0.0
+1648,Twisted Edge Extreme Snowboarding,N64,1998.0,Sports,Kemco,0.16,0.04,0.0,0.0
+1649,Twisted Metal III,PS,1998.0,Action,989 Studios,1.48,0.2,0.0,0.05
+1650,Um Jammer Lammy,PS,1998.0,Misc,Sony Computer Entertainment,0.12,0.08,0.41,0.04
+1651,Uprising X,PS,1998.0,Action,3DO,0.04,0.03,0.0,0.0
+1652,V-Rally Edition 99,N64,1998.0,Racing,Infogrames,0.07,0.02,0.0,0.0
+1653,Vampire Savior: The Lord of Vampire,SAT,1998.0,Fighting,Capcom,0.0,0.0,0.18,0.0
+1654,Vanguard Bandits,PS,1998.0,Strategy,Human Entertainment,0.04,0.03,0.0,0.0
+1655,Vigilante 8,PS,1998.0,Racing,Activision,0.68,0.47,0.0,0.08
+1656,Vigilante 8,N64,1998.0,Racing,Activision,0.25,0.06,0.0,0.0
+1657,Virtua Fighter 3tb,DC,1998.0,Fighting,Sega,0.0,0.0,0.37,0.0
+1658,Virtual Chess 64,N64,1998.0,Misc,Titus,0.05,0.01,0.0,0.0
+1659,Virtual Pool 64,N64,1998.0,Sports,Crave Entertainment,0.08,0.02,0.0,0.0
+1660,Viz,N64,1998.0,Racing,Acclaim Entertainment,0.23,0.06,0.0,0.0
+1661,WCW Mayhem,PS,1998.0,Fighting,Electronic Arts,0.68,0.46,0.0,0.08
+1662,WCW Nitro,PS,1998.0,Fighting,THQ,1.42,0.36,0.03,0.07
+1663,WCW Nitro,N64,1998.0,Fighting,THQ,0.17,0.04,0.0,0.0
+1664,WCW vs the World,PS,1998.0,Fighting,THQ,1.17,0.2,0.04,0.05
+1665,WCW/NWO Thunder,PS,1998.0,Fighting,THQ,1.1,0.48,0.04,0.07
+1666,WCW/nWo Revenge,N64,1998.0,Fighting,THQ,1.94,0.39,0.03,0.02
+1667,WWF Attitude,PS,1998.0,Fighting,Acclaim Entertainment,1.27,0.42,0.0,0.07
+1668,WWF War Zone,N64,1998.0,Fighting,Acclaim Entertainment,1.08,0.24,0.0,0.02
+1669,WWF War Zone,PS,1998.0,Fighting,Acclaim Entertainment,2.47,0.76,0.0,0.13
+1670,WWF War Zone,PS,1998.0,Fighting,Acclaim Entertainment,2.47,0.76,0.0,0.13
+1671,WWF War Zone,N64,1998.0,Fighting,Acclaim Entertainment,1.08,0.24,0.0,0.02
+1672,Warhammer: Dark Omen,PS,1998.0,Strategy,Electronic Arts,0.02,0.01,0.0,0.0
+1673,Wario Land II (GBC),GB,1998.0,Platform,Nintendo,0.0,0.0,0.38,0.0
+1674,Warpath: Jurassic Park,PS,1998.0,Fighting,Electronic Arts,0.15,0.1,0.0,0.02
+1675,Wetrix,N64,1998.0,Puzzle,Ocean,0.06,0.02,0.0,0.0
+1676,Wheel of Fortune,PS,1998.0,Misc,Hasbro Interactive,0.99,0.22,0.0,0.04
+1677,Wheel of Fortune,PS,1998.0,Misc,Hasbro Interactive,0.99,0.22,0.0,0.04
+1678,Wild 9,PS,1998.0,Action,Interplay,0.13,0.09,0.0,0.02
+1679,Winning Post 3,PS,1998.0,Racing,Tecmo Koei,0.0,0.0,0.14,0.01
+1680,WipEout 64,N64,1998.0,Racing,Midway Games,0.28,0.14,0.0,0.01
+1681,Wizardry: Llylgamyn Saga,PS,1998.0,Role-Playing,Locus,0.0,0.0,0.07,0.0
+1682,World Cup '98 France: Road to Win,SAT,1998.0,Sports,Sega,0.0,0.0,0.09,0.0
+1683,World Cup 98,N64,1998.0,Sports,Electronic Arts,0.14,0.4,0.0,0.04
+1684,World Soccer Jikkyou Winning Eleven 3: World Cup France '98,PS,1998.0,Sports,Konami Digital Entertainment,0.0,0.0,0.75,0.05
+1685,World Stadium 2,PS,1998.0,Sports,Namco Bandai Games,0.0,0.0,0.42,0.03
+1686,Wreckin Crew,PS,1998.0,Racing,Telstar,0.05,0.03,0.0,0.01
+1687,Wu-Tang: Shaolin Style,PS,1998.0,Fighting,Activision,0.27,0.18,0.0,0.03
+1688,X-Men: Children of the Atom,PS,1998.0,Fighting,Acclaim Entertainment,0.06,0.04,0.0,0.01
+1689,Xena: Warrior Princess,PS,1998.0,Adventure,Electronic Arts,0.33,0.23,0.0,0.04
+1690,Xenogears,PS,1998.0,Role-Playing,SquareSoft,0.29,0.19,0.89,0.1
+1691,Yarudora Series Vol. 2: Kisetsu wo Dakishimete,PS,1998.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.19,0.01
+1692,Yarudora Series Vol.1: Double Cast,PS,1998.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.35,0.02
+1693,Yu-Gi-Oh! Duel Monsters,GB,1998.0,Strategy,Konami Digital Entertainment,0.0,0.0,1.61,0.01
+1694,Yu-Gi-Oh! Monster Capsule Breed & Battle,PS,1998.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.26,0.02
+1695,007: Tomorrow Never Dies,PS,1999.0,Shooter,Electronic Arts,1.72,1.33,0.0,0.16
+1696,3D Tank Warfare Simulator Panzer Front,PS,1999.0,Simulation,Avalon Interactive,0.06,0.04,0.0,0.01
+1697,3Xtreme,PS,1999.0,Action,989 Studios,0.5,0.34,0.0,0.06
+1698,40 Winks,PS,1999.0,Platform,GT Interactive,0.17,0.12,0.0,0.02
+1699,A Collection of Classic Games from the Intellivision,PS,1999.0,Misc,Activision,0.17,0.12,0.0,0.02
+1700,Ace Combat 3: Electrosphere,PS,1999.0,Simulation,Sony Computer Entertainment,0.22,0.15,0.4,0.05
+1701,Age of Empires II: The Age of Kings,PC,1999.0,Strategy,Microsoft Game Studios,0.01,0.08,0.0,0.01
+1702,All Star Tennis 99,N64,1999.0,Sports,Ubisoft,0.04,0.01,0.0,0.0
+1703,All-Star Baseball 2000,N64,1999.0,Sports,Acclaim Entertainment,0.36,0.03,0.0,0.0
+1704,Alundra 2: A New Legend Begins,PS,1999.0,Role-Playing,Activision,0.15,0.1,0.0,0.02
+1705,Ape Escape,PS,1999.0,Platform,Sony Computer Entertainment,0.71,0.48,0.32,0.11
+1706,Arc the Lad III,PS,1999.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.39,0.03
+1707,Arcade Party Pak,PS,1999.0,Misc,Midway Games,0.06,0.04,0.0,0.01
+1708,Armored Core: Master of Arena,PS,1999.0,Simulation,From Software,0.07,0.05,0.13,0.02
+1709,Armorines: Project S.W.A.R.M.,N64,1999.0,Shooter,Acclaim Entertainment,0.21,0.05,0.0,0.0
+1710,Army Men 3D,PS,1999.0,Action,3DO,1.1,0.14,0.0,0.04
+1711,Army Men: Air Attack,PS,1999.0,Action,3DO,0.47,0.32,0.0,0.06
+1712,Army Men: Sarge's Heroes,N64,1999.0,Action,3DO,0.68,0.12,0.0,0.01
+1713,Army Men: Sarge's Heroes,PS,1999.0,Action,3DO,0.31,0.21,0.0,0.04
+1714,Asteroids Hyper 64,N64,1999.0,Shooter,Crave Entertainment,0.13,0.03,0.0,0.0
+1715,Ballistic,PS,1999.0,Puzzle,Atari,0.02,0.01,0.0,0.0
+1716,Barbie Super Sports,PS,1999.0,Sports,Mattel Interactive,0.12,0.08,0.0,0.01
+1717,Barbie: Race & Ride,PS,1999.0,Action,Sony Computer Entertainment,0.33,0.22,0.0,0.04
+1718,Bass Hunter 64,N64,1999.0,Sports,Take-Two Interactive,0.25,0.06,0.0,0.0
+1719,Bass Landing,PS,1999.0,Sports,ASCII Entertainment,0.21,0.14,0.23,0.04
+1720,Bass Rise,PS,1999.0,Sports,Namco Bandai Games,0.03,0.02,0.0,0.0
+1721,Bassmasters 2000,N64,1999.0,Sports,THQ,0.11,0.03,0.0,0.0
+1722,Battle Hunter,PS,1999.0,Strategy,Midas Interactive Entertainment,0.02,0.01,0.0,0.0
+1723,BattleTanx: Global Assault,N64,1999.0,Action,3DO,0.31,0.07,0.0,0.0
+1724,BeatMania Append 4thMix: The beat goes on,PS,1999.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.27,0.02
+1725,BeatMania Append GottaMix,PS,1999.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.31,0.02
+1726,Beetle Adventure Racing!,N64,1999.0,Racing,Electronic Arts,0.4,0.2,0.0,0.02
+1727,Big Air,PS,1999.0,Sports,Accolade,0.1,0.07,0.0,0.01
+1728,Black Bass with Blue Marlin,PS,1999.0,Sports,Starfish,0.06,0.04,0.0,0.01
+1729,Bloody Roar II,PS,1999.0,Fighting,Virgin Interactive,0.25,0.17,0.0,0.03
+1730,Blue Stinger,DC,1999.0,Adventure,Activision,0.0,0.0,0.1,0.0
+1731,Board Game: Top Shop,PS,1999.0,Misc,Success,0.01,0.01,0.0,0.0
+1732,Bomberman 64: The Second Attack!,N64,1999.0,Adventure,Hudson Soft,0.05,0.01,0.11,0.0
+1733,BoomBots,PS,1999.0,Fighting,SouthPeak Games,0.06,0.04,0.0,0.01
+1734,Bottom of the 9th,N64,1999.0,Sports,Konami Digital Entertainment,0.37,0.0,0.0,0.0
+1735,Breakout,PS,1999.0,Puzzle,Hasbro Interactive,0.06,0.04,0.0,0.01
+1736,Brunswick Circuit Pro Bowling,N64,1999.0,Sports,THQ,0.05,0.01,0.0,0.0
+1737,Bugs Bunny: Lost in Time,PS,1999.0,Platform,Infogrames,0.22,0.15,0.0,0.03
+1738,Builder's Block,PS,1999.0,Strategy,EON Digital Entertainment,0.01,0.0,0.0,0.0
+1739,Bust A Groove 2,PS,1999.0,Misc,Enix Corporation,0.04,0.03,0.18,0.02
+1740,California Speed,N64,1999.0,Misc,Midway Games,0.13,0.03,0.0,0.0
+1741,Carmageddon 64,N64,1999.0,Action,Virgin Interactive,0.01,0.0,0.0,0.0
+1742,Castlevania,N64,1999.0,Platform,Konami Digital Entertainment,0.44,0.1,0.04,0.05
+1743,Castlevania: Legacy of Darkness,N64,1999.0,Platform,Konami Digital Entertainment,0.06,0.02,0.05,0.0
+1744,Championship Bass,PS,1999.0,Sports,Electronic Arts,0.18,0.12,0.0,0.02
+1745,Championship Manager 99/00,PC,1999.0,Sports,Eidos Interactive,0.0,0.98,0.0,0.09
+1746,Charlie Blasts Territory,N64,1999.0,Action,Kemco,0.02,0.01,0.0,0.0
+1747,Chocobo Racing,PS,1999.0,Racing,SquareSoft,0.07,0.05,0.3,0.03
+1748,Chocobo no Fushigi Dungeon for WonderSwan,WS,1999.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.18,0.0
+1749,Choro Q 64 2: Hacha Mecha Grand Prix Race,N64,1999.0,Racing,Takara,0.0,0.0,0.05,0.0
+1750,Chrono Cross,PS,1999.0,Role-Playing,SquareSoft,0.62,0.42,0.69,0.12
+1751,Command & Conquer,N64,1999.0,Strategy,Nintendo,0.22,0.05,0.0,0.0
+1752,Command & Conquer: Tiberian Sun,PC,1999.0,Strategy,Westwood Studios,1.55,0.0,0.0,0.0
+1753,Countdown Vampires,PS,1999.0,Adventure,Namco Bandai Games,0.02,0.01,0.0,0.0
+1754,Crash Team Racing,PS,1999.0,Racing,Sony Computer Entertainment,2.57,1.57,0.44,0.21
+1755,Croc 2,PS,1999.0,Platform,Fox Interactive,0.41,0.28,0.0,0.05
+1756,Crusaders of Might and Magic,PS,1999.0,Role-Playing,3DO,0.14,0.1,0.0,0.02
+1757,Dance Dance Revolution (Japan),PS,1999.0,Simulation,Konami Digital Entertainment,0.0,0.0,1.26,0.09
+1758,Dance Dance Revolution 2nd ReMIX,PS,1999.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.9,0.06
+1759,Dancing Blade II: Tears of Eden,PS,1999.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.0
+1760,Dead in the Water,PS,1999.0,Action,ASC Games,0.03,0.02,0.0,0.0
+1761,Deception III: Dark Delusion,PS,1999.0,Role-Playing,Tecmo Koei,0.02,0.01,0.0,0.0
+1762,Densha De Go! 2,PS,1999.0,Simulation,Taito,0.0,0.0,0.38,0.03
+1763,Densha De Go! 64,N64,1999.0,Simulation,Taito,0.0,0.0,0.05,0.07
+1764,Derby Stallion,SAT,1999.0,Sports,ASCII Entertainment,0.0,0.0,0.09,0.0
+1765,Derby Stallion 99,PS,1999.0,Sports,ASCII Entertainment,0.0,0.0,1.06,0.07
+1766,Destruction Derby 64,N64,1999.0,Racing,THQ,0.13,0.03,0.0,0.0
+1767,Detective Barbie: The Mystery Cruise,PS,1999.0,Adventure,Mattel Interactive,0.08,0.05,0.0,0.01
+1768,Die Hard Trilogy 2: Viva Las Vegas,PS,1999.0,Action,Fox Interactive,0.27,0.18,0.0,0.03
+1769,Digimon Adventure: Anode Tamer,WS,1999.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.28,0.0
+1770,Digimon Digital Card Battle,PS,1999.0,Strategy,Namco Bandai Games,0.06,0.04,0.0,0.01
+1771,Digimon World,PS,1999.0,Role-Playing,Namco Bandai Games,0.56,0.38,0.28,0.08
+1772,Disney's Story Studio: Disney's Mulan,PS,1999.0,Misc,Sony Computer Entertainment,0.09,0.06,0.0,0.01
+1773,Doko Demo Issyo,PS,1999.0,Misc,Sony Computer Entertainment,0.0,0.0,1.0,0.07
+1774,Donkey Kong 64,N64,1999.0,Platform,Nintendo,3.33,0.79,1.09,0.06
+1775,Dragon Valor,PS,1999.0,Role-Playing,Sony Computer Entertainment,0.04,0.03,0.0,0.0
+1776,Dragon Warrior I&II,GB,1999.0,Role-Playing,Enix Corporation,0.0,0.0,0.77,0.0
+1777,Driver,PS,1999.0,Action,GT Interactive,3.11,2.8,0.02,0.33
+1778,Duke Nukem: Zero Hour,N64,1999.0,Shooter,GT Interactive,0.21,0.05,0.0,0.0
+1779,Dune 2000,PS,1999.0,Strategy,Electronic Arts,0.14,0.09,0.0,0.02
+1780,Dungeon Keeper 2,PC,1999.0,Action,Electronic Arts,0.0,0.05,0.0,0.01
+1781,ECW Anarchy Rulz,PS,1999.0,Fighting,Acclaim Entertainment,0.06,0.04,0.0,0.01
+1782,ECW Hardcore Revolution,PS,1999.0,Fighting,Acclaim Entertainment,0.27,0.18,0.0,0.03
+1783,Earthworm Jim 3D,N64,1999.0,Platform,Interplay,0.1,0.02,0.0,0.0
+1784,Eternal Eyes,PS,1999.0,Role-Playing,Sunsoft,0.08,0.05,0.0,0.01
+1785,Expendable,PS,1999.0,Action,Infogrames,0.03,0.02,0.0,0.0
+1786,Fatal Fury: Wild Ambition,PS,1999.0,Fighting,SNK Playmore,0.03,0.02,0.0,0.0
+1787,Fighter Destiny 2,N64,1999.0,Fighting,Imagineer,0.04,0.01,0.0,0.0
+1788,Fighting Force 2,PS,1999.0,Action,Eidos Interactive,0.31,0.21,0.0,0.04
+1789,Fighting Force 64,N64,1999.0,Action,Crave Entertainment,0.09,0.02,0.0,0.0
+1790,Final Fantasy Anthology,PS,1999.0,Role-Playing,Square EA,0.45,0.3,0.0,0.05
+1791,Final Fantasy Collection,PS,1999.0,Role-Playing,Square,0.0,0.0,0.42,0.03
+1792,Final Fantasy VI,PS,1999.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.08,0.01
+1793,Final Fantasy VIII,PS,1999.0,Role-Playing,SquareSoft,2.28,1.72,3.63,0.23
+1794,Fire Emblem: Thracia 776,SNES,1999.0,Strategy,Nintendo,0.0,0.0,0.26,0.0
+1795,Fire ProWrestling G,PS,1999.0,Fighting,Human Entertainment,0.0,0.0,0.18,0.01
+1796,Fisherman's Bait 2: Big Ol' Bass,PS,1999.0,Sports,Konami Digital Entertainment,0.16,0.11,0.0,0.02
+1797,Frogger 2: Swampy's Revenge,PS,1999.0,Action,Hasbro Interactive,0.8,0.54,0.0,0.09
+1798,Front Mission 3,PS,1999.0,Strategy,SquareSoft,0.1,0.07,0.31,0.03
+1799,G-Police: Weapons of Justice,PS,1999.0,Action,Psygnosis,0.03,0.02,0.0,0.0
+1800,Galerians,PS,1999.0,Adventure,Crave Entertainment,0.08,0.06,0.0,0.01
+1801,Gallop Racer,PS,1999.0,Sports,Tecmo Koei,0.0,0.0,0.18,0.01
+1802,Game & Watch Gallery 3,GB,1999.0,Misc,Nintendo,0.79,0.31,0.08,0.04
+1803,Gauntlet Legends,N64,1999.0,Action,Midway Games,0.43,0.1,0.0,0.01
+1804,Gekido,PS,1999.0,Fighting,Infogrames,0.06,0.04,0.0,0.01
+1805,Gex 3: Deep Cover Gecko,N64,1999.0,Platform,Crave Entertainment,0.17,0.04,0.0,0.0
+1806,Gex 3: Deep Cover Gecko,PS,1999.0,Platform,Eidos Interactive,0.3,0.2,0.0,0.03
+1807,Glover,PS,1999.0,Platform,Atari,0.09,0.06,0.0,0.01
+1808,Gran Turismo 2,PS,1999.0,Racing,Sony Computer Entertainment,3.88,3.42,1.69,0.5
+1809,Grandia,PS,1999.0,Role-Playing,Ubisoft,0.14,0.09,0.0,0.02
+1810,Grudge Warriors,PS,1999.0,Action,Take-Two Interactive,0.23,0.16,0.0,0.03
+1811,Guitar Freaks,PS,1999.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.23,0.02
+1812,Hamster Tarou,GB,1999.0,Simulation,Jorudan,0.0,0.0,0.3,0.0
+1813,Harvest Moon 2 GBC,GB,1999.0,Simulation,Ubisoft,0.0,0.0,0.12,0.0
+1814,Harvest Moon 64,N64,1999.0,Simulation,Pack In Soft,0.25,0.06,0.11,0.06
+1815,Harvest Moon: Back to Nature,PS,1999.0,Simulation,Ubisoft,0.11,0.07,0.12,0.02
+1816,Hot Shots Golf 2,PS,1999.0,Sports,Sony Computer Entertainment,0.25,0.12,1.48,0.03
+1817,Hot Wheels Turbo Racing,PS,1999.0,Racing,Electronic Arts,0.59,0.4,0.0,0.07
+1818,Hot Wheels Turbo Racing,N64,1999.0,Racing,Electronic Arts,0.25,0.06,0.0,0.0
+1819,Hybrid Heaven,N64,1999.0,Role-Playing,Konami Digital Entertainment,0.16,0.04,0.05,0.0
+1820,Hydro Thunder,PS,1999.0,Racing,Midway Games,0.26,0.17,0.0,0.03
+1821,Incredible Crisis,PS,1999.0,Action,Titus,0.04,0.03,0.0,0.01
+1822,International Superstar Soccer 2000 (All region sales),N64,1999.0,Sports,Konami Digital Entertainment,0.01,0.26,0.22,0.02
+1823,International Superstar Soccer 2000 (JP weekly sales),N64,1999.0,Sports,Konami Digital Entertainment,0.0,0.0,0.18,0.0
+1824,International Track & Field 2000,PS,1999.0,Sports,Konami Digital Entertainment,0.06,0.04,0.0,0.01
+1825,Interplay Sports Baseball 2000,PS,1999.0,Sports,Interplay,0.03,0.02,0.0,0.0
+1826,Iron Soldier 3,PS,1999.0,Simulation,Telegames,0.01,0.01,0.0,0.0
+1827,J-League Pro Soccer Club o Tsukurou!,DC,1999.0,Sports,Sega,0.0,0.0,0.36,0.0
+1828,Jackie Chan: Stuntmaster,PS,1999.0,Action,Sony Computer Entertainment,0.12,0.08,0.0,0.01
+1829,Jampack Summer '99,PS,1999.0,Misc,Sony Computer Entertainment,0.54,0.36,0.0,0.06
+1830,Jampack Winter '99,PS,1999.0,Misc,Sony Computer Entertainment,0.94,0.64,0.0,0.11
+1831,Jeremy McGrath Supercross 2000,N64,1999.0,Racing,Acclaim Entertainment,0.23,0.06,0.0,0.0
+1832,Jet Force Gemini,N64,1999.0,Shooter,Nintendo,0.78,0.28,0.07,0.02
+1833,Jet Moto 3,PS,1999.0,Racing,Sony Computer Entertainment,0.41,0.28,0.0,0.05
+1834,Jikkyou Powerful Pro Yakyuu '99 Kaimakuban,PS,1999.0,Sports,Konami Digital Entertainment,0.0,0.0,0.76,0.05
+1835,Jikkyou Powerful Pro Yakyuu '99 Ketteiban,PS,1999.0,Sports,Konami Digital Entertainment,0.0,0.0,0.25,0.02
+1836,Jikkyou Powerful Pro Yakyuu 6,N64,1999.0,Sports,Konami Digital Entertainment,0.0,0.0,0.39,0.03
+1837,Jojo's Bizarre Adventure,PS,1999.0,Fighting,Virgin Interactive,0.01,0.01,0.0,0.0
+1838,K-1 Grand Prix,PS,1999.0,Fighting,Jaleco,0.01,0.01,0.0,0.0
+1839,Ken Griffey Jr.'s Slugfest,N64,1999.0,Sports,Nintendo,0.23,0.06,0.0,0.0
+1840,Killer Loop,PS,1999.0,Racing,Crave Entertainment,0.03,0.02,0.0,0.0
+1841,Knockout Kings 2000,PS,1999.0,Fighting,Electronic Arts,1.02,0.34,0.0,0.05
+1842,Knockout Kings 2000,N64,1999.0,Fighting,Electronic Arts,0.63,0.27,0.0,0.02
+1843,Knockout Kings 2000,N64,1999.0,Fighting,Electronic Arts,0.63,0.27,0.0,0.02
+1844,Knockout Kings 2000,PS,1999.0,Fighting,Electronic Arts,1.02,0.34,0.0,0.05
+1845,Konami Arcade Classics,PS,1999.0,Misc,Konami Digital Entertainment,0.02,0.01,0.0,0.0
+1846,Koudelka,PS,1999.0,Role-Playing,Atari,0.05,0.03,0.0,0.01
+1847,LEGO Racers,PS,1999.0,Racing,LEGO Media,0.2,0.14,0.0,0.02
+1848,LEGO Racers,N64,1999.0,Racing,LEGO Media,0.51,0.18,0.0,0.01
+1849,LEGO Rock Raiders,PS,1999.0,Strategy,LEGO Media,0.06,0.04,0.0,0.01
+1850,Legend of Mana,PS,1999.0,Role-Playing,SquareSoft,0.18,0.13,0.73,0.07
+1851,Legoland,PC,1999.0,Action,LEGO Media,0.0,0.01,0.0,0.0
+1852,Lunar 2: Eternal Blue Complete,PS,1999.0,Role-Playing,Kadokawa Shoten,0.19,0.13,0.0,0.02
+1853,MLB 2000,PS,1999.0,Sports,Sony Computer Entertainment,0.52,0.35,0.0,0.06
+1854,MTV Music Generator,PS,1999.0,Misc,Codemasters,0.26,0.18,0.0,0.03
+1855,Madden NFL 2000,N64,1999.0,Sports,Electronic Arts,0.58,0.02,0.0,0.0
+1856,Mario Golf,N64,1999.0,Action,Nintendo,0.62,0.18,0.65,0.02
+1857,Mario Golf,GB,1999.0,Action,Nintendo,0.0,0.0,0.31,0.0
+1858,Mario Party 2,N64,1999.0,Misc,Nintendo,1.28,0.14,1.08,0.01
+1859,Marvel vs. Capcom: Clash of Super Heroes,PS,1999.0,Fighting,Capcom,0.43,0.3,0.0,0.05
+1860,Marvel vs. Capcom: Clash of Super Heroes,DC,1999.0,Fighting,Capcom,0.0,0.0,0.1,0.0
+1861,Medarot 2: Kabuto / Kuwagata Version,GB,1999.0,Role-Playing,Imagineer,0.0,0.0,0.54,0.0
+1862,MediEvil II,PS,1999.0,Action,Sony Computer Entertainment,0.21,0.14,0.0,0.02
+1863,Metal Gear Solid Integral,PS,1999.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.1,0.01
+1864,Metal Gear Solid VR Missions,PS,1999.0,Adventure,Konami Digital Entertainment,0.66,0.45,0.0,0.08
+1865,Micro Machines 64 Turbo,N64,1999.0,Racing,Codemasters,0.11,0.03,0.0,0.0
+1866,Missile Command,PS,1999.0,Shooter,Atari,0.25,0.17,0.0,0.03
+1867,Mission: Impossible,PS,1999.0,Action,Infogrames,0.29,0.2,0.0,0.03
+1868,Momotarou Dentetsu V,PS,1999.0,Misc,Hudson Entertainment,0.0,0.0,0.44,0.03
+1869,Monaco Grand Prix,N64,1999.0,Racing,Ubisoft,0.03,0.01,0.0,0.0
+1870,Monopoly,N64,1999.0,Misc,Hasbro Interactive,0.17,0.04,0.0,0.0
+1871,Monopoly,N64,1999.0,Misc,Hasbro Interactive,0.17,0.04,0.0,0.0
+1872,Monster Truck Madness 64,N64,1999.0,Racing,Take-Two Interactive,0.24,0.06,0.0,0.0
+1873,Mr. Driller,PS,1999.0,Puzzle,Namco Bandai Games,0.02,0.01,0.0,0.0
+1874,Muppet RaceMania,PS,1999.0,Racing,Sony Computer Entertainment,0.09,0.06,0.0,0.01
+1875,NASCAR 2000,N64,1999.0,Racing,Electronic Arts,0.49,0.03,0.0,0.0
+1876,NASCAR 2000,PS,1999.0,Racing,Electronic Arts,0.88,0.6,0.0,0.1
+1877,NBA 2K,DC,1999.0,Sports,Sega,0.0,0.0,0.05,0.0
+1878,NBA Courtside 2 featuring Kobe Bryant,N64,1999.0,Sports,Nintendo,0.2,0.05,0.0,0.0
+1879,NBA Jam 2000,N64,1999.0,Sports,Acclaim Entertainment,0.12,0.01,0.0,0.0
+1880,NBA Live 2000,N64,1999.0,Sports,Electronic Arts,0.42,0.02,0.0,0.0
+1881,NBA ShootOut 2000,PS,1999.0,Sports,989 Studios,0.22,0.15,0.0,0.03
+1882,NBA Showtime: NBA on NBC,N64,1999.0,Sports,Midway Games,0.23,0.02,0.0,0.0
+1883,NBA Showtime: NBA on NBC,PS,1999.0,Sports,Midway Games,0.31,0.21,0.0,0.04
+1884,NCAA Final Four 2000,PS,1999.0,Sports,989 Sports,0.21,0.14,0.0,0.02
+1885,NCAA Football 2000,PS,1999.0,Sports,Electronic Arts,0.53,0.36,0.0,0.06
+1886,NCAA GameBreaker 2000,PS,1999.0,Sports,989 Studios,0.22,0.15,0.0,0.03
+1887,NFL 2K,DC,1999.0,Sports,Sega,1.12,0.05,0.0,0.02
+1888,NFL Blitz 2000,N64,1999.0,Sports,Midway Games,0.55,0.02,0.0,0.0
+1889,NFL GameDay 2000,PS,1999.0,Sports,989 Studios,1.0,0.68,0.0,0.12
+1890,NFL Quarterback Club 2000,N64,1999.0,Sports,Acclaim Entertainment,0.37,0.03,0.0,0.0
+1891,NFL Xtreme 2,PS,1999.0,Sports,989 Studios,0.27,0.18,0.0,0.03
+1892,NHL Blades of Steel '99,N64,1999.0,Sports,Konami Digital Entertainment,0.05,0.0,0.0,0.0
+1893,NHL Blades of Steel 2000,PS,1999.0,Sports,Konami Digital Entertainment,0.02,0.01,0.0,0.0
+1894,NHL Rock the Rink,PS,1999.0,Sports,Electronic Arts,0.14,0.1,0.0,0.02
+1895,Namco Museum 64,N64,1999.0,Misc,Namco Bandai Games,1.24,0.17,0.03,0.01
+1896,Need For Speed: High Stakes,PS,1999.0,Racing,Electronic Arts,1.58,0.64,0.0,0.09
+1897,Need for Speed: Porsche Unleashed,PS,1999.0,Racing,Electronic Arts,0.43,0.29,0.0,0.05
+1898,Neon Genesis Evangelion,N64,1999.0,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.0
+1899,No.1 Muscle Ranking - Kinniku Banzuke Vol. 1: Oregasaikyouno Otokoda!,PS,1999.0,Sports,Konami Digital Entertainment,0.0,0.0,0.3,0.02
+1900,Nobunaga no Yabou: Reppuuden,PS,1999.0,Strategy,Tecmo Koei,0.0,0.0,0.19,0.01
+1901,Nuclear Strike 64,N64,1999.0,Simulation,THQ,0.09,0.02,0.0,0.0
+1902,Ogre Battle 64: Person of Lordly Caliber,N64,1999.0,Role-Playing,Nintendo,0.1,0.02,0.25,0.04
+1903,Omega Boost,PS,1999.0,Shooter,Sony Computer Entertainment,0.17,0.11,0.2,0.03
+1904,PD Ultraman Battle Collection 64,N64,1999.0,Strategy,Namco Bandai Games,0.0,0.0,0.04,0.0
+1905,Pachi-Slot Aruze Oukoku 2,PS,1999.0,Misc,Aruze Corp,0.0,0.0,0.5,0.04
+1906,Paperboy,N64,1999.0,Action,Midway Games,0.19,0.05,0.0,0.0
+1907,Parasite Eve II,PS,1999.0,Role-Playing,SquareSoft,0.32,0.22,0.0,0.04
+1908,Pokemon Gold/Pokemon Silver,GB,1999.0,Role-Playing,Nintendo,9.0,6.18,7.2,0.71
+1909,Pokemon Pinball,GB,1999.0,Misc,Nintendo,3.02,1.12,1.01,0.16
+1910,Pokemon Snap,N64,1999.0,Simulation,Nintendo,2.23,0.68,0.66,0.06
+1911,Pokemon Stadium,N64,1999.0,Strategy,Nintendo,3.18,1.24,0.94,0.09
+1912,Power Pro Kun Pocket,GB,1999.0,Sports,Konami Digital Entertainment,0.0,0.0,0.17,0.0
+1913,Pro Pinball: Big Race USA,PS,1999.0,Simulation,Take-Two Interactive,0.37,0.25,0.0,0.04
+1914,Pro Yakyuu Team o Tsukurou!,DC,1999.0,Sports,Sega,0.0,0.0,0.23,0.0
+1915,Q*bert,PS,1999.0,Puzzle,Atari,0.46,0.32,0.0,0.05
+1916,Quake II,N64,1999.0,Shooter,Activision,0.24,0.06,0.0,0.0
+1917,RR64: Ridge Racer 64,N64,1999.0,Racing,Nintendo,0.32,0.07,0.0,0.0
+1918,Racing Lagoon,PS,1999.0,Racing,Square,0.0,0.0,0.15,0.01
+1919,Railroad Tycoon II,PS,1999.0,Strategy,PopTop Software,0.06,0.04,0.0,0.01
+1920,Rally Challenge 2000,N64,1999.0,Racing,Imagineer,0.03,0.01,0.0,0.0
+1921,Rampage 2: Universal Tour,N64,1999.0,Action,GT Interactive,0.18,0.04,0.0,0.0
+1922,Rat Attack!,PS,1999.0,Puzzle,Mindscape,0.03,0.02,0.0,0.0
+1923,RayCrisis: Series Termination,PS,1999.0,Shooter,JVC,0.01,0.01,0.0,0.0
+1924,Rayman 2: The Great Escape,N64,1999.0,Platform,Ubisoft,0.4,0.22,0.0,0.02
+1925,Razor Freestyle Scooter,PS,1999.0,Sports,Ubisoft,0.26,0.17,0.0,0.03
+1926,Re-Volt,N64,1999.0,Racing,Acclaim Entertainment,0.14,0.04,0.0,0.0
+1927,Ready 2 Rumble Boxing,N64,1999.0,Sports,Midway Games,0.47,0.11,0.0,0.01
+1928,Renegade Racers,PS,1999.0,Racing,Interplay,0.01,0.01,0.0,0.0
+1929,Resident Evil 2,N64,1999.0,Action,Virgin Interactive,0.39,0.09,0.07,0.01
+1930,Resident Evil 3: Nemesis,PS,1999.0,Action,Eidos Interactive,1.3,0.77,1.54,0.11
+1931,Road Rash 64,N64,1999.0,Racing,THQ,0.19,0.05,0.0,0.0
+1932,Road Rash: Jailbreak,PS,1999.0,Racing,Electronic Arts,0.22,0.15,0.0,0.03
+1933,Roadsters 99,N64,1999.0,Racing,Titus,0.06,0.13,0.0,0.01
+1934,Rocket: Robot on Wheels,N64,1999.0,Platform,Ubisoft,0.1,0.02,0.0,0.0
+1935,Rollcage,PS,1999.0,Racing,Psygnosis,0.12,0.08,0.0,0.01
+1936,Rugrats Studio Tour,PS,1999.0,Adventure,THQ,0.57,0.67,0.0,0.07
+1937,Rugrats: Scavenger Hunt,N64,1999.0,Misc,THQ,0.41,0.09,0.0,0.01
+1938,SD Gundam G Generation Zero,PS,1999.0,Strategy,Namco Bandai Games,0.0,0.0,0.51,0.04
+1939,SaGa Frontier 2,PS,1999.0,Role-Playing,SquareSoft,0.1,0.07,0.71,0.06
+1940,Saiyuki: Journey West,PS,1999.0,Strategy,Tecmo Koei,0.03,0.02,0.0,0.0
+1941,Samurai Shodown: Warrios Rage,PS,1999.0,Fighting,SNK,0.01,0.0,0.0,0.0
+1942,Scrabble,PS,1999.0,Misc,Ubisoft,0.14,0.1,0.0,0.02
+1943,Seaman,DC,1999.0,Simulation,Sega,0.0,0.0,0.52,0.0
+1944,Sega Bass Fishing,DC,1999.0,Sports,Sega,0.0,0.0,0.09,0.0
+1945,Sega Rally Championship 2,DC,1999.0,Racing,Sega,0.0,0.0,0.41,0.0
+1946,Sesame Street: Elmo's Letter Adventure,N64,1999.0,Misc,NewKidCo,0.14,0.04,0.0,0.0
+1947,Sesame Street: Elmo's Number Journey,N64,1999.0,Misc,NewKidCo,0.15,0.04,0.0,0.0
+1948,Shadow Madness,PS,1999.0,Action,Crave Entertainment,0.1,0.07,0.0,0.01
+1949,Shadow Man,N64,1999.0,Action,Acclaim Entertainment,0.18,0.08,0.0,0.01
+1950,Shadowgate 64: Trials of the Four Towers,N64,1999.0,Adventure,Kemco,0.06,0.01,0.0,0.0
+1951,Shenmue,DC,1999.0,Adventure,Sega,0.52,0.24,0.38,0.04
+1952,Shin Megami Tensei: Devil Summoner - Soul Hackers,PS,1999.0,Role-Playing,Atlus,0.0,0.0,0.14,0.01
+1953,Silent Bomber,PS,1999.0,Action,Virgin Interactive,0.01,0.01,0.0,0.0
+1954,Silent Hill,PS,1999.0,Action,Konami Digital Entertainment,0.71,0.48,0.3,0.1
+1955,Sim Theme Park,PS,1999.0,Strategy,Electronic Arts,0.35,0.24,0.0,0.04
+1956,SnoCross Championship Racing,PS,1999.0,Racing,Ubisoft,0.52,0.35,0.0,0.06
+1957,Snowboard Kids 2,N64,1999.0,Sports,Atlus,0.09,0.02,0.0,0.0
+1958,SoulCalibur,DC,1999.0,Fighting,Namco Bandai Games,0.0,0.0,0.34,0.0
+1959,Sound Novel Evolution 1: Otogirisou Sosei-Hen,PS,1999.0,Adventure,ChunSoft,0.0,0.0,0.16,0.01
+1960,South Park: Chef's Luv Shack,N64,1999.0,Misc,Acclaim Entertainment,0.19,0.05,0.0,0.0
+1961,Space Battleship Yamato: Harukanaru Hoshi Iscandar,PS,1999.0,Strategy,Namco Bandai Games,0.0,0.0,0.16,0.01
+1962,Space Invaders,N64,1999.0,Shooter,Activision,0.13,0.03,0.0,0.0
+1963,Sports Car GT,PS,1999.0,Racing,Electronic Arts,0.12,0.08,0.0,0.01
+1964,Spyro 2: Ripto's Rage!,PS,1999.0,Platform,Sony Computer Entertainment,2.14,1.21,0.01,0.17
+1965,Star Wars Episode 1: Jedi Power Battles,PS,1999.0,Action,LucasArts,0.66,0.48,0.01,0.06
+1966,Star Wars Episode I Racer,N64,1999.0,Racing,Nintendo,2.31,0.62,0.14,0.04
+1967,Star Wars Episode I: The Phantom Menace,PS,1999.0,Adventure,LucasArts,0.72,0.89,0.04,0.1
+1968,Super Bowling,N64,1999.0,Sports,Athena,0.02,0.0,0.0,0.0
+1969,Super Mario Bros.,GB,1999.0,Platform,Nintendo,3.4,1.3,0.15,0.22
+1970,Super Robot Taisen 64,N64,1999.0,Strategy,Banpresto,0.0,0.0,0.2,0.0
+1971,Super Robot Taisen Complete Box,PS,1999.0,Strategy,Banpresto,0.0,0.0,0.29,0.02
+1972,Super Robot Taisen F Kanketsuhen,PS,1999.0,Strategy,Banpresto,0.0,0.0,0.21,0.01
+1973,Super Smash Bros.,N64,1999.0,Fighting,Nintendo,2.95,0.6,1.97,0.04
+1974,Superbike 2000,PS,1999.0,Racing,Electronic Arts,0.15,0.1,0.0,0.02
+1975,Supercross 2000,N64,1999.0,Racing,Electronic Arts,0.23,0.06,0.0,0.0
+1976,Superman: The New Superman Adventures,N64,1999.0,Action,Titus,0.33,0.07,0.0,0.0
+1977,Surf Riders,PS,1999.0,Sports,Ubisoft,0.07,0.05,0.0,0.01
+1978,Syphon Filter,PS,1999.0,Shooter,Sony Computer Entertainment,2.03,0.72,0.02,0.11
+1979,Test Drive 6,PS,1999.0,Racing,Atari,0.4,0.27,0.0,0.05
+1980,Test Drive Le Mans,PS,1999.0,Racing,Infogrames,0.03,0.02,0.0,0.0
+1981,The Dukes of Hazzard: Racing for Home,PS,1999.0,Racing,Ubisoft,0.99,0.16,0.0,0.04
+1982,The Grinch,PS,1999.0,Adventure,Konami Digital Entertainment,0.29,0.2,0.0,0.03
+1983,The King of Fighters '98: Dream Match Never Ends,PS,1999.0,Fighting,SNK Playmore,0.05,0.03,0.0,0.01
+1984,The King of Fighters: Dream Match 1999,DC,1999.0,Fighting,SNK,0.0,0.0,0.1,0.0
+1985,The Legend of Dragoon,PS,1999.0,Role-Playing,Sony Computer Entertainment,0.94,0.44,0.39,0.1
+1986,The Longest Journey,PC,1999.0,Adventure,Empire Interactive,0.0,0.01,0.0,0.0
+1987,The Misadventures of Tron Bonne,PS,1999.0,Adventure,Eidos Interactive,0.03,0.02,0.0,0.0
+1988,The New Tetris,N64,1999.0,Puzzle,Nintendo,0.22,0.05,0.02,0.0
+1989,The X Files,PS,1999.0,Adventure,Sony Computer Entertainment,0.24,0.16,0.0,0.03
+1990,Threads of Fate,PS,1999.0,Role-Playing,SquareSoft,0.12,0.08,0.0,0.01
+1991,To Heart,PS,1999.0,Adventure,Aqua Plus,0.0,0.0,0.13,0.01
+1992,Tokimeki Memorial 2,PS,1999.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.36,0.03
+1993,Tokyo Xtreme Racer,DC,1999.0,Racing,Genki,0.0,0.0,0.17,0.0
+1994,Tom Clancy's Rainbow Six,N64,1999.0,Shooter,Red Storm Entertainment,0.48,0.15,0.0,0.01
+1995,Tom Clancy's Rainbow Six,PS,1999.0,Shooter,Red Storm Entertainment,0.93,0.63,0.0,0.08
+1996,Tomb Raider Chronicles,PS,1999.0,Action,Eidos Interactive,0.34,0.23,0.0,0.04
+1997,Tomba! 2: The Evil Swine Return,PS,1999.0,Platform,Sony Computer Entertainment,0.16,0.11,0.0,0.02
+1998,Tonic Trouble,N64,1999.0,Platform,Ubisoft,0.09,0.02,0.0,0.0
+1999,Tony Hawk's Pro Skater,PS,1999.0,Sports,Activision,3.42,1.38,0.02,0.2
+2000,Tony Hawk's Pro Skater,PS,1999.0,Sports,Activision,3.42,1.38,0.02,0.2
+2001,Tony Hawk's Pro Skater,PS,1999.0,Sports,Activision,3.42,1.38,0.02,0.2
+2002,Top Gear Hyper-Bike,N64,1999.0,Racing,Kemco,0.05,0.01,0.0,0.0
+2003,Top Gear Rally 2,N64,1999.0,Racing,Kemco,0.09,0.02,0.0,0.0
+2004,Toy Story 2: Buzz Lightyear to the Rescue!,N64,1999.0,Platform,Activision,0.71,0.2,0.0,0.01
+2005,Toy Story 2: Buzz Lightyear to the Rescue!,N64,1999.0,Platform,Activision,0.71,0.2,0.0,0.01
+2006,Triple Play 2000,PS,1999.0,Sports,Electronic Arts,0.79,0.54,0.0,0.09
+2007,Triple Play 2000,N64,1999.0,Sports,Electronic Arts,0.27,0.01,0.0,0.0
+2008,Turok: Rage Wars,N64,1999.0,Shooter,Acclaim Entertainment,0.3,0.06,0.0,0.0
+2009,Twisted Metal 4,PS,1999.0,Racing,989 Studios,1.07,0.16,0.0,0.04
+2010,Tyco RC: Assault with a Battery,PS,1999.0,Racing,Syscom,0.06,0.04,0.0,0.01
+2011,Urban Chaos,PS,1999.0,Action,Eidos Interactive,0.06,0.04,0.0,0.01
+2012,Valkyrie Profile,PS,1999.0,Role-Playing,Enix Corporation,0.07,0.05,0.63,0.05
+2013,Vanark,PS,1999.0,Shooter,Jaleco,0.01,0.01,0.0,0.0
+2014,Vandal Hearts II,PS,1999.0,Strategy,Konami Digital Entertainment,0.06,0.04,0.0,0.01
+2015,Vigilante 8: 2nd Offense,PS,1999.0,Racing,Activision,0.27,0.18,0.0,0.03
+2016,Virtua Striker 2,DC,1999.0,Sports,Sega,0.0,0.0,0.32,0.0
+2017,WCW Backstage Assault,PS,1999.0,Action,Electronic Arts,0.12,0.08,0.0,0.01
+2018,WCW Mayhem,N64,1999.0,Fighting,Electronic Arts,0.63,0.15,0.0,0.01
+2019,WWF Attitude,N64,1999.0,Fighting,Acclaim Entertainment,0.57,0.13,0.0,0.01
+2020,WWF WrestleMania 2000,N64,1999.0,Fighting,THQ,1.2,0.25,0.02,0.02
+2021,Warzone 2100,PS,1999.0,Strategy,Eidos Interactive,2.79,1.89,0.0,0.33
+2022,Who wants to be a millionaire,PC,1999.0,Misc,Disney Interactive Studios,1.94,0.0,0.0,0.0
+2023,Wild ARMs 2,PS,1999.0,Role-Playing,Sony Computer Entertainment,0.19,0.13,0.31,0.04
+2024,WinBack: Covert Operations,N64,1999.0,Shooter,Virgin Interactive,0.17,0.04,0.0,0.0
+2025,Winning Post 4,PS,1999.0,Sports,Tecmo Koei,0.0,0.0,0.14,0.01
+2026,WipEout 3,PS,1999.0,Racing,Psygnosis,0.19,0.13,0.0,0.02
+2027,Woody Woodpecker Racing,PS,1999.0,Racing,Konami Digital Entertainment,0.06,0.04,0.0,0.01
+2028,World Driver Championship,N64,1999.0,Racing,Midway Games,0.14,0.03,0.0,0.0
+2029,World Stadium 3,PS,1999.0,Sports,Namco Bandai Games,0.0,0.0,0.31,0.02
+2030,World of Dragon Warrior - Torneko: The Last Hope,PS,1999.0,Role-Playing,Enix Corporation,0.02,0.01,0.58,0.04
+2031,Worms Armageddon,PS,1999.0,Strategy,Microprose,0.18,0.81,0.0,0.08
+2032,Worms Armageddon,N64,1999.0,Strategy,Infogrames,0.03,0.01,0.0,0.0
+2033,Xena: Warrior Princess - The Talisman of Fate,N64,1999.0,Fighting,Titus,0.23,0.06,0.0,0.0
+2034,You Don't Know Jack,PS,1999.0,Misc,Vivendi Games,0.22,0.15,0.0,0.03
+2035,Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories,GB,1999.0,Strategy,Konami Digital Entertainment,0.0,0.0,1.1,0.0
+2036,Yu-Gi-Oh! Forbidden Memories,PS,1999.0,Role-Playing,Konami Digital Entertainment,1.37,0.44,0.0,0.08
+2037,Yu-Gi-Oh! Forbidden Memories (JP sales),PS,1999.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.45,0.03
+2038,Zen-Nippon Pro Wrestling: Ouja no Kon,PS,1999.0,Fighting,Human Entertainment,0.0,0.0,0.12,0.01
